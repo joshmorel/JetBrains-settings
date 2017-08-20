@@ -1,8 +1,9 @@
-import React, {PropTypes} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import {connect} from 'react-redux';
 import {bindActionCreators} from 'redux';
 
-class ${NAME} extends React.Component {
+class ${NAME} extends Component {
     constructor(props, context) {
         super(props, context);
     }
@@ -29,4 +30,7 @@ function mapDispatchToProps(dispatch) {
     };
 }
 
-export default connect(mapStateToProps, MapDispatchToProps)(${NAME});
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(${NAME});
