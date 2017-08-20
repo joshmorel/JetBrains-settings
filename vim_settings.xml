@@ -93,11 +93,11 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Navbar/Navbar.js" timestamp="1503258988597">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Navbar/Navbar.js" timestamp="1503259847778">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/node-receive-post/package.json" timestamp="1499749234419">
         <mark key="[" line="22" column="0" />
@@ -163,6 +163,12 @@
         <mark key="]" line="12" column="54" />
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/NavbarItem/NavbarItem.js" timestamp="1503259716124">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-promise/app.js" timestamp="1498433421779">
         <mark key="[" line="21" column="38" />
@@ -1792,44 +1798,44 @@
       <jump line="14" column="30" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Footer/Footer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL0hlYWRlci9IZWFkZXInOwo=</text>
+      <register name="&quot;" type="4">
+        <text>rightLinks</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>rightLinks</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtyZW5kZXJMaW5rcyhsZWZ0TGlua3MpfQo=</text>
+        <text encoding="base64">TmF2YmFySXRlbS5wcm9wVHlwZXMgPSB7CiAgICAgIGhyZWY6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL0hlYWRlci9IZWFkZXInOwo=</text>
+        <text encoding="base64">ICAgIH0pKS5pc1JlcXVpcmVkLAogIGxlZnRMaW5rczogUHJvcFR5cGVzLmFycmF5T2YoUHJvcFR5cGVzLnNoYXBlKAogICAgewogICAgICBocmVmOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgICAgIGNvbnRlbnQ6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZAogICAgfSkpLAogIHJpZ2h0TGlua3M6IFByb3BUeXBlcy5hcnJheU9mKFByb3BUeXBlcy5zaGFwZSgKICAgIHsKICAgICAgaHJlZjogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAogICAgICBjb250ZW50OiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQKICAgIH0pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJidWxtYSI6ICJeLjUuMSIsCg==</text>
+        <text encoding="base64">ICBicmFuZExpbmtzOiBQcm9wVHlwZXMuYXJyYXlPZihQcm9wVHlwZXMuc2hhcGUoCiAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBpZD0ibmF2TWVudWJkLWV4YW1wbGUiIGNsYXNzTmFtZT0ibmF2YmFyLW1lbnUiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJuYXZiYXItc3RhcnQiPgogICAgICAgICAge3JlbmRlckxpbmtzKGxlZnRMaW5rcyl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1lbmQiPgogICAgICAgICAge3JlbmRlckxpbmtzKHJpZ2h0TGlua3MpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7cmVuZGVyTGlua3MoYnJhbmRMaW5rcyl9CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1idXJnZXIiPgogICAgICAgICAgPHNwYW4vPgogICAgICAgICAgPHNwYW4vPgogICAgICAgICAgPHNwYW4vPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgey8qbmF2YmFyLWJyYW5kIGlzIGFsd2F5cyBkaXNwbGF5ZWQqL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEhlYWRlcj4KICAgICAgICAgICAgICA8TGluayB0bz0iLyI+SG9tZTwvTGluaz4KICAgICAgICAgICAgICA8TGluayB0bz0iL2V2ZW50cyI+RXZlbnRzPC9MaW5rPgogICAgICAgICAgICAgIDxMaW5rIHRvPSIvcGFnZXMvYWJvdXQiPkFib3V0PC9MaW5rPgogICAgICAgICAgICA8L0hlYWRlcj4K</text>
+        <text encoding="base64">ICAgIDxuYXYgY2xhc3NOYW1lPSJuYXZiYXIiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBicmFuZExpbmtzID0gWwogICAgCiAgXQogIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCByZW5kZXJCcmFuZExpbmtzID0gYnJhbmRMaW5rcy5tYXAobGluayA9PiB7CiAgICByZXR1cm4gPExpbmsgY2xhc3NOYW1lPSJuYXZiYXItaXRlbSIgdG89e2xpbmsuaHJlZn0+e2xpbmsuY29udGVudH08L0xpbms+OwogIH0pOwoKICBjb25zdCByZW5kZXJMZWZ0TGlua3MgPSBicmFuZExpbmtzLm1hcChsaW5rID0+IHsKICAgIHJldHVybiA8TGluayBjbGFzc05hbWU9Im5hdmJhci1pdGVtIiB0bz17bGluay5ocmVmfT57bGluay5jb250ZW50fTwvTGluaz47CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZW5kZXJMaW5rcyA9IChsaW5rcykgPT4gewogICAgaWYgKCFsaW5rcykgewogICAgICByZXR1cm4gbnVsbDsKICAgIH0KICAgIHJldHVybiBsaW5rcy5tYXAobGluayA9PiB7CiAgICAgIHJldHVybiA8TGluayBjbGFzc05hbWU9Im5hdmJhci1pdGVtIiB0bz17bGluay5ocmVmfT57bGluay5jb250ZW50fTwvTGluaz47CiAgICB9KTsKICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/className/g</text>
