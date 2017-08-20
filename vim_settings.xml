@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/edu-repos/wesbos/es6/style.css" timestamp="1499557833566">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/git/fcc-repos/twitch-tv/play.html" timestamp="1500745403021">
         <mark key="[" line="38" column="17" />
         <mark key="]" line="43" column="37" />
@@ -19,11 +14,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1502275804666">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/git/my-bootstrap/webpack.config.dev.js" timestamp="1497584887411">
         <mark key="[" line="19" column="22" />
@@ -109,26 +99,11 @@
         <mark key="^" line="20" column="54" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/js-sinon/ajax-example.js" timestamp="1500734005712">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/JavaScript30/02 - JS and CSS Clock/index-START.html" timestamp="1497814395518">
         <mark key="[" line="111" column="33" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
         <mark key="^" line="129" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/js-sinon/mock-store.js" timestamp="1500681262486">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="55" />
-        <mark key="." line="18" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/request/test.js" timestamp="1500043366476">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="26" column="41" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/GitHub-tips/README.md" timestamp="1500502663649">
         <mark key="[" line="16" column="65" />
@@ -256,6 +231,12 @@
         <mark key="^" line="61" column="14" />
         <mark key="." line="61" column="14" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/reducers/index.js" timestamp="1503245783746">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/routes.js" timestamp="1497586723687">
         <mark key="[" line="6" column="68" />
         <mark key="]" line="8" column="48" />
@@ -291,11 +272,6 @@
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/types.js" timestamp="1502274597433">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/components/Header.js" timestamp="1501326962120">
         <mark key="[" line="4" column="0" />
@@ -363,11 +339,6 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/github-api/secrets/secrets.json" timestamp="1499920440068">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/github-api/README.md" timestamp="1499755504188">
         <mark key="[" line="121" column="46" />
         <mark key="]" line="121" column="0" />
@@ -391,11 +362,6 @@
         <mark key="]" line="54" column="40" />
         <mark key="^" line="54" column="40" />
         <mark key="." line="54" column="40" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1502352253678">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/styles/slide.css" timestamp="1497746338841">
         <mark key="[" line="17" column="40" />
@@ -432,11 +398,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/js-sinon/stubs-jquery-ajax.js" timestamp="1500733067743">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/game/Answer.js" timestamp="1497559995661">
         <mark key="[" line="8" column="74" />
@@ -547,11 +508,6 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.css" timestamp="1501583349715">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/weatherComponent.js" timestamp="1502275837210">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="11" column="48" />
@@ -570,11 +526,6 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/alt.js" timestamp="1501325714919">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/emaily/config/keys.js" timestamp="1501348366019">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -586,11 +537,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/node-receive-post/app.js" timestamp="1499748511615">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/react-router4-docs/src/components/ListItemLink.js" timestamp="1501354732812">
         <mark key="[" line="2" column="15" />
@@ -640,11 +586,6 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/emaily-client/.env.production" timestamp="1501676430320">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/react-router4-docs/src/components/Footer.js" timestamp="1501369821671">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -669,11 +610,6 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/todos.js" timestamp="1502359806612">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/index.js" timestamp="1497398235214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="2" />
@@ -685,11 +621,6 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/actions/DataActions.js" timestamp="1501588101573">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/react-router4-docs/src/App.js" timestamp="1501369258486">
         <mark key="[" line="3" column="30" />
@@ -721,7 +652,7 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/SurveyNew.js" timestamp="1503244704173">
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/SurveyNew.js" timestamp="1503245389409">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
@@ -757,11 +688,6 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.es6" timestamp="1500057682027">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/weatherActions.js" timestamp="1502357241578">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="47" />
@@ -787,11 +713,6 @@
         <mark key="." line="20" column="2" />
         <mark key="^" line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/github-api/package.json" timestamp="1499921496273">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/promise-better.js" timestamp="1500678981362">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="32" />
@@ -803,16 +724,6 @@
         <mark key="]" line="12" column="185" />
         <mark key="." line="12" column="185" />
         <mark key="^" line="12" column="185" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1500042565347">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/index.js" timestamp="1502236778629">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-router-v4/src/components/roster/Roster.js" timestamp="1497593923756">
         <mark key="[" line="5" column="7" />
@@ -868,26 +779,11 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/emaily-client/src/components/Landing.js" timestamp="1501541349812">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/react-portfolio/src/components/Carousel.css" timestamp="1500228150438">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/git/my-bootstrap/src/components/Header.js" timestamp="1497597880644">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="39" />
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="51" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/weatherReducer.js" timestamp="1502192260398">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/package.json" timestamp="1497663505141">
         <mark key="[" line="15" column="33" />
@@ -906,11 +802,6 @@
         <mark key="]" line="28" column="39" />
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/Page/Page.js" timestamp="1502234306845">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/CourseForm.Enzyme.test.js" timestamp="1496876504710">
         <mark key="[" line="34" column="3" />
@@ -942,11 +833,6 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/react-router4-docs/src/components/Home.js" timestamp="1501369925805">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/src/index.js" timestamp="1501676521249">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="50" />
@@ -958,11 +844,6 @@
         <mark key="]" line="64" column="22" />
         <mark key="." line="64" column="22" />
         <mark key="^" line="64" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/flux/stores/DataStore.js" timestamp="1501155958949">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/twitch-tv/fake.html" timestamp="1500818486376">
         <mark key="[" line="22" column="96" />
@@ -1054,11 +935,6 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/react-router4-docs/src/components/NoMatch.js" timestamp="1501367366452">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/git/server/plugins/core/init.js" timestamp="1500057842455">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="25" />
@@ -1106,16 +982,6 @@
         <mark key="]" line="8" column="15" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/server-api-test/test.js" timestamp="1500236776397">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/js-sinon/promise-rejected.js" timestamp="1500678711743">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/ilios-client/src/components/App.js" timestamp="1501590124716">
         <mark key="[" line="25" column="23" />
@@ -1412,11 +1278,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/es6.io/02 - Arrow functions/exercises/Exercise 1.html" timestamp="1500216811193">
-        <mark key="[" line="62" column="5" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/index.js" timestamp="1501352143981">
         <mark key="[" line="59" column="9" />
         <mark key="]" line="30" column="9" />
@@ -1621,11 +1482,6 @@
         <mark key="." line="94" column="4" />
         <mark key="^" line="94" column="4" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/weather.js" timestamp="1502355855065">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/js-ydk-2-scope/scope.md" timestamp="1498317659638">
         <mark key="[" line="2" column="129" />
         <mark key="]" line="2" column="10" />
@@ -1685,11 +1541,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/js-sinon/manual-stub.js" timestamp="1500677962288">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-router-v4/src/index.html" timestamp="1497589365163">
         <mark key="[" line="5" column="9" />
@@ -1774,11 +1625,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/emaily/services/passport.js" timestamp="1501431859270">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
