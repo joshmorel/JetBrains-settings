@@ -456,6 +456,13 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" timestamp="1503244233524">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/store/configureStore.js" timestamp="1496594600463">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="4" />
@@ -627,6 +634,12 @@
         <mark key="^" line="20" column="48" />
         <mark key="." line="20" column="48" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/SurveyForm.js" timestamp="1503244736213">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/.env.production" timestamp="1501676430320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
@@ -707,6 +720,12 @@
         <mark key="]" line="25" column="17" />
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/SurveyNew.js" timestamp="1503244704173">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/react-portfolio/src/App.js" timestamp="1500227552756">
         <mark key="[" line="33" column="0" />
@@ -962,6 +981,12 @@
         <mark key="]" line="64" column="4" />
         <mark key="." line="64" column="4" />
         <mark key="^" line="64" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/public/index.html" timestamp="1503243987043">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="90" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/challenges-react-starter-kit/components/App.js" timestamp="1496613425096">
         <mark key="[" line="7" column="9" />
@@ -1381,6 +1406,12 @@
         <mark key="^" line="74" column="47" />
         <mark key="." line="74" column="47" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/SurveyField.js" timestamp="1503244652863">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/es6.io/02 - Arrow functions/exercises/Exercise 1.html" timestamp="1500216811193">
         <mark key="[" line="62" column="5" />
         <mark key="]" line="62" column="0" />
@@ -1403,6 +1434,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/App.js" timestamp="1503244528833">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/wikipedia-viewer/README.md" timestamp="1499629185618">
         <mark key="[" line="12" column="3" />
@@ -1451,6 +1488,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/SurveyFormReview.js" timestamp="1503244622359">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/react-quote-machine/src/components/quoteCard/ShareButtons.js" timestamp="1497801212476">
         <mark key="[" line="5" column="11" />
@@ -1739,7 +1782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="8" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="304" column="34" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="305" column="19" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="311" column="16" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
@@ -1839,63 +1881,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/index.js" />
       <jump line="11" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="1" column="10" filename="$USER_HOME$/git/edu-repos/emaily/routes/surveyRoutes.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>billing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBtYXBEaXNwYXRjaFRvUHJvcHMK</text>
       </register>
       <register name="-" type="4">
-        <text>billing</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
-        <text>Login</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSgnLi9yb3V0ZXMvYmlsbGluZ1JvdXRlcycpKGFwcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBubzogQm9vbGVhbgo=</text>
+        <text encoding="base64">ICBtYXBEaXNwYXRjaFRvUHJvcHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQgc3VydmV5U2NoZW1hOwo=</text>
+        <text encoding="base64">ICBtYXBTdGF0ZVRvUHJvcHMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U3VydmV5RmllbGQucHJvcFR5cGVzID0gewogIC8vc29tZVByb3A6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwKfTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgcGF0aC5yZXNvbHZlICR7cGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2NsaWVudCcsICdidWlsZCcsICdpbmRleC5odG1sJyl9YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLi4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgcGF0aC5yZXNvbHZlICR7cGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2NsaWVudCcsICdidWlsZCcsICdpbmRleC5odG1sJyl9YCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcHAudXNlKGV4cHJlc3Muc3RhdGljKCdjbGllbnQvYnVpbGQnKSk7Cg==</text>
+        <text encoding="base64">ClN1cnZleUZvcm0ucHJvcFR5cGVzID0gewogIC8vc29tZVByb3A6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwKfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYFByb2Nlc3MgZW52IGlzICR7cHJvY2Vzcy5lbnZ9YCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgcGF0aC5yZXNvbHZlICR7cGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2NsaWVudCcsICdidWlsZCcsICdpbmRleC5odG1sJyl9YCk7Cg==</text>
+        <text encoding="base64">U3VydmV5Rm9ybVJldmlldy5wcm9wVHlwZXMgPSB7CiAgLy9zb21lUHJvcDogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAp9Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/Login/Credits/g</text>
+        <text>%s/class/className/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Login</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>Login</last-pattern>
-      <last-replace>Credits</last-replace>
-      <last-substitute>Login</last-substitute>
+      <last-pattern>class</last-pattern>
+      <last-replace>className</last-replace>
+      <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>text-d</entry>
         <entry>channels</entry>
         <entry>event</entry>
         <entry>Event</entry>
@@ -1915,9 +1957,9 @@
         <entry>&quot;react&quot;</entry>
         <entry encoding="base64">PA==</entry>
         <entry>Login</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>reg b</entry>
         <entry>s/data/location/g</entry>
         <entry>dddd</entry>
@@ -1937,6 +1979,7 @@
         <entry>%s/} from / = /g</entry>
         <entry>x</entry>
         <entry>s/Login/Credits/g</entry>
+        <entry>%s/class/className/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
