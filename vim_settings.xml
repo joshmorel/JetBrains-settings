@@ -93,7 +93,7 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Navbar/Navbar.js" timestamp="1503259847778">
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Navbar/Navbar.js" timestamp="1503261230915">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="27" />
@@ -980,6 +980,12 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" timestamp="1503262222388">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+      </file>
       <file name="$USER_HOME$/git/server/plugins/core/init.js" timestamp="1500057842455">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="25" />
@@ -1003,6 +1009,12 @@
         <mark key="]" line="12" column="2" />
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/index.js" timestamp="1503260212143">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/styles/styles.css" timestamp="1497542729819">
         <mark key="[" line="18" column="22" />
@@ -1117,6 +1129,13 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" timestamp="1503262262611">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/wikipedia-viewer/app.js" timestamp="1500590867860">
         <mark key="[" line="51" column="0" />
@@ -1466,6 +1485,12 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/containers/App.js" timestamp="1503261887290">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/git/JavaScript30/06 - Type Ahead/index-START.html" timestamp="1497883544003">
         <mark key="[" line="45" column="25" />
         <mark key="]" line="45" column="27" />
@@ -1696,8 +1721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="19" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
-      <jump line="311" column="16" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="313" column="12" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="314" column="12" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="315" column="12" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
@@ -1796,55 +1819,57 @@
       <jump line="1" column="10" filename="$USER_HOME$/git/edu-repos/emaily/routes/surveyRoutes.js" />
       <jump line="6" column="15" filename="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" />
       <jump line="14" column="30" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Footer/Footer.js" />
+      <jump line="224" column="9" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" />
+      <jump line="15" column="14" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rightLinks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCByZW5kZXJOYXZiYXJCcmFuZCA9ICgpID0+IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>rightLinks</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TmF2YmFySXRlbS5wcm9wVHlwZXMgPSB7CiAgICAgIGhyZWY6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIGV4YWN0IHBhdGg9Ii9hYm91dCIgY29tcG9uZW50PXtBYm91dH0vPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pKS5pc1JlcXVpcmVkLAogIGxlZnRMaW5rczogUHJvcFR5cGVzLmFycmF5T2YoUHJvcFR5cGVzLnNoYXBlKAogICAgewogICAgICBocmVmOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgICAgIGNvbnRlbnQ6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZAogICAgfSkpLAogIHJpZ2h0TGlua3M6IFByb3BUeXBlcy5hcnJheU9mKFByb3BUeXBlcy5zaGFwZSgKICAgIHsKICAgICAgaHJlZjogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAogICAgICBjb250ZW50OiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQKICAgIH0pKQo=</text>
+        <text encoding="base64">ICBjb25zdCByZW5kZXJOYXZiYXJCcmFuZCA9ICgpID0+IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBicmFuZExpbmtzOiBQcm9wVHlwZXMuYXJyYXlPZihQcm9wVHlwZXMuc2hhcGUoCiAgICB7Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRhdGFTb2NpYWxOZXR3b3JrPSJUd2l0dGVyIgogICAgICAgICAgICAgICAgICAgZGF0YS1zb2NpYWwtYWN0aW9uPSJ0d2VldCIKICAgICAgICAgICAgICAgICAgIGRhdGEtc29jaWFsLXRhcmdldD0iaHR0cDovL2J1bG1hLmlvIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBpZD0ibmF2TWVudWJkLWV4YW1wbGUiIGNsYXNzTmFtZT0ibmF2YmFyLW1lbnUiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJuYXZiYXItc3RhcnQiPgogICAgICAgICAge3JlbmRlckxpbmtzKGxlZnRMaW5rcyl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1lbmQiPgogICAgICAgICAge3JlbmRlckxpbmtzKHJpZ2h0TGlua3MpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVsbWEgUGxheSEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7cmVuZGVyTGlua3MoYnJhbmRMaW5rcyl9CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1idXJnZXIiPgogICAgICAgICAgPHNwYW4vPgogICAgICAgICAgPHNwYW4vPgogICAgICAgICAgPHNwYW4vPgogICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgey8qbmF2YmFyLWJyYW5kIGlzIGFsd2F5cyBkaXNwbGF5ZWQqL30K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxuYXYgY2xhc3NOYW1lPSJuYXZiYXIiPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXR1cm4gKAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9Owo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCByZW5kZXJMaW5rcyA9IChsaW5rcykgPT4gewogICAgaWYgKCFsaW5rcykgewogICAgICByZXR1cm4gbnVsbDsKICAgIH0KICAgIHJldHVybiBsaW5rcy5tYXAobGluayA9PiB7CiAgICAgIHJldHVybiA8TGluayBjbGFzc05hbWU9Im5hdmJhci1pdGVtIiB0bz17bGluay5ocmVmfT57bGluay5jb250ZW50fTwvTGluaz47CiAgICB9KTsKICB9Owo=</text>
+        <text encoding="base64">ICAgICk7CiAgfTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/class/className/g</text>
+        <text encoding="base64">JzwsJz5zL2NsYXNzL2NsYXNzTmFtZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>className</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -1852,7 +1877,6 @@
     </search>
     <history>
       <history-search>
-        <entry>channels</entry>
         <entry>event</entry>
         <entry>Event</entry>
         <entry>asd</entry>
@@ -1872,9 +1896,9 @@
         <entry encoding="base64">PA==</entry>
         <entry>Login</entry>
         <entry>class</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
-        <entry>reg b</entry>
         <entry>s/data/location/g</entry>
         <entry>dddd</entry>
         <entry encoding="base64">JzwsJz5zL2gxL2gyL2c=</entry>
@@ -1894,6 +1918,7 @@
         <entry>x</entry>
         <entry>s/Login/Credits/g</entry>
         <entry>%s/class/className/g</entry>
+        <entry encoding="base64">JzwsJz5zL2NsYXNzL2NsYXNzTmFtZS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
