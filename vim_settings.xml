@@ -93,11 +93,22 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Navbar/Navbar.js" timestamp="1503258988597">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/node-receive-post/package.json" timestamp="1499749234419">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="20" column="54" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/index.css" timestamp="1503256460075">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/JavaScript30/02 - JS and CSS Clock/index-START.html" timestamp="1497814395518">
         <mark key="[" line="111" column="33" />
@@ -363,6 +374,12 @@
         <mark key="^" line="54" column="40" />
         <mark key="." line="54" column="40" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/App.js" timestamp="1503259059053">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/styles/slide.css" timestamp="1497746338841">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="39" />
@@ -399,6 +416,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Header/Header.js" timestamp="1503256330729">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/game/Answer.js" timestamp="1497559995661">
         <mark key="[" line="8" column="74" />
         <mark key="]" line="8" column="75" />
@@ -416,13 +439,6 @@
         <mark key="]" line="4" column="12" />
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" timestamp="1503244233524">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/store/configureStore.js" timestamp="1496594600463">
         <mark key="[" line="0" column="0" />
@@ -496,6 +512,12 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/index.js" timestamp="1503254580428">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/slide-styles.js" timestamp="1497744051629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -531,6 +553,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Footer/Footer.js" timestamp="1503257428581">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503251391830">
         <mark key="[" line="48" column="20" />
@@ -591,6 +619,12 @@
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Header/Header.css" timestamp="1503253954445">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/react-router4-docs/src/components/Footer.js" timestamp="1501369821671">
         <mark key="[" line="9" column="0" />
@@ -712,13 +746,6 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/emaily/routes/surveyRoutes.js" timestamp="1502451042955">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="20" column="2" />
-        <mark key="." line="20" column="2" />
-        <mark key="^" line="20" column="2" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/promise-better.js" timestamp="1500678981362">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="32" />
@@ -731,7 +758,12 @@
         <mark key="." line="12" column="185" />
         <mark key="^" line="12" column="185" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/index.js" timestamp="1503252278156" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/index.js" timestamp="1503257561265">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-router-v4/src/components/roster/Roster.js" timestamp="1497593923756">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="7" column="11" />
@@ -1097,13 +1129,6 @@
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/index.js" timestamp="1502316454218">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/github-api/example.js" timestamp="1500047673754">
         <mark key="[" line="36" column="57" />
@@ -1495,6 +1520,12 @@
         <mark key="." line="94" column="4" />
         <mark key="^" line="94" column="4" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Body/Body.js" timestamp="1503256094673">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-ydk-2-scope/scope.md" timestamp="1498317659638">
         <mark key="[" line="2" column="129" />
         <mark key="]" line="2" column="10" />
@@ -1542,6 +1573,12 @@
         <mark key="]" line="18" column="176" />
         <mark key="^" line="18" column="176" />
         <mark key="." line="18" column="176" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/package.json" timestamp="1503258919895">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/challenges-react-starter-kit/src/index.js" timestamp="1496618008632">
         <mark key="[" line="12" column="3" />
@@ -1615,6 +1652,12 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/.env.development" timestamp="1503254329553">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-async/index.html" timestamp="1501430329419">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="7" column="18" />
@@ -1647,7 +1690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="34" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="305" column="19" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="311" column="16" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="313" column="12" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
@@ -1747,46 +1789,47 @@
       <jump line="11" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="1" column="10" filename="$USER_HOME$/git/edu-repos/emaily/routes/surveyRoutes.js" />
       <jump line="6" column="15" filename="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" />
+      <jump line="14" column="30" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Footer/Footer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXRhKTsK</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL0hlYWRlci9IZWFkZXInOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7bGFiZWw6ICJTdXJ2ZXkgVGl0bGUiLCBuYW1lOiAidGl0bGUifSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHtyZW5kZXJMaW5rcyhsZWZ0TGlua3MpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXRhKTsK</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL0hlYWRlci9IZWFkZXInOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAge21ldGEudG91Y2hlZCA/IG1ldGEuZXJyb3IgOiBudWxsfQo=</text>
+        <text encoding="base64">ICAgICJidWxtYSI6ICJeLjUuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWx1ZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjxGaWVsZCB0eXBlPSJ0ZXh0IiBuYW1lPSJzdXJ2ZXlUaXRsZSIgY29tcG9uZW50PSJpbnB1dCIvPiovfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8RmllbGQgbGFiZWw9IlN1cnZleSBUaXRsZSIgdHlwZT0idGV4dCIgbmFtZT0idGl0bGUiIGNvbXBvbmVudD17U3VydmV5RmllbGR9Lz4KICAgICAgICA8RmllbGQgbGFiZWw9IlN1YmplY3QgTGluZSIgdHlwZT0idGV4dCIgbmFtZT0ic3ViamVjdCIgY29tcG9uZW50PXtTdXJ2ZXlGaWVsZH0vPgogICAgICAgIDxGaWVsZCBsYWJlbD0iRW1haWwgQm9keSIgdHlwZT0idGV4dCIgbmFtZT0iYm9keSIgY29tcG9uZW50PXtTdXJ2ZXlGaWVsZH0vPgogICAgICAgIDxGaWVsZCBsYWJlbD0iUmVjaXBpZW50IExpc3QiIHR5cGU9InRleHQiIG5hbWU9ImVtYWlscyIgY29tcG9uZW50PXtTdXJ2ZXlGaWVsZH0vPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEhlYWRlcj4KICAgICAgICAgICAgICA8TGluayB0bz0iLyI+SG9tZTwvTGluaz4KICAgICAgICAgICAgICA8TGluayB0bz0iL2V2ZW50cyI+RXZlbnRzPC9MaW5rPgogICAgICAgICAgICAgIDxMaW5rIHRvPSIvcGFnZXMvYWJvdXQiPkFib3V0PC9MaW5rPgogICAgICAgICAgICA8L0hlYWRlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7fSwK</text>
+        <text encoding="base64">ICBjb25zdCBicmFuZExpbmtzID0gWwogICAgCiAgXQogIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7fSwK</text>
+        <text encoding="base64">ICBjb25zdCByZW5kZXJCcmFuZExpbmtzID0gYnJhbmRMaW5rcy5tYXAobGluayA9PiB7CiAgICByZXR1cm4gPExpbmsgY2xhc3NOYW1lPSJuYXZiYXItaXRlbSIgdG89e2xpbmsuaHJlZn0+e2xpbmsuY29udGVudH08L0xpbms+OwogIH0pOwoKICBjb25zdCByZW5kZXJMZWZ0TGlua3MgPSBicmFuZExpbmtzLm1hcChsaW5rID0+IHsKICAgIHJldHVybiA8TGluayBjbGFzc05hbWU9Im5hdmJhci1pdGVtIiB0bz17bGluay5ocmVmfT57bGluay5jb250ZW50fTwvTGluaz47CiAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/className/g</text>
