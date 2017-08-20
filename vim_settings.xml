@@ -532,11 +532,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503246292759">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503247078502">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/git/my-bootstrap/README.md" timestamp="1497599164653">
         <mark key="[" line="7" column="42" />
@@ -1737,7 +1737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXBEaXNwYXRjaFRvUHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICA8U3VydmV5RmllbGQvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>props</text>
@@ -1749,31 +1749,31 @@
         <text encoding="base64">cmVxdWlyZSgnLi9yb3V0ZXMvYmlsbGluZ1JvdXRlcycpKGFwcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXBEaXNwYXRjaFRvUHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICA8U3VydmV5RmllbGQvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXBTdGF0ZVRvUHJvcHMsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U3VydmV5RmllbGQucHJvcFR5cGVzID0gewogIC8vc29tZVByb3A6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwKfTsKCg==</text>
+        <text encoding="base64">ICBtYXBEaXNwYXRjaFRvUHJvcHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLi4uCg==</text>
+        <text encoding="base64">ICBtYXBTdGF0ZVRvUHJvcHMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">U3VydmV5RmllbGQucHJvcFR5cGVzID0gewogIC8vc29tZVByb3A6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwKfTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ClN1cnZleUZvcm0ucHJvcFR5cGVzID0gewogIC8vc29tZVByb3A6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwKfTsK</text>
+        <text encoding="base64">ICAgICAgLi4uCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClN1cnZleUZvcm0ucHJvcFR5cGVzID0gewogIC8vc29tZVByb3A6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwKfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U3VydmV5Rm9ybVJldmlldy5wcm9wVHlwZXMgPSB7CiAgLy9zb21lUHJvcDogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAp9Owo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/className/g</text>
