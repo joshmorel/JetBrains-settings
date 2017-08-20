@@ -986,11 +986,11 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" timestamp="1503263148919">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="40" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="24" column="73" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" timestamp="1503263810794">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/git/server/plugins/core/init.js" timestamp="1500057842455">
         <mark key="[" line="4" column="0" />
@@ -1016,11 +1016,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/index.js" timestamp="1503260212143">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/index.js" timestamp="1503263939198">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/styles/styles.css" timestamp="1497542729819">
         <mark key="[" line="18" column="22" />
@@ -1136,11 +1136,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" timestamp="1503263558749">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" timestamp="1503263833808">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/wikipedia-viewer/app.js" timestamp="1500590867860">
         <mark key="[" line="51" column="0" />
@@ -1848,10 +1848,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
