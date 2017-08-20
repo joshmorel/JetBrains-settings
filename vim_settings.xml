@@ -105,7 +105,11 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarEnd/NavbarEnd.js" timestamp="1503267702071" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarEnd/NavbarEnd.js" timestamp="1503272423772">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/node-receive-post/package.json" timestamp="1499749234419">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -315,12 +319,12 @@
         <mark key="^" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemAnchor/NavbarItemAnchor.js" timestamp="1503267791841">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemAnchor/NavbarItemAnchor.js" timestamp="1503271726912">
         <mark key="'" line="0" column="25" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="15" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="92" />
+        <mark key="." line="5" column="92" />
+        <mark key="^" line="5" column="92" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/twitch-tv/index.html" timestamp="1500821512854">
         <mark key="[" line="21" column="7" />
@@ -340,12 +344,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarDivider/NavbarItemDivider.js" timestamp="1503270163540">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarDivider/NavbarItemDivider.js" timestamp="1503271634137">
+        <mark key="'" line="2" column="17" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/server-api-test/random.html" timestamp="1500235425994">
         <mark key="[" line="8" column="7" />
@@ -612,7 +616,7 @@
         <mark key="." line="52" column="1" />
         <mark key="^" line="52" column="1" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" timestamp="1503270500654">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" timestamp="1503271841664">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="23" column="27" />
         <mark key="]" line="24" column="23" />
@@ -1059,12 +1063,12 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" timestamp="1503268426742">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" timestamp="1503271617755">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="51" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="8" column="22" />
+        <mark key="[" line="20" column="102" />
+        <mark key="]" line="20" column="119" />
+        <mark key="." line="20" column="119" />
+        <mark key="^" line="20" column="119" />
       </file>
       <file name="$USER_HOME$/git/server/plugins/core/init.js" timestamp="1500057842455">
         <mark key="[" line="4" column="0" />
@@ -1343,7 +1347,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/forked-repos/react-styleguidist/examples/basic/src/components/Button/index.js" timestamp="1503262303324" />
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/card/Card.js" timestamp="1497537861542">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1946,44 +1949,44 @@
       <jump line="4" column="17" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarDivider/NavbarItemDivider.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>has-dropdown</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPE5hdmJhckl0ZW1BbmNob3IgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCIgYnVsbWFDbGFzc01vZGlmaWVycz17WyJidXR0b24iLCJpcy1wcmltYXJ5Il19PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiI+CiAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLWRvd25sb2FkIi8+CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuPkRvd25sb2FkPC9zcGFuPgogICAgICA8L05hdmJhckl0ZW1BbmNob3I+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>has-dropdown</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>Link</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPE5hdmJhckl0ZW1BbmNob3IgaHJlZj0iaHR0cDovL2J1bG1hLmlvL2V4cG8vIj4KICAgICAgICA8c3BhbiByb2xlPSJpbWciIGNsYXNzTmFtZT0iYmQtZW1vamkiIGFyaWEtbGFiZWw9IkV4cG8iPvCfjqg8L3NwYW4+CiAgICAgICAgRXhwbwogICAgICA8L05hdmJhckl0ZW1BbmNob3I+Cg==</text>
+      <register name="0" type="4">
+        <text>https://github.com/jgthms/bulma/archive/0.5.1.zip</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXZiYXItaXRlbSAiIGhyZWY9Imh0dHA6Ly9idWxtYS5pby9sb3ZlLyI+CiAgICAgICAgPHNwYW4gcm9sZT0iaW1nIiBjbGFzc05hbWU9ImJkLWVtb2ppIiBhcmlhLWxhYmVsPSJMb3ZlIj7inaTvuI88L3NwYW4+CiAgICAgICAgTG92ZQogICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgPE5hdmJhckl0ZW1BbmNob3IgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCIgYnVsbWFDbGFzc01vZGlmaWVycz17WyJidXR0b24iLCJpcy1wcmltYXJ5Il19PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiI+CiAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLWRvd25sb2FkIi8+CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuPkRvd25sb2FkPC9zcGFuPgogICAgICA8L05hdmJhckl0ZW1BbmNob3I+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXZiYXItaXRlbSAiIGhyZWY9IiI+CiAgICAgICAgPHNwYW4gcm9sZT0iaW1nIiBjbGFzc05hbWU9ImJkLWVtb2ppIiBhcmlhLWxhYmVsPSJFeHBvIj7wn46oPC9zcGFuPgogICAgICAgIEV4cG8KICAgICAgPC9hPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1pdGVtIGhhcy1kcm9wZG93biBpcy1ob3ZlcmFibGUiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJuYXZiYXItbGluayI+CiAgICAgICAgICBNb3JlCiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBpZD0ibW9yZURyb3Bkb3duIiBjbGFzc05hbWU9Im5hdmJhci1kcm9wZG93biAiPgogICAgICAgICAgPGEgY2xhc3NOYW1lPSJuYXZiYXItaXRlbSAiIGhyZWY9Imh0dHA6Ly9idWxtYS5pby9leHRlbnNpb25zLyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZXZlbCBpcy1tb2JpbGUiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZXZlbC1sZWZ0Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZXZlbC1pdGVtIj4KICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz5FeHRlbnNpb25zPC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgICAgPGJyLz4KICAgICAgICAgICAgICAgICAgICA8c21hbGw+U2lkZSBwcm9qZWN0cyB0byBlbmhhbmNlIEJ1bG1hPC9zbWFsbD4KICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxldmVsLXJpZ2h0Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZXZlbC1pdGVtIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpY29uIGhhcy10ZXh0LWluZm8iPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzTmFtZT0iZmEgZmEtcGx1ZyIvPgogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICBjb25zdAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9hPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSJidXR0b24gaXMtcHJpbWFyeSIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCI+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1pdGVtIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1pdGVtIGhhcy1kcm9wZG93biBpcy1ob3ZlcmFibGUiPgogICAgICAgIDxhIGNsYXNzTmFtZT0ibmF2YmFyLWxpbmsgIiBocmVmPSJodHRwOi8vYnVsbWEuaW8vYmxvZy8iPgogICAgICAgICAgQmxvZwogICAgICAgIDwvYT4KICAgICAgICA8ZGl2IGlkPSJibG9nRHJvcGRvd24iIGNsYXNzTmFtZT0ibmF2YmFyLWRyb3Bkb3duICIgZGF0YS1zdHlsZT0id2lkdGg6IDE4cmVtOyI+CgogICAgICAgICAgPGEgY2xhc3NOYW1lPSJuYXZiYXItaXRlbSIgaHJlZj0iLyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJuYXZiYXItY29udGVudCI+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c21hbGwgY2xhc3NOYW1lPSJoYXMtdGV4dC1pbmZvIj4wMyBBdWcgMjAxNzwvc21hbGw+CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPk5ldyBmZWF0dXJlOiBsaXN0IG9mIHRhZ3M8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9hPgoKICAgICAgICAgIDxhIGNsYXNzTmFtZT0ibmF2YmFyLWl0ZW0iIGhyZWY9Ii8iPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibmF2YmFyLWNvbnRlbnQiPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzTmFtZT0iaGFzLXRleHQtaW5mbyI+MDEgQXVnIDIwMTc8L3NtYWxsPgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8cD5CdWxtYSAvIEJvb3RzdHJhcCBjb21wYXJpc29uPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvYT4KCiAgICAgICAgICA8YSBjbGFzc05hbWU9Im5hdmJhci1pdGVtIiBocmVmPSIvIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1jb250ZW50Ij4KICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzc05hbWU9Imhhcy10ZXh0LWluZm8iPjI0IEp1bCAyMDE3PC9zbWFsbD4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+QWNjZXNzIHByZXZpb3VzIEJ1bG1hIHZlcnNpb25zPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvYT4KCiAgICAgICAgICA8YSBjbGFzc05hbWU9Im5hdmJhci1pdGVtIiBocmVmPSJodHRwOi8vYnVsbWEuaW8vYmxvZy8iPgogICAgICAgICAgICBNb3JlIHBvc3RzCiAgICAgICAgICA8L2E+CiAgICAgICAgICA8aHIgY2xhc3NOYW1lPSJuYXZiYXItZGl2aWRlciIvPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1jb250ZW50Ij4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGV2ZWwgaXMtbW9iaWxlIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZXZlbC1sZWZ0Ij4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxldmVsLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+U3RheSB1cCB0byBkYXRlITwvc3Ryb25nPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxldmVsLXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxldmVsLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzTmFtZT0iYnV0dG9uIGJkLWlzLXJzcyBpcy1zbWFsbCIgaHJlZj0iaHR0cDovL2J1bG1hLmlvL2F0b20ueG1sIj4KICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiBpcy1zbWFsbCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzTmFtZT0iZmEgZmEtcnNzIi8+CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj5TdWJzY3JpYmU8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2YmFyRGl2aWRlci8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzTmFtZT0iY29udHJvbCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2YmFySXRlbUFuY2hvciBocmVmPSIiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJpcy1zaXplLTYtZGVza3RvcCI+CiAgICAgICAgICAgIDxzdHJvbmcgY2xhc3NOYW1lPSJoYXMtdGV4dC1pbmZvIj4wLjUuMTwvc3Ryb25nPgogICAgICAgICAgPC9wPgogICAgICAgICAgVmlldyBhbGwgdmVyc2lvbnMKICAgICAgICA8L05hdmJhckl0ZW1BbmNob3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmllbGQgaXMtZ3JvdXBlZCI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImNvbnRyb2wiPgogICAgICAgICAgICA8YSBjbGFzc05hbWU9ImJkLXR3LWJ1dHRvbiBidXR0b24iCiAgICAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P3RleHQ9QnVsbWE6IGEgbW9kZXJuIENTUyBmcmFtZXdvcmsgYmFzZWQgb24gRmxleGJveCZoYXNodGFncz1idWxtYWlvJnVybD1odHRwOi8vYnVsbWEuaW8mdmlhPWpndGhtcyI+CiAgPHNwYW4gY2xhc3NOYW1lPSJpY29uIj4KICAgIDxpIGNsYXNzTmFtZT0iZmEgZmEtdHdpdHRlciIvPgogIDwvc3Bhbj4KICAgICAgICAgICAgICA8c3Bhbj4KICAgIFR3ZWV0CiAgPC9zcGFuPgogICAgICAgICAgICA8L2E+CgogICAgICAgICAgPC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Link/Divider/g</text>
