@@ -295,11 +295,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" timestamp="1503318156042">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="38" column="51" />
-        <mark key="." line="38" column="51" />
-        <mark key="^" line="38" column="51" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" timestamp="1503320168056">
+        <mark key="[" line="17" column="144" />
+        <mark key="]" line="17" column="150" />
+        <mark key="." line="17" column="150" />
+        <mark key="^" line="17" column="150" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/package.json" timestamp="1502367232188">
         <mark key="[" line="11" column="4" />
@@ -349,6 +349,13 @@
         <mark key="]" line="5" column="92" />
         <mark key="." line="5" column="92" />
         <mark key="^" line="5" column="92" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Subtitle/Subtitle.js" timestamp="1503319251892">
+        <mark key="'" line="13" column="21" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/twitch-tv/index.html" timestamp="1500821512854">
         <mark key="[" line="21" column="7" />
@@ -598,11 +605,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/index.js" timestamp="1503254580428">
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="7" column="61" />
-        <mark key="^" line="7" column="61" />
-        <mark key="." line="7" column="61" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/index.js" timestamp="1503318798512">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/slide-styles.js" timestamp="1497744051629">
         <mark key="[" line="0" column="0" />
@@ -638,6 +645,9 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Title/Title.js" timestamp="1503319269834">
+        <mark key="[" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily/config/keys.js" timestamp="1501348366019">
         <mark key="[" line="5" column="0" />
@@ -874,6 +884,11 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Subtitle/index.js" timestamp="1503319393561">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItem/NavbarItem.js" timestamp="1503265325764">
         <mark key="[" line="8" column="56" />
@@ -1573,6 +1588,12 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/EventListItem.js" timestamp="1503320042121">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+      </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/NavbarItemLink/index.js" timestamp="1503316249666">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="40" />
@@ -1698,6 +1719,12 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="31" column="2" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Title/index.js" timestamp="1503319383747">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily/config/dev.js" timestamp="1501866528162">
         <mark key="[" line="5" column="8" />
@@ -1924,7 +1951,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="20" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="189" column="52" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="209" column="20" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="212" column="52" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
@@ -2024,63 +2050,63 @@
       <jump line="4" column="17" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarDivider/NavbarItemDivider.js" />
       <jump line="12" column="24" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" />
       <jump line="13" column="2" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" />
+      <jump line="15" column="21" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Subtitle/Subtitle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN1YnRpdGxlIGZyb20gJy4uL2NvbXBvbmVudHMvYnVsbWEvU3VidGl0bGUnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>NavbarMenu</text>
       </register>
       <register name="/" type="4">
-        <text>off-set</text>
+        <text>NavbarBurger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IENvbHVtbnMgZnJvbSAnLi4vY29tcG9uZW50cy9Db2x1bW5zJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN1YnRpdGxlIGZyb20gJy4uL2NvbXBvbmVudHMvYnVsbWEvU3VidGl0bGUnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJDb250ZW50KCl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbHVtbiBmcm9tICcuLi9jb21wb25lbnRzL2J1bG1hL0NvbHVtbic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzaXplOiBQcm9wVHlwZXMub25lT2YoWydpcy1vZmZzZXQtdGhyZWUtcXVhcnRlcnMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbHVtbiBrZXk9e2V2ZW50LmlkfT4KICAgICAgICAgICAgICA8VGl0bGUgc2l6ZT0iaXMtNSI+e2V2ZW50LnRpdGxlLnJlbmRlcmVkfTwvVGl0bGU+CiAgICAgICAgICAgICAgPFN1YnRpdGxlIHNpemU9ImlzLTYiPntldmVudC53aGVuX3N0YXJ0X2RhdGV9IEAge2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4KICAgICAgICAgICAgPC9Db2x1bW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IFByb3BUeXBlcwo=</text>
+        <text encoding="base64">PENvbHVtbiBrZXk9e2V2ZW50LmlkfT4KICA8VGl0bGUgc2l6ZT0iaXMtNSI+e2V2ZW50LnRpdGxlLnJlbmRlcmVkfTwvVGl0bGU+CiAgPFN1YnRpdGxlIHNpemU9ImlzLTYiPntldmVudC53aGVuX3N0YXJ0X2RhdGV9IEAge2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4KPC9Db2x1bW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5hdmJhciBicmFuZExpbmtzPXticmFuZExpbmtzfSBsZWZ0TGlua3M9e2xlZnRMaW5rc30vPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U3VidGl0bGUgc2l6ZT0iaXMtNiI+e2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdmJhciBmcm9tICcuLi9jb21wb25lbnRzL05hdmJhci9OYXZiYXInOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYnIKICB7aHJlZjogIi8iLCBjb250ZW50OiAiSG9tZSJ9Cl07Cgpjb25zdCBsZWZ0TGlua3MgPSBbCiAge2hyZWY6ICIvZXZlbnRzIiwgY29udGVudDogIkV2ZW50cyJ9LAogIHtocmVmOiAiL3BhZ2VzL2Fib3V0IiwgY29udGVudDogIkFib3V0In0KXTsKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">U3VidGl0bGUuZGVmYXVsdFByb3BzID0ge1YKICBzaXplOiAyCn07Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ck5hdmJhckl0ZW0uZGVmYXVsdFR5cGVzID0gewogIHR5cGU6ICJzdGFydCIKfTsK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05WYW1lPXtgbmF2YmFyLWJ1cmdlciBidXJnZXIgJHthY3RpdmUgPyAiaXMtYWN0aXZlIiA6ICIifWB9CiAgICAgICAgICAgb25DbGljaz17b25CdXJnZXJDbGlja30+CiAgICAgICAgPHNwYW4vPgogICAgICAgIDxzcGFuLz4KICAgICAgICA8c3Bhbi8+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/off-set/offset/g</text>
+        <text>%s/NavbarBurger/Subtitle/g</text>
       </register>
     </registers>
     <search>
-      <last-search>off-set</last-search>
+      <last-search>NavbarBurger</last-search>
       <last-offset />
-      <last-pattern>off-set</last-pattern>
-      <last-replace>offset</last-replace>
-      <last-substitute>off-set</last-substitute>
+      <last-pattern>NavbarBurger</last-pattern>
+      <last-replace>Subtitle</last-replace>
+      <last-substitute>NavbarBurger</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NewsFeed</entry>
         <entry>Manage</entry>
         <entry>ManageC</entry>
         <entry>Header</entry>
@@ -2100,9 +2126,9 @@
         <entry>offset</entry>
         <entry>--</entry>
         <entry>off-set</entry>
+        <entry>NavbarBurger</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>s/NewsFeed/About/g</entry>
         <entry>s/Header/Dashboard/g</entry>
         <entry>s/Header/SurveyNew/g</entry>
@@ -2122,6 +2148,7 @@
         <entry>s/offset//g</entry>
         <entry>s/--/-/g</entry>
         <entry>s/off-set/offset/g</entry>
+        <entry>%s/NavbarBurger/Subtitle/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
