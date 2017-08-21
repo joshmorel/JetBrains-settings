@@ -33,6 +33,12 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Columns/Columns.js" timestamp="1503317400373">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/heroku-example/package.json" timestamp="1499752461450">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="26" />
@@ -175,6 +181,12 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Columns/index.js" timestamp="1503317374762">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/git/ilios-client/src/actions/index.js" timestamp="1501588725700">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="12" column="54" />
@@ -282,6 +294,12 @@
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" timestamp="1503318156042">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="38" column="51" />
+        <mark key="." line="38" column="51" />
+        <mark key="^" line="38" column="51" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/package.json" timestamp="1502367232188">
         <mark key="[" line="11" column="4" />
@@ -591,6 +609,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="4" column="22" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Columns.js" timestamp="1503317420818">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/src/reducers/authReducer.js" timestamp="1501538847680">
         <mark key="[" line="4" column="0" />
@@ -978,6 +1001,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="15" column="20" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/index.js" timestamp="1503317416227">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/src/index.js" timestamp="1501676521249">
         <mark key="[" line="20" column="0" />
@@ -1798,6 +1826,13 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" timestamp="1503318184253">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/git/my-bootstrap/src/index.js" timestamp="1497596466801">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="21" />
@@ -1889,8 +1924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="10" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
-      <jump line="95" column="35" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="186" column="20" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="189" column="52" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="209" column="20" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
@@ -1989,65 +2022,64 @@
       <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemDropdown/NavbarItemDropdown.js" />
       <jump line="4" column="17" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarDivider/NavbarItemDivider.js" />
+      <jump line="12" column="24" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
-      </register>
-      <register name="-" type="4">
-        <text>=</text>
-      </register>
-      <register name="/" type="4">
-        <text>Link</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxOYXZiYXJJdGVtTGluayB0bz0iL2V2ZW50cyI+RXZlbnRzPC9OYXZiYXJJdGVtTGluaz4K</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5hdmJhciBicmFuZExpbmtzPXticmFuZExpbmtzfSBsZWZ0TGlua3M9e2xlZnRMaW5rc30vPgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdmJhciBmcm9tICcuLi9jb21wb25lbnRzL05hdmJhci9OYXZiYXInOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYnIKICB7aHJlZjogIi8iLCBjb250ZW50OiAiSG9tZSJ9Cl07Cgpjb25zdCBsZWZ0TGlua3MgPSBbCiAge2hyZWY6ICIvZXZlbnRzIiwgY29udGVudDogIkV2ZW50cyJ9LAogIHtocmVmOiAiL3BhZ2VzL2Fib3V0IiwgY29udGVudDogIkFib3V0In0KXTsKCg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>off-set</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IENvbHVtbnMgZnJvbSAnLi4vY29tcG9uZW50cy9Db2x1bW5zJzsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJDb250ZW50KCl9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzaXplOiBQcm9wVHlwZXMub25lT2YoWydpcy1vZmZzZXQtdGhyZWUtcXVhcnRlcnMnLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IFByb3BUeXBlcwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ck5hdmJhckl0ZW0uZGVmYXVsdFR5cGVzID0gewogIHR5cGU6ICJzdGFydCIKfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPE5hdmJhciBicmFuZExpbmtzPXticmFuZExpbmtzfSBsZWZ0TGlua3M9e2xlZnRMaW5rc30vPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAogICAgICB0eXBlOiBQcm9wVHlwZXMuc3RyaW5nLm9uZU9mKFsnYnJhbmQnLCdzdGFydCcsJ2VuZCddKQo=</text>
+        <text encoding="base64">aW1wb3J0IE5hdmJhciBmcm9tICcuLi9jb21wb25lbnRzL05hdmJhci9OYXZiYXInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPE5hdmJhckVuZC8+Cg==</text>
+        <text encoding="base64">Y29uc3QgYnIKICB7aHJlZjogIi8iLCBjb250ZW50OiAiSG9tZSJ9Cl07Cgpjb25zdCBsZWZ0TGlua3MgPSBbCiAge2hyZWY6ICIvZXZlbnRzIiwgY29udGVudDogIkV2ZW50cyJ9LAogIHtocmVmOiAiL3BhZ2VzL2Fib3V0IiwgY29udGVudDogIkFib3V0In0KXTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPE5hdmJhclN0YXJ0Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdmJhclN0YXJ0IGZyb20gJy4uL05hdmJhclN0YXJ0JzsKaW1wb3J0IE5hdmJhckVuZCBmcm9tICcuLi9OYXZiYXJFbmQnOwo=</text>
+        <text encoding="base64">Ck5hdmJhckl0ZW0uZGVmYXVsdFR5cGVzID0gewogIHR5cGU6ICJzdGFydCIKfTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Link/Divider/g</text>
+        <text>s/off-set/offset/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Link</last-search>
+      <last-search>off-set</last-search>
       <last-offset />
-      <last-pattern>Link</last-pattern>
-      <last-replace>Divider</last-replace>
-      <last-substitute>Link</last-substitute>
+      <last-pattern>off-set</last-pattern>
+      <last-replace>offset</last-replace>
+      <last-substitute>off-set</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
-        <entry>ownProps</entry>
-        <entry>mapStateToProps</entry>
         <entry>NewsFeed</entry>
         <entry>Manage</entry>
         <entry>ManageC</entry>
@@ -2065,11 +2097,11 @@
         <entry>Start</entry>
         <entry>Anchor</entry>
         <entry>Link</entry>
+        <entry>offset</entry>
+        <entry>--</entry>
+        <entry>off-set</entry>
       </history-search>
       <history-cmd>
-        <entry>s/User/Channel/g</entry>
-        <entry>s/Channel/Stream/g</entry>
-        <entry encoding="base64">JzwsJz5zL0luZm8vRGF0YS9n</entry>
         <entry>w</entry>
         <entry>s/NewsFeed/About/g</entry>
         <entry>s/Header/Dashboard/g</entry>
@@ -2087,6 +2119,9 @@
         <entry>s/Anchor/Link/g</entry>
         <entry>%s/Anchor/Dropdown/g</entry>
         <entry>%s/Link/Divider/g</entry>
+        <entry>s/offset//g</entry>
+        <entry>s/--/-/g</entry>
+        <entry>s/off-set/offset/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
