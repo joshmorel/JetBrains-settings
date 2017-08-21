@@ -661,11 +661,11 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503251391830">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="52" column="1" />
-        <mark key="." line="52" column="1" />
-        <mark key="^" line="52" column="1" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503354129480">
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+        <mark key="^" line="62" column="15" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" timestamp="1503271841664">
         <mark key="'" line="2" column="0" />
@@ -1618,11 +1618,12 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyField.js" timestamp="1503252131523">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="7" column="37" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyField.js" timestamp="1503353501026">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+        <mark key="^" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/GitHub-tips/organization.md" timestamp="1498086241863">
         <mark key="[" line="49" column="0" />
@@ -1744,6 +1745,9 @@
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/utils/validateEmails.js" timestamp="1503354735768">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily/routes/Recipient.js" timestamp="1502448110525">
         <mark key="[" line="0" column="0" />
@@ -1951,7 +1955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="52" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="209" column="20" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="212" column="52" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="239" column="7" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
@@ -2051,46 +2054,47 @@
       <jump line="12" column="24" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" />
       <jump line="13" column="2" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" />
       <jump line="15" column="21" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Subtitle/Subtitle.js" />
+      <jump line="7" column="32" filename="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyField.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFN1YnRpdGxlIGZyb20gJy4uL2NvbXBvbmVudHMvYnVsbWEvU3VidGl0bGUnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>values</text>
       </register>
       <register name="-" type="4">
-        <text>NavbarMenu</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text>NavbarBurger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENvbHVtbnMgZnJvbSAnLi4vY29tcG9uZW50cy9Db2x1bW5zJzsK</text>
+        <text encoding="base64">ICBpZiAoIXZhbHVlcy5zdWJqZWN0KSB7CiAgICBlcnJvcnMuc3ViamVjdCA9ICdZb3UgbXVzdCBwcm92aWRlIGEgc3ViamVjdCc7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFN1YnRpdGxlIGZyb20gJy4uL2NvbXBvbmVudHMvYnVsbWEvU3VidGl0bGUnOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENvbHVtbiBmcm9tICcuLi9jb21wb25lbnRzL2J1bG1hL0NvbHVtbic7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbHVtbiBrZXk9e2V2ZW50LmlkfT4KICAgICAgICAgICAgICA8VGl0bGUgc2l6ZT0iaXMtNSI+e2V2ZW50LnRpdGxlLnJlbmRlcmVkfTwvVGl0bGU+CiAgICAgICAgICAgICAgPFN1YnRpdGxlIHNpemU9ImlzLTYiPntldmVudC53aGVuX3N0YXJ0X2RhdGV9IEAge2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4KICAgICAgICAgICAgPC9Db2x1bW4+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PENvbHVtbiBrZXk9e2V2ZW50LmlkfT4KICA8VGl0bGUgc2l6ZT0iaXMtNSI+e2V2ZW50LnRpdGxlLnJlbmRlcmVkfTwvVGl0bGU+CiAgPFN1YnRpdGxlIHNpemU9ImlzLTYiPntldmVudC53aGVuX3N0YXJ0X2RhdGV9IEAge2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4KPC9Db2x1bW4+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8U3VidGl0bGUgc2l6ZT0iaXMtNiI+e2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpZiAoIXZhbHVlcy50aXRsZSkgewogICAgZXJyb3JzLnRpdGxlID0gJ1lvdSBtdXN0IHByb3ZpZGUgYSB0aXRsZSc7CiAgfQogIGlmICghdmFsdWVzLnN1YmplY3QpIHsKICAgIGVycm9ycy5zdWJqZWN0ID0gJ1lvdSBtdXN0IHByb3ZpZGUgYSBzdWJqZWN0JzsKICB9CiAgaWYgKCF2YWx1ZXMuYm9keSkgewogICAgZXJyb3JzLmJvZHkgPSAnWW91IG11c3QgcHJvdmlkZSBhbiBlbWFpbCBib2R5JzsKICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IFN1YnRpdGxlIGZyb20gJy4uL2NvbXBvbmVudHMvYnVsbWEvU3VidGl0bGUnOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IENvbHVtbiBmcm9tICcuLi9jb21wb25lbnRzL2J1bG1hL0NvbHVtbic7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPENvbHVtbiBrZXk9e2V2ZW50LmlkfT4KICAgICAgICAgICAgICA8VGl0bGUgc2l6ZT0iaXMtNSI+e2V2ZW50LnRpdGxlLnJlbmRlcmVkfTwvVGl0bGU+CiAgICAgICAgICAgICAgPFN1YnRpdGxlIHNpemU9ImlzLTYiPntldmVudC53aGVuX3N0YXJ0X2RhdGV9IEAge2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4KICAgICAgICAgICAgPC9Db2x1bW4+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">U3VidGl0bGUuZGVmYXVsdFByb3BzID0ge1YKICBzaXplOiAyCn07Cg==</text>
+        <text encoding="base64">PENvbHVtbiBrZXk9e2V2ZW50LmlkfT4KICA8VGl0bGUgc2l6ZT0iaXMtNSI+e2V2ZW50LnRpdGxlLnJlbmRlcmVkfTwvVGl0bGU+CiAgPFN1YnRpdGxlIHNpemU9ImlzLTYiPntldmVudC53aGVuX3N0YXJ0X2RhdGV9IEAge2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4KPC9Db2x1bW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05WYW1lPXtgbmF2YmFyLWJ1cmdlciBidXJnZXIgJHthY3RpdmUgPyAiaXMtYWN0aXZlIiA6ICIifWB9CiAgICAgICAgICAgb25DbGljaz17b25CdXJnZXJDbGlja30+CiAgICAgICAgPHNwYW4vPgogICAgICAgIDxzcGFuLz4KICAgICAgICA8c3Bhbi8+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U3VidGl0bGUgc2l6ZT0iaXMtNiI+e2V2ZW50LndoZXJlX2FkZHJlc3N9PC9TdWJ0aXRsZT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/NavbarBurger/Subtitle/g</text>
