@@ -99,11 +99,11 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Navbar/Navbar.js" timestamp="1503261230915">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Navbar/Navbar.js" timestamp="1503273380593">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarEnd/NavbarEnd.js" timestamp="1503272423772">
         <mark key="[" line="20" column="0" />
@@ -906,12 +906,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemDropdown/NavbarItemDropdown.js" timestamp="1503270601365">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemDropdown/NavbarItemDropdown.js" timestamp="1503273597362">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="12" column="39" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/package.json" timestamp="1497663505141">
         <mark key="[" line="15" column="33" />
@@ -1950,7 +1950,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPE5hdmJhckl0ZW1BbmNob3IgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCIgYnVsbWFDbGFzc01vZGlmaWVycz17WyJidXR0b24iLCJpcy1wcmltYXJ5Il19PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiI+CiAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLWRvd25sb2FkIi8+CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuPkRvd25sb2FkPC9zcGFuPgogICAgICA8L05hdmJhckl0ZW1BbmNob3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -1958,35 +1958,35 @@
       <register name="/" type="4">
         <text>Link</text>
       </register>
-      <register name="0" type="4">
-        <text>https://github.com/jgthms/bulma/archive/0.5.1.zip</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucHJvcHMubmF2YmFyU3RhcnRJdGVtc30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPE5hdmJhckl0ZW1BbmNob3IgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCIgYnVsbWFDbGFzc01vZGlmaWVycz17WyJidXR0b24iLCJpcy1wcmltYXJ5Il19PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiI+CiAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLWRvd25sb2FkIi8+CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuPkRvd25sb2FkPC9zcGFuPgogICAgICA8L05hdmJhckl0ZW1BbmNob3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPE5hdmJhckl0ZW1BbmNob3IgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCIgYnVsbWFDbGFzc01vZGlmaWVycz17WyJidXR0b24iLCJpcy1wcmltYXJ5Il19PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaWNvbiI+CiAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLWRvd25sb2FkIi8+CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuPkRvd25sb2FkPC9zcGFuPgogICAgICA8L05hdmJhckl0ZW1BbmNob3I+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSJidXR0b24gaXMtcHJpbWFyeSIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1pdGVtIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSJidXR0b24gaXMtcHJpbWFyeSIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2pndGhtcy9idWxtYS9hcmNoaXZlLzAuNS4xLnppcCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzTmFtZT0iY29udHJvbCI+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9Im5hdmJhci1pdGVtIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmllbGQgaXMtZ3JvdXBlZCI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImNvbnRyb2wiPgogICAgICAgICAgICA8YSBjbGFzc05hbWU9ImJkLXR3LWJ1dHRvbiBidXR0b24iCiAgICAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P3RleHQ9QnVsbWE6IGEgbW9kZXJuIENTUyBmcmFtZXdvcmsgYmFzZWQgb24gRmxleGJveCZoYXNodGFncz1idWxtYWlvJnVybD1odHRwOi8vYnVsbWEuaW8mdmlhPWpndGhtcyI+CiAgPHNwYW4gY2xhc3NOYW1lPSJpY29uIj4KICAgIDxpIGNsYXNzTmFtZT0iZmEgZmEtdHdpdHRlciIvPgogIDwvc3Bhbj4KICAgICAgICAgICAgICA8c3Bhbj4KICAgIFR3ZWV0CiAgPC9zcGFuPgogICAgICAgICAgICA8L2E+CgogICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Link/Divider/g</text>
