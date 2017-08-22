@@ -151,6 +151,9 @@
         <mark key="." line="20" column="54" />
         <mark key="^" line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/formFields.js" timestamp="1503361613577">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/react-quote-machine/src/styles/styles.less" timestamp="1497893055804">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -661,11 +664,11 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503356291062">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="45" />
-        <mark key="." line="55" column="45" />
-        <mark key="^" line="55" column="45" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503361917113">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="60" column="24" />
+        <mark key="." line="60" column="24" />
+        <mark key="^" line="60" column="24" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" timestamp="1503271841664">
         <mark key="'" line="2" column="0" />
@@ -1618,7 +1621,7 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyField.js" timestamp="1503353501026">
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyField.js" timestamp="1503361054833">
         <mark key="'" line="8" column="32" />
         <mark key="[" line="8" column="40" />
         <mark key="]" line="6" column="49" />
@@ -1702,6 +1705,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyFormReview.js" timestamp="1503361963045">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/carousel.css" timestamp="1497795226370">
         <mark key="[" line="10" column="0" />
@@ -1842,6 +1852,11 @@
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyNew.js" timestamp="1503361510140">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/local-weather/Scratch/yahooWeather.html" timestamp="1498425544876">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="9" column="0" />
@@ -1958,7 +1973,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="20" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="212" column="52" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="239" column="7" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
       <jump line="125" column="13" filename="$USER_HOME$/git/fcc-repos/twitch-tv/app.js" />
@@ -2058,46 +2072,47 @@
       <jump line="13" column="2" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" />
       <jump line="15" column="21" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Subtitle/Subtitle.js" />
       <jump line="7" column="32" filename="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyField.js" />
+      <jump line="18" column="9" filename="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyFormReview.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`You must provide a ${name}`</text>
+        <text>{form}</text>
       </register>
       <register name="-" type="4">
-        <text>`You must provide a ${name}`</text>
+        <text>{form}</text>
       </register>
       <register name="/" type="4">
         <text>NavbarBurger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoIXZhbHVlcy5zdWJqZWN0KSB7CiAgICBlcnJvcnMuc3ViamVjdCA9ICdZb3UgbXVzdCBwcm92aWRlIGEgc3ViamVjdCc7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWw+U3VydmV5IFRpdGxlPC9sYWJlbD4KICAgICAgICA8ZGl2Pntmb3JtVmFsdWVzLnRpdGxlfTwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlcnJvcnMuZW1haWxzID0gdmFsaWRhdGVFbWFpbHModmFsdWVzLmVtYWlscyB8fCAnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWw+U3VydmV5IFRpdGxlPC9sYWJlbD4KICAgICAgICA8ZGl2Pntmb3JtVmFsdWVzLnRpdGxlfTwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdj4KICAgICAgICA8bGFiZWw+U3ViamVjdCBMaW5lPC9sYWJlbD4KICAgICAgICA8ZGl2Pntmb3JtVmFsdWVzLnN1YmplY3R9PC9kaXY+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2PgogICAgICAgIDxsYWJlbD5FbWFpbCBCb2R5PC9sYWJlbD4KICAgICAgICA8ZGl2Pntmb3JtVmFsdWVzLmJvZHl9PC9kaXY+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIWVtYWlscykgewogICAgcmV0dXJuOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">Y29uc3QgRklFTERTID0gWwogIHtsYWJlbDogIlN1cnZleSBUaXRsZSIsIG5hbWU6ICJ0aXRsZSJ9LAogIHtsYWJlbDogIlN1YmplY3QgTGluZSIsIG5hbWU6ICJzdWJqZWN0In0sCiAge2xhYmVsOiAiRW1haWwgQm9keSIsIG5hbWU6ICJib2R5In0sCiAge2xhYmVsOiAiUmVjaXBpZW50IExpc3QiLCBuYW1lOiAiZW1haWxzIn0KXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JtVmFsdWVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoIXZhbHVlcy50aXRsZSkgewogICAgZXJyb3JzLnRpdGxlID0gJ1lvdSBtdXN0IHByb3ZpZGUgYSB0aXRsZSc7CiAgfQogIGlmICghdmFsdWVzLnN1YmplY3QpIHsKICAgIGVycm9ycy5zdWJqZWN0ID0gJ1lvdSBtdXN0IHByb3ZpZGUgYSBzdWJqZWN0JzsKICB9CiAgaWYgKCF2YWx1ZXMuYm9keSkgewogICAgZXJyb3JzLmJvZHkgPSAnWW91IG11c3QgcHJvdmlkZSBhbiBlbWFpbCBib2R5JzsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgICAgICA8U3VydmV5Rm9ybVJldmlldy8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U3VydmV5Rm9ybS8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NavbarBurger/Subtitle/g</text>
