@@ -636,9 +636,9 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/index.js" timestamp="1503399200562">
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/index.js" timestamp="1503402480946">
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="]" line="10" column="50" />
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/slide-styles.js" timestamp="1497744051629">
@@ -1377,6 +1377,12 @@
         <mark key="]" line="13" column="7" />
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/normalizeEvent.js" timestamp="1503402778334">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/card/CardList.js" timestamp="1497320435933">
         <mark key="[" line="3" column="0" />
@@ -2134,10 +2140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgInNlbGYiOiBbCiAgICB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>object.isRequired,</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>is-16x16</text>
@@ -2146,31 +2152,31 @@
         <text encoding="base64">ICB0aXRsZTogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgInNlbGYiOiBbCiAgICB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aHVtYm5haWxTcmM6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">Y29uc3QgZXZlbnQgPSAoKQpzdGFydERhdGUKZW5kRGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuZGF0YVswXSxudWxsLDQpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZEltYWdlPgogICAgICAgICAgPEltYWdlIHNyYz17dGh1bWJuYWlsU3JjfSBzaXplTW9kaWZpZXI9ImlzLTEyOHgxMjgiLz4KICAgICAgICA8L0NhcmRJbWFnZT4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuZGF0YVswXSxudWxsLDQpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENhcmRJbWFnZSBmcm9tICcuLi9idWxtYS9DYXJkSW1hZ2UnOwppbXBvcnQgSW1hZ2UgZnJvbSAnLi4vYnVsbWEvSW1hZ2UnOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFN1YnRpdGxlIGZyb20gJy4uL2J1bG1hL1N1YnRpdGxlJzsK</text>
+        <text encoding="base64">ICB0aHVtYm5haWxTcmM6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vb25seSB1c2Ugb25lIG9yIHRoZSBvdGhlcgogICAgaWYgKHNxdWFyZVNpemUpIHsKICAgICAgY2xhc3NlcyArPSAiICIgKyBzcXVhcmVTaXplOwogICAgfSBlbHNlIGlmIChyYXRpb01vZGlmaWVyKSB7CiAgICAgIGNsYXNzZXMgKz0gIiAiICsgcmF0aW9Nb2RpZmllcgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByYXRpb01vZGlmaWVyOiBQcm9wVHlwZXMub25lT2YoWyJpcy1zcXVhcmUiLCJpcy00YnkzIiwiaXMtM2J5MiIsImlzLTE2Ynk5IiwiaXMtMmJ5MSJdKQo=</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZEltYWdlPgogICAgICAgICAgPEltYWdlIHNyYz17dGh1bWJuYWlsU3JjfSBzaXplTW9kaWZpZXI9ImlzLTEyOHgxMjgiLz4KICAgICAgICA8L0NhcmRJbWFnZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aWR0aDogUHJvcFR5cGVzLm51bWJlciwK</text>
+        <text encoding="base64">aW1wb3J0IENhcmRJbWFnZSBmcm9tICcuLi9idWxtYS9DYXJkSW1hZ2UnOwppbXBvcnQgSW1hZ2UgZnJvbSAnLi4vYnVsbWEvSW1hZ2UnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/CardTitle/CardHeaderTitle/g</text>
