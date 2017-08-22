@@ -307,11 +307,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" timestamp="1503399019872">
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" timestamp="1503404927920">
         <mark key="'" line="17" column="222" />
-        <mark key="[" line="17" column="254" />
-        <mark key="]" line="17" column="255" />
-        <mark key="." line="17" column="255" />
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
         <mark key="^" line="17" column="255" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/package.json" timestamp="1502367232188">
@@ -636,10 +636,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/index.js" timestamp="1503402480946">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/index.js" timestamp="1503404886750">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="90" />
+        <mark key="." line="12" column="90" />
+        <mark key="^" line="12" column="90" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/slide-styles.js" timestamp="1497744051629">
         <mark key="[" line="0" column="0" />
@@ -1378,11 +1379,11 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/normalizeEvent.js" timestamp="1503402778334">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/normalizeEvent.js" timestamp="1503404858411">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/card/CardList.js" timestamp="1497320435933">
         <mark key="[" line="3" column="0" />
@@ -1654,12 +1655,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/EventListItem.js" timestamp="1503399041913">
-        <mark key="'" line="6" column="37" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="62" />
-        <mark key="." line="32" column="62" />
-        <mark key="^" line="32" column="62" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/EventListItem.js" timestamp="1503405402448">
+        <mark key="'" line="7" column="37" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/NavbarItemLink/index.js" timestamp="1503316249666">
         <mark key="[" line="0" column="33" />
@@ -2037,7 +2037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="17" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="44" column="17" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="49" column="15" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="53" column="20" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
@@ -2137,63 +2136,63 @@
       <jump line="3956" column="89" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/node_modules/bulma/css/bulma.css" />
       <jump line="3986" column="7" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/node_modules/bulma/css/bulma.css" />
       <jump line="17" column="222" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/normalizeEvent.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgInNlbGYiOiBbCiAgICB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtNb21lbnR9IGZyb20gJ21vbWVudCc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>objectOf</text>
       </register>
       <register name="/" type="4">
-        <text>is-16x16</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0aXRsZTogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiSG91ciBsZW5ndGg6ICIgKyBob3VyLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInNlbGYiOiBbCiAgICB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtNb21lbnR9IGZyb20gJ21vbWVudCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZXZlbnQgPSAoKQpzdGFydERhdGUKZW5kRGF0ZQo=</text>
+        <text encoding="base64">ICBkaXNwYXRjaCh7dHlwZTogRkVUQ0hfQUxMX0VWRU5UUywgcGF5bG9hZDogcmVzLmRhdGF9KTsKfTsKCmV4cG9ydCBjb25zdCBmZXRjaEFsbFBhZ2VzID0gKCkgPT4gYXN5bmMgZGlzcGF0Y2ggPT4gewoKICBjb25zdCBwYWdlc0VuZFBvaW50ID0gYCR7YmFzZVVybH0vP3Jlc3Rfcm91dGU9L3dwL3YyL3BhZ2VzYDsKICBjb25zdCByZXMgPSBhd2FpdCBheGlvcy5nZXQocGFnZXNFbmRQb2ludCk7CiAgZGlzcGF0Y2goe3R5cGU6IEZFVENIX0FMTF9QQUdFUywgcGF5bG9hZDogcmVzLmRhdGF9KTsKfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuZGF0YVswXSxudWxsLDQpKTsK</text>
+        <text encoding="base64">LyoKewogICAgImlkIjogODUsCiAgICAiZGF0ZSI6ICIyMDE3LTA4LTIyVDExOjIzOjMxIiwKICAgICJkYXRlX2dtdCI6ICIyMDE3LTA4LTIyVDExOjIzOjMxIiwKICAgICJndWlkIjogewogICAgICAgICJyZW5kZXJlZCI6ICJodHRwOi8vd29yZHByZXNzLnVidW50dS52bS8/cG9zdF90eXBlPWV2ZW50JiMwMzg7cD04NSIKICAgIH0sCiAgICAibW9kaWZpZWQiOiAiMjAxNy0wOC0yMlQxMTozMjo0NCIsCiAgICAibW9kaWZpZWRfZ210IjogIjIwMTctMDgtMjJUMTE6MzI6NDQiLAogICAgInNsdWciOiAidGhlLWxhdW5jaGluZy1vZi1vbmUtdGhvdXNhbmQtc2hpcHMiLAogICAgInN0YXR1cyI6ICJwdWJsaXNoIiwKICAgICJ0eXBlIjogImV2ZW50IiwKICAgICJsaW5rIjogImh0dHA6Ly93b3JkcHJlc3MudWJ1bnR1LnZtL2luZGV4LnBocC9ldmVudC90aGUtbGF1bmNoaW5nLW9mLW9uZS10aG91c2FuZC1zaGlwcy8iLAogICAgInRpdGxlIjogewogICAgICAgICJyZW5kZXJlZCI6ICJUaGUgU2FjcmlmaWNlIG9mIElwaGlnZW5pYSIKICAgIH0sCiAgICAiY29udGVudCI6IHsKICAgICAgICAicmVuZGVyZWQiOiAiIiwKICAgICAgICAicHJvdGVjdGVkIjogZmFsc2UKICAgIH0sCiAgICAidGVtcGxhdGUiOiAiIiwKICAgICJzaG93Y2FzZV90aXRsZSI6ICJKb2luIHVzIHRvIHBheSByZXNwZWN0cyB0byB0aGUgYnJ1dGFsIHNhY3JpZmljZSBvZiBJcGhpZ2VuaWEgd2l0aCBvZiBhIHNhaWxpbmcgdGhpcyAiLAogICAgInNob3djYXNlX3N1YnRpdGxlIjogIkhvcGVmdWxseSB0aGUgd2luZHMgd2lsbCB3b3JrIGZvciB1cyB0b2RheSEiLAogICAgIiI6IGZhbHNlLAogICAgImdhbGxlcnlfbWFpbl9pbWFnZSI6IGZhbHNlLAogICAgIndoZW5fc3RhcnRfZGF0ZSI6ICIyMDE4LTA5LTIxIiwKICAgICJ3aGVuX3N0YXJ0X2hvdXIiOiAiMTAiLAogICAgIndoZW5fc3RhcnRfbWludXRlIjogIjAiLAogICAgIndoZW5fZW5kX2RhdGUiOiAiMjAxOC0wOS0yNyIsCiAgICAid2hlbl9lbmRfaG91ciI6ICIyMCIsCiAgICAid2hlbl9lbmRfbWludXRlIjogIjAiLAogICAgIndoZXJlX3ZlbnVlIjogIkxpZ2h0aG91c2UgQXZsaWRhcyIsCiAgICAid2hlcmVfYWRkcmVzcyI6ICIiLAogICAgIndoZXJlX2FkZHJlc3NfMiI6ICIiLAogICAgIndoZXJlX2NpdHkiOiAiQXZsaWRhIiwKICAgICJ3aGVyZV9wcm92aW5jZSI6ICJFdWJvZWEiLAogICAgIndoZXJlX2NvdW50cnkiOiAiR3JlZWNlIiwKICAgICJ3aGVyZV9wb3N0YWwiOiAiMzQxIDAwIiwKICAgICJ3aGVyZV9sYXRpdHVkZSI6ICIiLAogICAgIndoZXJlX2xvbmdpdHVkZSI6ICIiLAogICAgIl9saW5rcyI6IHsKICAgICAgICAic2VsZiI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImhyZWYiOiAiaHR0cDovL3dvcmRwcmVzcy51YnVudHUudm0vaW5kZXgucGhwL3dwLWpzb24vd3AvdjIvZXZlbnRzLzg1IgogICAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAiY29sbGVjdGlvbiI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImhyZWYiOiAiaHR0cDovL3dvcmRwcmVzcy51YnVudHUudm0vaW5kZXgucGhwL3dwLWpzb24vd3AvdjIvZXZlbnRzIgogICAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAiYWJvdXQiOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJocmVmIjogImh0dHA6Ly93b3JkcHJlc3MudWJ1bnR1LnZtL2luZGV4LnBocC93cC1qc29uL3dwL3YyL3R5cGVzL2V2ZW50IgogICAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAid3A6YXR0YWNobWVudCI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImhyZWYiOiAiaHR0cDovL3dvcmRwcmVzcy51YnVudHUudm0vaW5kZXgucGhwL3dwLWpzb24vd3AvdjIvbWVkaWE/cGFyZW50PTg1IgogICAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAiY3VyaWVzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibmFtZSI6ICJ3cCIsCiAgICAgICAgICAgICAgICAiaHJlZiI6ICJodHRwczovL2FwaS53Lm9yZy97cmVsfSIsCiAgICAgICAgICAgICAgICAidGVtcGxhdGVkIjogdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgXQogICAgfQp9CiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuZGF0YVswXSxudWxsLDQpKTsK</text>
+        <text encoding="base64">ICBjb25zdCBob3VyT3V0ID0gaG91ci5sZW5ndGggPT09IDEgPyBob3VyLnBhZFN0YXJ0KDEsIjAiKSA6IGhvdXI7CiAgY29uc29sZS5sb2coIkhvdXIgb3V0OiAiICsgaG91ck91dCk7CiAgY29uc3QgbWludXRlT3V0ID0gbWludXRlLmxlbmd0aCA9PT0gMSA/IG1pbnV0ZS5wYWRTdGFydCgxLCIwIikgOiBtaW51dGU7CiAgY29uc29sZS5sb2coIk1pbnV0ZSBvdXQ6ICIgKyBtaW51dGVPdXQpOwogIGNvbnNvbGUubG9nKGAke2RhdGV9ICR7aG91ci5wYWRTdGFydCgyLCIwIil9OiR7bWludXRlLnBhZFN0YXJ0KDIsIjAiKX1gKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiSG91cjogIiArIGhvdXIpOwogIGNvbnNvbGUubG9nKCJIb3VyIGxlbmd0aDogIiArIGhvdXIubGVuZ3RoKTsKICBjb25zb2xlLmxvZygiTWludXRlOiAiICsgbWludXRlKTsKICBjb25zb2xlLmxvZygiTWludXRlIGxlbmd0aDogIiArIG1pbnV0ZS5sZW5ndGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0aHVtYm5haWxTcmM6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuZGF0YVswXSxudWxsLDQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZEltYWdlPgogICAgICAgICAgPEltYWdlIHNyYz17dGh1bWJuYWlsU3JjfSBzaXplTW9kaWZpZXI9ImlzLTEyOHgxMjgiLz4KICAgICAgICA8L0NhcmRJbWFnZT4K</text>
+        <text encoding="base64">ICAgIG1haW5JbWFnZTogewogICAgICAKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENhcmRJbWFnZSBmcm9tICcuLi9idWxtYS9DYXJkSW1hZ2UnOwppbXBvcnQgSW1hZ2UgZnJvbSAnLi4vYnVsbWEvSW1hZ2UnOwo=</text>
+        <text encoding="base64">ICAgIAoKCiAgICAid2hlbl9zdGFydF9kYXRlIjogIjIwMTgtMDktMjEiLAogICAgIndoZW5fc3RhcnRfaG91ciI6ICIxMCIsCiAgICAid2hlbl9zdGFydF9taW51dGUiOiAiMCIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/CardTitle/CardHeaderTitle/g</text>
+        <text>s/start/end/g</text>
       </register>
     </registers>
     <search>
-      <last-search>is-16x16</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>is-16x16</last-pattern>
-      <last-replace>CardHeaderTitle</last-replace>
-      <last-substitute>CardTitle</last-substitute>
+      <last-pattern>start</last-pattern>
+      <last-replace>end</last-replace>
+      <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>react</entry>
         <entry>&quot;react&quot;</entry>
         <entry encoding="base64">PA==</entry>
         <entry>Login</entry>
@@ -2213,9 +2212,9 @@
         <entry>img-</entry>
         <entry>is-16</entry>
         <entry>is-16x16</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Header/Dashboard/g</entry>
         <entry>s/Header/SurveyNew/g</entry>
         <entry>s/Header/Landing/g</entry>
         <entry>%s/import {/export const /g</entry>
@@ -2235,6 +2234,7 @@
         <entry>s/off-set/offset/g</entry>
         <entry>%s/NavbarBurger/Subtitle/g</entry>
         <entry>%s/CardTitle/CardHeaderTitle/g</entry>
+        <entry>s/start/end/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
