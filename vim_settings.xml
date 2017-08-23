@@ -27,9 +27,6 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/node_modules/bulma/css/bulma.css" timestamp="1503397820167">
-        <mark key="'" line="3986" column="7" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/webpack-demo/dist/index.html" timestamp="1497560497431">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="20" />
@@ -466,11 +463,11 @@
         <mark key="^" line="54" column="40" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/App.js" timestamp="1503442962480">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/App.js" timestamp="1503483421731">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/styles/slide.css" timestamp="1497746338841">
         <mark key="[" line="17" column="40" />
@@ -876,11 +873,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Body/Body.js" timestamp="1503442892484">
-        <mark key="'" line="3" column="6" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Body/Body.js" timestamp="1503483440979">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/weatherActions.js" timestamp="1502357241578">
         <mark key="[" line="13" column="47" />
@@ -1133,9 +1130,6 @@
         <mark key="]" line="7" column="9" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/node_modules/bulma/sass/base/generic.sass" timestamp="1503394674147">
-        <mark key="'" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/react-quote-machine/src/components/quotes/RandomQuoteMachine.js" timestamp="1497798952818">
         <mark key="[" line="24" column="0" />
@@ -1498,6 +1492,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Footer/index.js" timestamp="1503483252487">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/card/Card.js" timestamp="1497537861542">
         <mark key="[" line="21" column="0" />
@@ -2191,41 +2191,41 @@
       <jump line="4" column="6" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Body/Body.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFBhZ2UgZnJvbSAnLi4vUGFnZSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Content</text>
       </register>
       <register name="/" type="4">
         <text>Main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiSG91ciBsZW5ndGg6ICIgKyBob3VyLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPEZvb3RlciBjb250ZW50PSJJbGlvcyBWYWNhdGlvbnMiIGNvbnRlbnRBbGlnbm1lbnQ9Imhhcy10ZXh0LWNlbnRlcmVkIi8+Ki99Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBhZ2UgZnJvbSAnLi4vUGFnZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL2J1bG1hL0Zvb3Rlci9Gb290ZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPEhlYWRlci8+Ki99Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFBhZ2UgZnJvbSAnLi4vY29tcG9uZW50cy9hcHAvUGFnZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPE1haW4+Ki99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPC9NYWluPiovfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gUGFnZS5wcm9wVHlwZXMgPSB7Ci8vICAgYmFja2dyb3VuZEltYWdlOiBQcm9wVHlwZXMuc3RyaW5nCi8vIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPEZvb3RlciBjb250ZW50PSJJbGlvcyBWYWNhdGlvbnMiIGNvbnRlbnRBbGlnbm1lbnQ9Imhhcy10ZXh0LWNlbnRlcmVkIi8+Ki99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvUGFnZT4K</text>
+        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL2J1bG1hL0Zvb3Rlci9Gb290ZXInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxQYWdlPgo=</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL2FwcC9IZWFkZXInOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1haW4gZnJvbSAnLi4vY29tcG9uZW50cy9hcHAvTWFpbic7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
