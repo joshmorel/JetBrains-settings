@@ -123,7 +123,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/index.css" timestamp="1503442896960" />
       <file name="$USER_HOME$/git/JavaScript30/02 - JS and CSS Clock/index-START.html" timestamp="1497814395518">
         <mark key="[" line="111" column="33" />
         <mark key="]" line="129" column="0" />
@@ -249,6 +248,13 @@
         <mark key="]" line="6" column="108" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Section/Section.js" timestamp="1503527756462">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="47" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/common/Result.js" timestamp="1496789153338">
         <mark key="[" line="4" column="12" />
@@ -458,12 +464,12 @@
         <mark key="^" line="54" column="40" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/App.js" timestamp="1503487451657">
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/App.js" timestamp="1503527573662">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="22" column="52" />
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+        <mark key="^" line="23" column="50" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/styles/slide.css" timestamp="1497746338841">
         <mark key="[" line="17" column="40" />
@@ -725,6 +731,11 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Section/index.js" timestamp="1503527706579">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/tools/buildCodePen.js" timestamp="1497558243428">
         <mark key="[" line="0" column="0" />
@@ -1527,7 +1538,6 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Body/Body.css" timestamp="1503485424361" />
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/CoureForm.test.js" timestamp="1496577391298">
         <mark key="[" line="46" column="4" />
         <mark key="]" line="44" column="21" />
@@ -2086,7 +2096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="32" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="111" column="55" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="117" column="19" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="106" column="32" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
@@ -2186,16 +2195,17 @@
       <jump line="2" column="11" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Body/Body.js" />
       <jump line="5" column="0" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/App.js" />
       <jump line="3" column="7" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Hero/Hero.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Section/Section.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Title</text>
+        <text>size</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>Content</text>
+        <text>Title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFRpdGxlIGZyb20gJy4uLy4uL2J1bG1hL1RpdGxlJzsK</text>
@@ -2228,21 +2238,20 @@
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Content/Hero/g</text>
+        <text>%s/Title/Section/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Content</last-search>
+      <last-search>Title</last-search>
       <last-offset />
-      <last-pattern>Content</last-pattern>
-      <last-replace>Hero</last-replace>
-      <last-substitute>Content</last-substitute>
+      <last-pattern>Title</last-pattern>
+      <last-replace>Section</last-replace>
+      <last-substitute>Title</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>style</entry>
         <entry>Start</entry>
         <entry>Anchor</entry>
@@ -2262,9 +2271,9 @@
         <entry>Page</entry>
         <entry>Main</entry>
         <entry>Content</entry>
+        <entry>Title</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/import {/export const /g</entry>
         <entry>%s/} from / = /g</entry>
         <entry>x</entry>
         <entry>s/Login/Credits/g</entry>
@@ -2284,6 +2293,7 @@
         <entry>s/start/end/g</entry>
         <entry>%s/Main/Body/g</entry>
         <entry>%s/Content/Hero/g</entry>
+        <entry>%s/Title/Section/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
