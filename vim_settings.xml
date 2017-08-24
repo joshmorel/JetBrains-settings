@@ -1405,6 +1405,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/actions/index.js" timestamp="1503612772337">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/flux/actions/DataActions.js" timestamp="1501200807596">
         <mark key="[" line="45" column="23" />
         <mark key="]" line="46" column="24" />
@@ -1839,12 +1842,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyFormReview.js" timestamp="1503577710214">
-        <mark key="'" line="18" column="9" />
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyFormReview.js" timestamp="1503613129634">
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="39" column="12" />
+        <mark key="." line="39" column="12" />
+        <mark key="^" line="39" column="12" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/src/carousel.css" timestamp="1497795226370">
         <mark key="[" line="10" column="0" />
@@ -1984,6 +1987,12 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyNew.js" timestamp="1503613400295">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/local-weather/Scratch/yahooWeather.html" timestamp="1498425544876">
         <mark key="[" line="6" column="6" />
@@ -2223,8 +2232,8 @@
       <jump line="6" column="6" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Home/Home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>darken-3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9pbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>darken-3</text>
@@ -2236,31 +2245,31 @@
         <text encoding="base64">ICAgICAgICBsYXJnZTogZXZlbnQuZ2FsbGVyeV9tYWluX2ltYWdlLnNpemVzLmxhcmdlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Ly9pbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhZGRyZXNzOiBQcm9wVHlwZXMuc3RyaW5nCg==</text>
+        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ci8vIGZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSwgb3duUHJvcHMpIHsKLy8gICByZXR1cm4gewovLyAgICAgc3RhdGU6IHN0YXRlCi8vICAgfTsKLy8gfQovLwovLyBmdW5jdGlvbiBtYXBEaXNwYXRjaFRvUHJvcHMoZGlzcGF0Y2gpIHsKLy8gICByZXR1cm4gewovLyAgICAgYWN0aW9uOiBiaW5kQWN0aW9uQ3JlYXRvcnMoYWN0aW9ucywgZGlzcGF0Y2gpCi8vICAgfTsKLy8gfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZWFkOiBQcm9wVHlwZXMuc2hhcGUoe19faHRtbDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkfSksCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e2xlYWR9Lz4K</text>
+        <text encoding="base64">ICBhZGRyZXNzOiBQcm9wVHlwZXMuc3RyaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtzdGFydERhdGUuZm9ybWF0KCJkZGQsIE1NTSBEIFlZWVksIEhIOm1tIHoiKX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldEZ1dHVyZUV2ZW50cyA9IGNyZWF0ZVNlbGVjdG9yKAogIFsgZ2V0U29ydGVkRXZlbnRzICxnZXRFdmVudHMgXSwKICAoZXZlbnRzKSA9PiB7CiAgICByZXR1cm4gZXZlbnRzICYmIGV2ZW50cy5maWx0ZXIoZXZlbnQgPT4gZXZlbnQgJiYgZXZlbnQuc3RhcnREYXRlLmlzQWZ0ZXIobm93KSk7CiAgfQopOwoK</text>
+        <text encoding="base64">ICBsZWFkOiBQcm9wVHlwZXMuc2hhcGUoe19faHRtbDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkfSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e2xlYWR9Lz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtzdGFydERhdGUuZm9ybWF0KCJkZGQsIE1NTSBEIFlZWVksIEhIOm1tIHoiKX0K</text>
       </register>
       <register name=":" type="4">
         <text>s/Title/Subtitle/g</text>
