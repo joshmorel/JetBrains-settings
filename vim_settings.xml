@@ -298,12 +298,12 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" timestamp="1503570304128">
-        <mark key="'" line="18" column="222" />
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="38" column="33" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/EventList.js" timestamp="1503572890935">
+        <mark key="'" line="19" column="222" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/package.json" timestamp="1502367232188">
         <mark key="[" line="11" column="4" />
@@ -959,10 +959,10 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/selectors/index.js" timestamp="1503570295250">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/selectors/index.js" timestamp="1503572669267">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItem/NavbarItem.js" timestamp="1503265325764">
@@ -1442,6 +1442,12 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/actions/normalizeEvent.js" timestamp="1503572795888">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="34" column="13" />
+        <mark key="^" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-intro/src/components/card/CardList.js" timestamp="1497320435933">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1718,8 +1724,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/EventListItem.js" timestamp="1503569779349">
-        <mark key="[" line="23" column="28" />
+      <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/EventListItem.js" timestamp="1503572623146">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="13" column="70" />
+        <mark key="." line="13" column="70" />
+        <mark key="^" line="13" column="70" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/NavbarItemLink/index.js" timestamp="1503316249666">
         <mark key="[" line="0" column="33" />
@@ -2215,43 +2224,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getYears</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>getYears</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFRpdGxlIGZyb20gJy4uLy4uL2J1bG1hL1RpdGxlJzsK</text>
+        <text encoding="base64">ICAgICAgICBsYXJnZTogZXZlbnQuZ2FsbGVyeV9tYWluX2ltYWdlLnNpemVzLmxhcmdlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldEZ1dHVyZUV2ZW50cyA9IGNyZWF0ZVNlbGVjdG9yKAogIFsgZ2V0U29ydGVkRXZlbnRzICxnZXRFdmVudHMgXSwKICAoZXZlbnRzKSA9PiB7CiAgICByZXR1cm4gZXZlbnRzICYmIGV2ZW50cy5maWx0ZXIoZXZlbnQgPT4gZXZlbnQgJiYgZXZlbnQuc3RhcnREYXRlLmlzQWZ0ZXIobm93KSk7CiAgfQopOwoK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZGRyZXNzOiBQcm9wVHlwZXMuc3RyaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY29tcGFyZUV2ZW50VGltZXMgKGEsIGIpIHsKICBpZiAoYS5zdGFydERhdGUuaXNBZnRlcihiLnN0YXJ0RGF0ZSkpIHsKICAgIHJldHVybiAxOwogIH0KICBpZiAoYS5zdGFydERhdGUuaXNCZWZvcmUoYi5zdGFydERhdGUpKSB7CiAgICByZXR1cm4gLTE7CiAgfQogIHJldHVybiAwOwp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFNvcnRlZEV2ZW50cyA9IGNyZWF0ZVNlbGVjdG9yKAogIFsgZ2V0RXZlbnRzIF0sCiAgKGV2ZW50cykgPT4gewogICAgZGVidWdnZXI7CiAgICByZXR1cm4gZXZlbnRzICYmIGV2ZW50cy5zb3J0KGNvbXBhcmVFdmVudFRpbWVzKTsKICB9Cik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENvbHVtbiBmcm9tICcuLi9jb21wb25lbnRzL2J1bG1hL0NvbHVtbic7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHllYXJzOiBnZXRZZWFycyhzdGF0ZSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBsZWFkOiBQcm9wVHlwZXMuc2hhcGUoe19faHRtbDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkfSksCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e2xlYWR9Lz4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtzdGFydERhdGUuZm9ybWF0KCJkZGQsIE1NTSBEIFlZWVksIEhIOm1tIHoiKX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldEZ1dHVyZUV2ZW50cyA9IGNyZWF0ZVNlbGVjdG9yKAogIFsgZ2V0U29ydGVkRXZlbnRzICxnZXRFdmVudHMgXSwKICAoZXZlbnRzKSA9PiB7CiAgICByZXR1cm4gZXZlbnRzICYmIGV2ZW50cy5maWx0ZXIoZXZlbnQgPT4gZXZlbnQgJiYgZXZlbnQuc3RhcnREYXRlLmlzQWZ0ZXIobm93KSk7CiAgfQopOwoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Title/Subtitle/g</text>
