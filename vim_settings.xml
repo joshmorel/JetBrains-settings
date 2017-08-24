@@ -141,6 +141,12 @@
         <mark key="." line="20" column="54" />
         <mark key="^" line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/formFields.js" timestamp="1503614564157">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/react-quote-machine/src/styles/styles.less" timestamp="1497893055804">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -688,11 +694,11 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503361917113">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="60" column="24" />
-        <mark key="." line="60" column="24" />
-        <mark key="^" line="60" column="24" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyForm.js" timestamp="1503614592743">
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="46" column="53" />
+        <mark key="." line="46" column="53" />
+        <mark key="^" line="46" column="53" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Hero/index.js" timestamp="1503487821002">
         <mark key="[" line="0" column="27" />
@@ -1405,8 +1411,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/actions/index.js" timestamp="1503612772337">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/actions/index.js" timestamp="1503614831555">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="15" column="50" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/flux/actions/DataActions.js" timestamp="1501200807596">
         <mark key="[" line="45" column="23" />
@@ -2232,11 +2241,11 @@
       <jump line="6" column="6" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Home/Home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9pbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>emails</text>
       </register>
       <register name="-" type="4">
-        <text>darken-3</text>
+        <text>emails</text>
       </register>
       <register name="/" type="4">
         <text>Title</text>
