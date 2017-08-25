@@ -416,11 +416,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503663198557">
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503703810705">
         <mark key="[" line="14" column="26" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/service.js" timestamp="1500681707846">
         <mark key="[" line="7" column="25" />
@@ -1401,6 +1401,12 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/services/emailTemplates/surveyTemplate.js" timestamp="1503702933650">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="13" column="69" />
+        <mark key="^" line="13" column="69" />
+        <mark key="." line="13" column="69" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" timestamp="1503315451529">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="11" column="38" />
@@ -1903,11 +1909,11 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503666033854">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503666196173">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-webpack2-tutorial/src/index.html" timestamp="1496604617609">
         <mark key="[" line="9" column="19" />
@@ -2270,29 +2276,29 @@
       <register name="1" type="8">
         <text encoding="base64">WzBdIApbMF0gClswXSAKWzBdIApbMF0gClswXSAKWzBdIApbMF0gClswXSA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">WzBdIApbMF0gClswXSAKWzBdIApbMF0gClswXSAKWzBdIApbMF0gClswXSA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcHAucG9zdCgnL2FwaS9zdXJ2ZXlzL3dlYmhvb2tzJywgYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zb2xlLmxvZyhyZXEuYm9keSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4ge3R5cGU6ICdzdWJtaXRfc3VydmV5J307Cg==</text>
+        <text encoding="base64">ICBhcHAucG9zdCgnL2FwaS9zdXJ2ZXlzL3dlYmhvb2tzJywgYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zb2xlLmxvZyhyZXEuYm9keSk7CiAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">ICAvLyByZXR1cm4ge3R5cGU6ICdzdWJtaXRfc3VydmV5J307Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIGZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSwgb3duUHJvcHMpIHsKLy8gICByZXR1cm4gewovLyAgICAgc3RhdGU6IHN0YXRlCi8vICAgfTsKLy8gfQovLwovLyBmdW5jdGlvbiBtYXBEaXNwYXRjaFRvUHJvcHMoZGlzcGF0Y2gpIHsKLy8gICByZXR1cm4gewovLyAgICAgYWN0aW9uOiBiaW5kQWN0aW9uQ3JlYXRvcnMoYWN0aW9ucywgZGlzcGF0Y2gpCi8vICAgfTsKLy8gfQo=</text>
+        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Ci8vIGZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSwgb3duUHJvcHMpIHsKLy8gICByZXR1cm4gewovLyAgICAgc3RhdGU6IHN0YXRlCi8vICAgfTsKLy8gfQovLwovLyBmdW5jdGlvbiBtYXBEaXNwYXRjaFRvUHJvcHMoZGlzcGF0Y2gpIHsKLy8gICByZXR1cm4gewovLyAgICAgYWN0aW9uOiBiaW5kQWN0aW9uQ3JlYXRvcnMoYWN0aW9ucywgZGlzcGF0Y2gpCi8vICAgfTsKLy8gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Title/Subtitle/g</text>
