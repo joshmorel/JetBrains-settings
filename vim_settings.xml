@@ -398,11 +398,23 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/package.json" timestamp="1503662265936">
+        <mark key="[" line="14" column="114" />
+        <mark key="]" line="13" column="81" />
+        <mark key="^" line="13" column="81" />
+        <mark key="." line="13" column="81" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/server-api-test/random.html" timestamp="1500235425994">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="9" column="21" />
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503662790561">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/service.js" timestamp="1500681707846">
         <mark key="[" line="7" column="25" />
@@ -2242,7 +2254,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4ge3R5cGU6ICdzdWJtaXRfc3VydmV5J307Cg==</text>
+        <text encoding="base64">ICBhcHAucG9zdCgnL2FwaS9zdXJ2ZXlzL3dlYmhvb2tzJywgYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zb2xlLmxvZyhyZXEuYm9keSk7CiAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>values</text>
@@ -2254,31 +2266,31 @@
         <text encoding="base64">ICAgICAgICBsYXJnZTogZXZlbnQuZ2FsbGVyeV9tYWluX2ltYWdlLnNpemVzLmxhcmdlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4ge3R5cGU6ICdzdWJtaXRfc3VydmV5J307Cg==</text>
+        <text encoding="base64">ICBhcHAucG9zdCgnL2FwaS9zdXJ2ZXlzL3dlYmhvb2tzJywgYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zb2xlLmxvZyhyZXEuYm9keSk7CiAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9pbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">ICAvLyByZXR1cm4ge3R5cGU6ICdzdWJtaXRfc3VydmV5J307Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vIGZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSwgb3duUHJvcHMpIHsKLy8gICByZXR1cm4gewovLyAgICAgc3RhdGU6IHN0YXRlCi8vICAgfTsKLy8gfQovLwovLyBmdW5jdGlvbiBtYXBEaXNwYXRjaFRvUHJvcHMoZGlzcGF0Y2gpIHsKLy8gICByZXR1cm4gewovLyAgICAgYWN0aW9uOiBiaW5kQWN0aW9uQ3JlYXRvcnMoYWN0aW9ucywgZGlzcGF0Y2gpCi8vICAgfTsKLy8gfQo=</text>
+        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Ci8vIGZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSwgb3duUHJvcHMpIHsKLy8gICByZXR1cm4gewovLyAgICAgc3RhdGU6IHN0YXRlCi8vICAgfTsKLy8gfQovLwovLyBmdW5jdGlvbiBtYXBEaXNwYXRjaFRvUHJvcHMoZGlzcGF0Y2gpIHsKLy8gICByZXR1cm4gewovLyAgICAgYWN0aW9uOiBiaW5kQWN0aW9uQ3JlYXRvcnMoYWN0aW9ucywgZGlzcGF0Y2gpCi8vICAgfTsKLy8gfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhZGRyZXNzOiBQcm9wVHlwZXMuc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBhZGRyZXNzOiBQcm9wVHlwZXMuc3RyaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZWFkOiBQcm9wVHlwZXMuc2hhcGUoe19faHRtbDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkfSksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e2xlYWR9Lz4K</text>
+        <text encoding="base64">ICBsZWFkOiBQcm9wVHlwZXMuc2hhcGUoe19faHRtbDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkfSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Title/Subtitle/g</text>
