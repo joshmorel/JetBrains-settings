@@ -416,11 +416,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503745468986">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-        <mark key="^" line="33" column="39" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503747784839">
+        <mark key="'" line="15" column="47" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
+        <mark key="^" line="35" column="27" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/service.js" timestamp="1500681707846">
         <mark key="[" line="7" column="25" />
@@ -2159,7 +2160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="19" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="106" column="32" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="116" column="9" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="139" column="23" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
@@ -2259,63 +2259,63 @@
       <jump line="3" column="7" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Hero/Hero.js" />
       <jump line="8" column="0" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Section/Section.js" />
       <jump line="6" column="6" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Home/Home.js" />
+      <jump line="15" column="47" filename="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>events</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnRzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>events</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>Title</text>
+        <text>uniqueEvents</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYXJnZTogZXZlbnQuZ2FsbGVyeV9tYWluX2ltYWdlLnNpemVzLmxhcmdlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkV2ZW50cyIpOwogICAgICBjb25zb2xlLmxvZyhldmVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnRzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdW5pcXVlRXZlbnRzID0gZXZlbnRzLmZpbHRlcihldmVudCA9PikK</text>
+        <text encoding="base64">ICAgICAgLy8gcmVtb3ZlIGFueSBldmVudCB3aGVyZSBuZXdlciBldmVudCBmb3VuZCB3aXRoIHNhbWUgZW1haWwvY2hvaWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdXJ2ZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRobmFtZSA9IDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwID0gbmV3IFBhdGgoJy9hcGkvc3VydmV5cy86c3VydmV5SWQvOmNob2ljZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRobmFtZSA9IG5ldyBVUkwodXJsKS5wYXRobmFtZTsKICAgICAgICBjb25zdCBtYXRjaCA9IHAudGVzdChwYXRobmFtZSk7IC8vb2JqZWN0IG9yIG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzLnNlbmQoe30pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwID0gbmV3IFBhdGgoJy9hcGkvc3VydmV5cy86c3VydmV5SWQvOmNob2ljZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kKHt9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codW5pcXVlRXZlbnRzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5wYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlVuaXF1ZSBFdmVudHMiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHJlbW92ZSB1bmRlZmluZWQK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcGFjdEV2ZW50cyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/Title/Subtitle/g</text>
+        <text>%s/uniqueEvents/events/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Title</last-search>
+      <last-search>uniqueEvents</last-search>
       <last-offset />
-      <last-pattern>Title</last-pattern>
-      <last-replace>Subtitle</last-replace>
-      <last-substitute>Title</last-substitute>
+      <last-pattern>uniqueEvents</last-pattern>
+      <last-replace>events</last-replace>
+      <last-substitute>uniqueEvents</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>style</entry>
         <entry>Start</entry>
         <entry>Anchor</entry>
         <entry>Link</entry>
@@ -2335,10 +2335,9 @@
         <entry>Main</entry>
         <entry>Content</entry>
         <entry>Title</entry>
+        <entry>uniqueEvents</entry>
       </history-search>
       <history-cmd>
-        <entry>x</entry>
-        <entry>s/Login/Credits/g</entry>
         <entry>%s/class/className/g</entry>
         <entry encoding="base64">JzwsJz5zL2NsYXNzL2NsYXNzTmFtZS9n</entry>
         <entry>s/Start/End/g</entry>
@@ -2357,6 +2356,8 @@
         <entry>%s/Content/Hero/g</entry>
         <entry>%s/Title/Section/g</entry>
         <entry>s/Title/Subtitle/g</entry>
+        <entry>$s/uniqueEvents/events/g</entry>
+        <entry>%s/uniqueEvents/events/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
