@@ -835,6 +835,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1503749521910">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/index.js" timestamp="1497398235214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="2" />
