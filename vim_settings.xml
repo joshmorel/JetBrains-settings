@@ -9,6 +9,7 @@
         <mark key="." line="43" column="37" />
         <mark key="^" line="43" column="37" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Header.js" timestamp="1503758534364" />
       <file name="$USER_HOME$/git/edu-repos/github-api/bind.js" timestamp="1499916437801">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="9" column="0" />
@@ -292,11 +293,11 @@
         <mark key="^" line="61" column="14" />
         <mark key="." line="61" column="14" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/reducers/index.js" timestamp="1503245783746">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/reducers/index.js" timestamp="1503757264925">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/routes.js" timestamp="1497586723687">
         <mark key="[" line="6" column="68" />
@@ -416,12 +417,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503753820104">
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503756858847">
         <mark key="'" line="15" column="47" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="44" column="35" />
+        <mark key="[" line="57" column="61" />
+        <mark key="]" line="69" column="12" />
+        <mark key="." line="69" column="12" />
+        <mark key="^" line="69" column="12" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/service.js" timestamp="1500681707846">
         <mark key="[" line="7" column="25" />
@@ -568,12 +569,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" timestamp="1503244233524">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" timestamp="1503758435045">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/store/configureStore.js" timestamp="1496594600463">
         <mark key="[" line="0" column="0" />
@@ -1095,6 +1095,13 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyList.js" timestamp="1503758678461">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/webpack.config.dev.js" timestamp="1497791822555">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="39" />
@@ -1342,6 +1349,12 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="44" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/reducers/surveyReducer.js" timestamp="1503757520839">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/promise-cap.js" timestamp="1500735505720">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="27" />
@@ -1353,6 +1366,12 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/actions/types.js" timestamp="1503757030006">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+        <mark key="^" line="1" column="42" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/stubs-simple.js" timestamp="1500639848727">
         <mark key="[" line="0" column="0" />
@@ -1432,11 +1451,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/actions/index.js" timestamp="1503615935078">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/actions/index.js" timestamp="1503757058604">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/flux/actions/DataActions.js" timestamp="1501200807596">
         <mark key="[" line="45" column="23" />
@@ -1702,6 +1721,10 @@
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/reducers/authReducer.js" timestamp="1503757218467">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-router-v4/src/components/roster/PlayerAPI.js" timestamp="1497595012704">
         <mark key="[" line="24" column="24" />
@@ -2166,7 +2189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="32" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="116" column="9" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="139" column="23" filename="$USER_HOME$/git/edu-repos/js-react-redux/src/components/course/ManageCoursePage.js" />
       <jump line="2" column="38" filename="$USER_HOME$/git/edu-repos/wp-api-react/src/scripts/components/PostList.js" />
@@ -2266,63 +2288,63 @@
       <jump line="8" column="0" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/bulma/Section/Section.js" />
       <jump line="6" column="6" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Home/Home.js" />
       <jump line="15" column="47" filename="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3VydmV5cyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>uniqueEvents</text>
+        <text>Dashboard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U3VydmV5LnVwZGF0ZU9uZSh7CiAgaWQ6IHN1cnZleUlkLAogIHJlY2lwaWVudHM6IHsKICAgICRlbGVtTWF0Y2g6IHsgZW1haWw6IGVtYWlsLCByZXNwb25kZWQ6IGZhbHNlfQogIH0KfSwgewogICRpbmM6IHsgW2Nob2ljZV06IDEgfSwKICAkc2V0OiB7ICdyZWNpcGllbnRzLiQucmVzcG9uZGVkJyA6IHRydWUgfQp9KQo=</text>
+        <text encoding="base64">aW1wb3J0IGF1dGhSZWR1Y2VyIGZyb20gJy4vYXV0aFJlZHVjZXInOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3VydmV5cyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcHAuZ2V0KCcvYXBpL3N1cnZleXMvdGhhbmtzJywgKHJlcSwgcmVzKSA9PiB7CiAgICByZXMuc2VuZCgnVGhhbmtzIGZvciB2b3RpbmchJyk7CiAgfSk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVtYWlsKTsK</text>
+        <text encoding="base64">ICAgICAgPGxpIGtleT0icGF5bWVudHMiPjxQYXltZW50cy8+PC9saT4sCiAgICAgICAgPGxpIGtleT0iY3JlZGl0cyIgc3R5bGU9e3ttYXJnaW46ICcwIDEwcHgnfX0+CiAgICAgICAgICBDcmVkaXRzOiB7dGhpcy5wcm9wcy5hdXRoLmNyZWRpdHN9CiAgICAgICAgPC9saT4sCiAgICAgICAgPGxpIGtleT0ibG9nb3V0Ij48YSBocmVmPSIvYXBpL2xvZ291dCI+TG9nb3V0PC9hPjwvbGk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJmb3JFYWNoIGVtYWlsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LCBbXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgPGxpIGtleT0icGF5bWVudHMiPjxQYXltZW50cy8+PC9saT4sCiAgICAgICAgICA8bGkga2V5PSJjcmVkaXRzIiBzdHlsZT17e21hcmdpbjogJzAgMTBweCd9fT4KICAgICAgICAgICAgQ3JlZGl0czoge3RoaXMucHJvcHMuYXV0aC5jcmVkaXRzfQogICAgICAgICAgPC9saT4sCiAgICAgICAgICA8bGkga2V5PSJsb2dvdXQiPjxhIGhyZWY9Ii9hcGkvbG9nb3V0Ij5Mb2dvdXQ8L2E+PC9saT4KICAgICAgICBdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHN3aXRjaCAodGhpcy5wcm9wcy5zdXJ2ZXlzKSB7CiAgICAgIGNhc2UgbnVsbDoKICAgICAgICByZXR1cm47CiAgICAgIGNhc2UgZmFsc2U6CiAgICAgICAgcmV0dXJuIDxsaT48YSBocmVmPSIvYXV0aC9nb29nbGUiPkxvZ2luIFdpdGggR29vZ2xlPC9hPjwvbGk+Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/uniqueEvents/events/g</text>
+        <text>%s/Dashboard/SurveyList/g</text>
       </register>
     </registers>
     <search>
-      <last-search>uniqueEvents</last-search>
+      <last-search>Dashboard</last-search>
       <last-offset />
-      <last-pattern>uniqueEvents</last-pattern>
-      <last-replace>events</last-replace>
-      <last-substitute>uniqueEvents</last-substitute>
+      <last-pattern>Dashboard</last-pattern>
+      <last-replace>SurveyList</last-replace>
+      <last-substitute>Dashboard</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Start</entry>
         <entry>Anchor</entry>
         <entry>Link</entry>
         <entry>offset</entry>
@@ -2342,9 +2364,9 @@
         <entry>Content</entry>
         <entry>Title</entry>
         <entry>uniqueEvents</entry>
+        <entry>Dashboard</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/class/className/g</entry>
         <entry encoding="base64">JzwsJz5zL2NsYXNzL2NsYXNzTmFtZS9n</entry>
         <entry>s/Start/End/g</entry>
         <entry>%s/Link/Anchor/g</entry>
@@ -2364,6 +2386,7 @@
         <entry>s/Title/Subtitle/g</entry>
         <entry>$s/uniqueEvents/events/g</entry>
         <entry>%s/uniqueEvents/events/g</entry>
+        <entry>%s/Dashboard/SurveyList/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
