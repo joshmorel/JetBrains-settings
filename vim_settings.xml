@@ -416,11 +416,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503744311688">
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503745468986">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/service.js" timestamp="1500681707846">
         <mark key="[" line="7" column="25" />
@@ -2261,11 +2261,11 @@
       <jump line="6" column="6" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/app/Home/Home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdXJ2ZXkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>events</text>
       </register>
       <register name="-" type="4">
-        <text>Email</text>
+        <text>events</text>
       </register>
       <register name="/" type="4">
         <text>Title</text>
@@ -2274,31 +2274,31 @@
         <text encoding="base64">ICAgICAgICBsYXJnZTogZXZlbnQuZ2FsbGVyeV9tYWluX2ltYWdlLnNpemVzLmxhcmdlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdXJ2ZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkV2ZW50cyIpOwogICAgICBjb25zb2xlLmxvZyhldmVudHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdW5pcXVlRXZlbnRzID0gZXZlbnRzLmZpbHRlcihldmVudCA9PikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdXJ2ZXkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzLnNlbmQoe30pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kKHt9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5wYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgcmVzLnNlbmQoe30pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHJlbW92ZSB1bmRlZmluZWQK</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kKHt9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5wYXJhbXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHJlcS5ib2R5KTsKICAgIC8vIGNvbnN0IGNsZWFuc2VkUmVzcG9uc2VzID0gcmVxLmJvZHkubWFwKGV2ZW50ID0+IHsKICAgIC8vICAgaWYoZXZlbnQuZXZlbnQgIT09ICdjbGljaycpIHsKICAgIC8vICAgICByZXR1cm47CiAgICAvLyAgIH0KICAgIC8vICAgaWYgKGV2ZW50LnVybC5wYXJzZVBhdGgoZSkpCiAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgIC8vIHJlbW92ZSB1bmRlZmluZWQK</text>
       </register>
       <register name=":" type="4">
         <text>s/Title/Subtitle/g</text>
