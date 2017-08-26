@@ -416,12 +416,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503747784839">
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/routes/surveyRoutes.js" timestamp="1503753820104">
         <mark key="'" line="15" column="47" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="27" />
-        <mark key="." line="35" column="27" />
-        <mark key="^" line="35" column="27" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/service.js" timestamp="1500681707846">
         <mark key="[" line="7" column="25" />
@@ -835,11 +835,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1503749521910">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1503752082414">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/index.js" timestamp="1497398235214">
         <mark key="[" line="0" column="0" />
@@ -2269,43 +2269,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>uniqueEvents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXJnZTogZXZlbnQuZ2FsbGVyeV9tYWluX2ltYWdlLnNpemVzLmxhcmdlLAo=</text>
+        <text encoding="base64">U3VydmV5LnVwZGF0ZU9uZSh7CiAgaWQ6IHN1cnZleUlkLAogIHJlY2lwaWVudHM6IHsKICAgICRlbGVtTWF0Y2g6IHsgZW1haWw6IGVtYWlsLCByZXNwb25kZWQ6IGZhbHNlfQogIH0KfSwgewogICRpbmM6IHsgW2Nob2ljZV06IDEgfSwKICAkc2V0OiB7ICdyZWNpcGllbnRzLiQucmVzcG9uZGVkJyA6IHRydWUgfQp9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVtb3ZlIGFueSBldmVudCB3aGVyZSBuZXdlciBldmVudCBmb3VuZCB3aXRoIHNhbWUgZW1haWwvY2hvaWNlCg==</text>
+        <text encoding="base64">ICBhcHAuZ2V0KCcvYXBpL3N1cnZleXMvdGhhbmtzJywgKHJlcSwgcmVzKSA9PiB7CiAgICByZXMuc2VuZCgnVGhhbmtzIGZvciB2b3RpbmchJyk7CiAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRobmFtZSA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwID0gbmV3IFBhdGgoJy9hcGkvc3VydmV5cy86c3VydmV5SWQvOmNob2ljZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVtYWlsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRobmFtZSA9IG5ldyBVUkwodXJsKS5wYXRobmFtZTsKICAgICAgICBjb25zdCBtYXRjaCA9IHAudGVzdChwYXRobmFtZSk7IC8vb2JqZWN0IG9yIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJmb3JFYWNoIGVtYWlsIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwID0gbmV3IFBhdGgoJy9hcGkvc3VydmV5cy86c3VydmV5SWQvOmNob2ljZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codW5pcXVlRXZlbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9LCBbXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlVuaXF1ZSBFdmVudHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcGFjdEV2ZW50cyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/uniqueEvents/events/g</text>
