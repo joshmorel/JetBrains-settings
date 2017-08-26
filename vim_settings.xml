@@ -569,11 +569,10 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" timestamp="1503758435045">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/Dashboard.js" timestamp="1503760140098">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-redux/src/store/configureStore.js" timestamp="1496594600463">
         <mark key="[" line="0" column="0" />
@@ -1095,12 +1094,12 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyList.js" timestamp="1503758678461">
+      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyList.js" timestamp="1503760258969">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="27" column="13" />
-        <mark key="." line="27" column="13" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-styling/webpack.config.dev.js" timestamp="1497791822555">
         <mark key="[" line="28" column="29" />
@@ -2292,43 +2291,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3VydmV5cyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5zdXJ2ZXlzKSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Yes</text>
       </register>
       <register name="/" type="4">
         <text>Dashboard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGF1dGhSZWR1Y2VyIGZyb20gJy4vYXV0aFJlZHVjZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YT5ZZXM6IHtzdXJ2ZXkueWVzfTwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3VydmV5cyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5zdXJ2ZXlzKSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgRGFzaGJvYXJkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICBTdXJ2ZXlMaXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGxpIGtleT0icGF5bWVudHMiPjxQYXltZW50cy8+PC9saT4sCiAgICAgICAgPGxpIGtleT0iY3JlZGl0cyIgc3R5bGU9e3ttYXJnaW46ICcwIDEwcHgnfX0+CiAgICAgICAgICBDcmVkaXRzOiB7dGhpcy5wcm9wcy5hdXRoLmNyZWRpdHN9CiAgICAgICAgPC9saT4sCiAgICAgICAgPGxpIGtleT0ibG9nb3V0Ij48YSBocmVmPSIvYXBpL2xvZ291dCI+TG9nb3V0PC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3N1cnZleS50aXRsZX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFsK</text>
+        <text encoding="base64">ICAgICAgICAgIHtzdXJ2ZXkudGl0bGV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3VydmV5cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgPGxpIGtleT0icGF5bWVudHMiPjxQYXltZW50cy8+PC9saT4sCiAgICAgICAgICA8bGkga2V5PSJjcmVkaXRzIiBzdHlsZT17e21hcmdpbjogJzAgMTBweCd9fT4KICAgICAgICAgICAgQ3JlZGl0czoge3RoaXMucHJvcHMuYXV0aC5jcmVkaXRzfQogICAgICAgICAgPC9saT4sCiAgICAgICAgICA8bGkga2V5PSJsb2dvdXQiPjxhIGhyZWY9Ii9hcGkvbG9nb3V0Ij5Mb2dvdXQ8L2E+PC9saT4KICAgICAgICBdOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">ICAgICAgXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAodGhpcy5wcm9wcy5zdXJ2ZXlzKSB7CiAgICAgIGNhc2UgbnVsbDoKICAgICAgICByZXR1cm47CiAgICAgIGNhc2UgZmFsc2U6CiAgICAgICAgcmV0dXJuIDxsaT48YSBocmVmPSIvYXV0aC9nb29nbGUiPkxvZ2luIFdpdGggR29vZ2xlPC9hPjwvbGk+Owo=</text>
+        <text encoding="base64">ICAgICAgPGxpIGtleT0icGF5bWVudHMiPjxQYXltZW50cy8+PC9saT4sCiAgICAgICAgPGxpIGtleT0iY3JlZGl0cyIgc3R5bGU9e3ttYXJnaW46ICcwIDEwcHgnfX0+CiAgICAgICAgICBDcmVkaXRzOiB7dGhpcy5wcm9wcy5hdXRoLmNyZWRpdHN9CiAgICAgICAgPC9saT4sCiAgICAgICAgPGxpIGtleT0ibG9nb3V0Ij48YSBocmVmPSIvYXBpL2xvZ291dCI+TG9nb3V0PC9hPjwvbGk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Dashboard/SurveyList/g</text>
