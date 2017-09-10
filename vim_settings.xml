@@ -949,11 +949,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505066576992">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505066841269">
         <mark key="[" line="1" column="18" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/weatherActions.js" timestamp="1502357241578">
         <mark key="[" line="13" column="47" />
@@ -1740,11 +1740,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/Weather.js" timestamp="1505066807564">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="87" />
-        <mark key="^" line="19" column="87" />
-        <mark key="." line="19" column="87" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/Weather.js" timestamp="1505067008587">
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="67" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/App.js" timestamp="1503249237644">
         <mark key="[" line="34" column="11" />
@@ -2336,10 +2336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.default(&quot;F&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.default(&quot;F&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Dashboard</text>
