@@ -45,6 +45,7 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/fcc-local-weather-app/app.js" timestamp="1505066738731" />
       <file name="$USER_HOME$/git/edu-repos/react-router4-docs/src/components/Post.js" timestamp="1501370217160">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="4" column="20" />
@@ -232,9 +233,9 @@
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/App.css" timestamp="1505064128335">
         <mark key="[" line="2" column="46" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-testing/package.json" timestamp="1498353032857">
         <mark key="[" line="6" column="13" />
@@ -259,6 +260,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/public/index.html" timestamp="1505065886710">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/vanilla-random-quote-machine/index.html" timestamp="1498653125045">
         <mark key="[" line="6" column="0" />
@@ -942,11 +949,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505063421856">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505066576992">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/weatherActions.js" timestamp="1502357241578">
         <mark key="[" line="13" column="47" />
@@ -1733,11 +1740,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/Weather.js" timestamp="1505063428208">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/Weather.js" timestamp="1505066726219">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="44" />
+        <mark key="^" line="25" column="43" />
+        <mark key="." line="25" column="44" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/App.js" timestamp="1503249237644">
         <mark key="[" line="34" column="11" />
@@ -1762,10 +1769,6 @@
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/reducers/authReducer.js" timestamp="1503757218467">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-react-router-v4/src/components/roster/PlayerAPI.js" timestamp="1497595012704">
         <mark key="[" line="24" column="24" />
@@ -2333,10 +2336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>React App</text>
+        <text>.default(&quot;F&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>React App</text>
+        <text>.default(&quot;F&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>Dashboard</text>
