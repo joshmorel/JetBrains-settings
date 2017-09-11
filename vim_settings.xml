@@ -473,12 +473,15 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" timestamp="1505163839728">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" timestamp="1505166778136">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="14" column="8" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/styles/normalize.css" timestamp="1505165412120">
+        <mark key="'" line="0" column="300" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Page/Page.js" timestamp="1502235530697">
         <mark key="[" line="13" column="0" />
@@ -565,11 +568,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPanel.js" timestamp="1505164357490">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
-        <mark key="^" line="17" column="26" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPanel.js" timestamp="1505166746089">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Header/Header.js" timestamp="1503256330729">
         <mark key="[" line="6" column="8" />
@@ -938,11 +941,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.css" timestamp="1505163776484">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.css" timestamp="1505166244694">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/react-portfolio/src/App.js" timestamp="1500227552756">
         <mark key="[" line="33" column="0" />
@@ -1059,11 +1062,11 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505148512792">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505166016929">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/containers/Page/index.js" timestamp="1502231797126">
         <mark key="[" line="1" column="0" />
@@ -1416,12 +1419,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherIcon.js" timestamp="1505164035414">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherIcon.js" timestamp="1505166489205">
         <mark key="'" line="13" column="7" />
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="^" line="36" column="17" />
+        <mark key="." line="36" column="21" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/promise-property.js" timestamp="1500679429854">
         <mark key="[" line="8" column="43" />
@@ -1783,6 +1786,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reset.css" timestamp="1505165992975">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/Weather.js" timestamp="1505067008587">
         <mark key="[" line="13" column="68" />
@@ -2251,11 +2260,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPanelCell.js" timestamp="1505164340756">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="22" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPanelCell.js" timestamp="1505166636673">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/heroku-example/app.js" timestamp="1499755601625">
         <mark key="[" line="2" column="0" />
@@ -2283,7 +2292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/git/edu-repos/emaily-client/src/components/App.js" />
       <jump line="17" column="51" filename="$USER_HOME$/git/edu-repos/emaily-client/src/components/App.js" />
       <jump line="0" column="6" filename="$USER_HOME$/git/ilios-client/src/actions/types.js" />
       <jump line="1" column="0" filename="$USER_HOME$/git/ilios-client/src/actions/types.js" />
@@ -2383,55 +2391,56 @@
       <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsPanel.js" />
       <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" />
       <jump line="18" column="4" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" />
+      <jump line="0" column="300" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/styles/normalize.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGg1PkZvcmVjYXN0PC9oNT4K</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>{{fontSize: &quot;0.8em&quot;}}</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>Settings</text>
+        <text>block</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGF0ZURpc3BsYXlUZW1wIGZyb20gIi4vdXRpbHMvY2FsY3VsYXRlRGlzcGxheVRlbXAiOwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL25vcm1hbGl6ZS5jc3MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGg1PkZvcmVjYXN0PC9oNT4K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogImdyZXkiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplOiAiMC44ZW0iLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh3ZWF0aGVyLmZvcmVjYXN0KTsK</text>
+        <text encoding="base64">ICB1c2VyLXNlbGVjdDogbm9uZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7aG92ZXJ9fQo=</text>
+        <text encoding="base64">ICAtbXMtdXNlci1zZWxlY3Q6IG5vbmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAtbW96LXVzZXItc2VsZWN0OiBub25lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLAo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL25vcm1hbGl6ZS5jc3MnOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JlY2FzdCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdHlsZXMgPSB7CiAgICBkaXNwbGF5OiAiZmxleCIsCiAgICBtYXJnaW5Cb3R0b206ICI1cHgiCiAgfTsKCiAgY29uc29sZS5sb2coZm9yZWNhc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Settings/Weather/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Settings</last-search>
+      <last-search>block</last-search>
       <last-offset />
-      <last-pattern>Settings</last-pattern>
+      <last-pattern>block</last-pattern>
       <last-replace>Weather</last-replace>
       <last-substitute>Settings</last-substitute>
       <last-dir>1</last-dir>
@@ -2439,7 +2448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text</entry>
         <entry>$text</entry>
         <entry>card-header</entry>
         <entry>CardTitle</entry>
@@ -2459,6 +2467,7 @@
         <entry>this</entry>
         <entry>Modal</entry>
         <entry>Settings</entry>
+        <entry>block</entry>
       </history-search>
       <history-cmd>
         <entry>s/Anchor/Link/g</entry>
