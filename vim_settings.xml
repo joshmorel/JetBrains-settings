@@ -565,11 +565,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPanel.js" timestamp="1505160380594">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPanel.js" timestamp="1505162558685">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Header/Header.js" timestamp="1503256330729">
         <mark key="[" line="6" column="8" />
@@ -659,6 +658,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="7" column="8" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/utils/calculateDisplayTemp.js" timestamp="1505161308711">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily-client/src/components/Payments.js" timestamp="1501865532053">
         <mark key="[" line="13" column="15" />
@@ -1410,12 +1415,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherIcon.js" timestamp="1505156502231">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="7" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherIcon.js" timestamp="1505160958842">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="3" column="64" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/js-sinon/promise-property.js" timestamp="1500679429854">
         <mark key="[" line="8" column="43" />
@@ -2245,6 +2250,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPanelCell.js" timestamp="1505162364464">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/heroku-example/app.js" timestamp="1499755601625">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="27" />
@@ -2374,43 +2385,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGV4dEFsaWduOiAiY2VudGVyIiwK</text>
+        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>weatherPanelIsVisible</text>
+        <text>forecast</text>
       </register>
       <register name="/" type="4">
         <text>Settings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudG9nZ2xlU2V0dGluZ3NQYW5lbFZpc2liaWxpdHkgPSB0aGlzLnRvZ2dsZVNldHRpbmdzUGFuZWxWaXNpYmlsaXR5LmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGF0ZURpc3BsYXlUZW1wIGZyb20gIi4vdXRpbHMvY2FsY3VsYXRlRGlzcGxheVRlbXAiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGV4dEFsaWduOiAiY2VudGVyIiwK</text>
+        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8V2VhdGhlclBhbmVsCiAgICAgICAgICB3ZWF0aGVyUGFuZWxJc1Zpc2libGU9e3dlYXRoZXJQYW5lbElzVmlzaWJsZX0KICAgICAgICAgIHRlbXBEaXNwbGF5VW5pdHM9e3RlbXBEaXNwbGF5VW5pdHN9CiAgICAgICAgICBmb3JlY2FzdD17d2VhdGhlci5mb3JlY2FzdH0KICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JlY2FzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6ICI1ZW0iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFdlYXRoZXIgUGFuZWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAo=</text>
+        <text encoding="base64">ICB3ZWF0aGVyUGFuZWxJc1Zpc2libGU6IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvdHRvbTogIjEwZW0iLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGF0ZURpc3BsYXlUZW1wIGZyb20gIi4vdXRpbHMvY2FsY3VsYXRlRGlzcGxheVRlbXAiOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFdlYXRoZXJQYW5lbCBmcm9tICIuL1dlYXRoZXJQYW5lbCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBjYWxjdWxhdGVEaXNwbGF5VGVtcCA9IGRlZ3JlZXNGID0+IHsKICAgIHJldHVybiBwYXJzZUludCh0ZW1wRGlzcGxheVVuaXRzID09PSAiRiIgPyBkZWdyZWVzRiA6IE1hdGgucm91bmQoKGRlZ3JlZXNGIC0gMzIpICogNSAvIDkpLCAxMCk7CiAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/Settings/Weather/g</text>
