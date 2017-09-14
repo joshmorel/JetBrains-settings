@@ -525,12 +525,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505382994495">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505387401806">
         <mark key="'" line="7" column="1" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="28" column="4" />
+        <mark key="[" line="18" column="80" />
+        <mark key="]" line="18" column="84" />
+        <mark key="." line="18" column="84" />
+        <mark key="^" line="18" column="84" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/weatherActions.js" timestamp="1505303635399">
         <mark key="[" line="13" column="47" />
@@ -931,12 +931,12 @@
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" timestamp="1505385753056">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" timestamp="1505387188969">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="9" column="78" />
-        <mark key="]" line="9" column="75" />
-        <mark key="." line="9" column="75" />
-        <mark key="^" line="9" column="75" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/Weather.js" timestamp="1502275824288">
         <mark key="[" line="8" column="37" />
@@ -1427,6 +1427,12 @@
         <mark key="]" line="2" column="24" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsPanel.js" timestamp="1505387228015">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/public/index.html" timestamp="1505065886710">
         <mark key="[" line="21" column="11" />
@@ -2523,10 +2529,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>togglePanelsVisibility</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>togglePanelsVisibility</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>ALL_PANELS</text>
@@ -2535,31 +2541,31 @@
         <text encoding="base64">ICAgICAgZGlzcGF0Y2godG9nZ2xlUGFuZWxzVmlzaWJpbGl0eSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvZ2dsZVBhbmVsc1Zpc2liaWxpdHk6ICgpID0+IHsKICAgICAgZGlzcGF0Y2godG9nZ2xlUGFuZWxzVmlzaWJpbGl0eSgpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZD0ic2V0dGluZ3MtcGFuZWwiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQUxMX1BBTkVMU19UT0dHTEVfVklTSUJJTElUWToKICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHdlYXRoZXIsCiAgICAgICAge3BhbmVsSXNWaXNpYmxlOiAhd2VhdGhlci5wYW5lbElzVmlzaWJsZX0KICAgICAgKTsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYW5lbElzQWN0aXZlOiBmYWxzZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVFRJTkdTX1BBTkVMX1RPR0dMRV9BQ1RJVkUgPSAnU0VUVElOR1NfUEFORUxfVE9HR0xFX0FDVElWRSc7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJ0dDp1cGRhdGUiLCB0aGlzLmhhbmRsZVVwZGF0ZSwgZmFsc2UpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJ0dDp1cGRhdGUiLCB0aGlzLmhhbmRsZVVwZGF0ZSwgZmFsc2UpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBoYW5kbGVDbGljayhlKTogewogICAgCiAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmc6ICIzdnciLAo=</text>
+        <text encoding="base64">ICAgIHRvZ2dsZVBhbmVsc1Zpc2liaWxpdHk6ICgpID0+IHsKICAgICAgZGlzcGF0Y2godG9nZ2xlUGFuZWxzVmlzaWJpbGl0eSgpKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/ALL_PANELS/SETTINGS_PANEL/g</text>
