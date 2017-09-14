@@ -525,11 +525,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505387401806">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505388883549">
         <mark key="'" line="7" column="1" />
-        <mark key="[" line="18" column="80" />
-        <mark key="]" line="18" column="84" />
-        <mark key="." line="18" column="84" />
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
         <mark key="^" line="18" column="84" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/weatherActions.js" timestamp="1505303635399">
@@ -1428,11 +1428,11 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsPanel.js" timestamp="1505387228015">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="23" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsPanel.js" timestamp="1505389063467">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
         <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/public/index.html" timestamp="1505065886710">
         <mark key="[" line="21" column="11" />
@@ -2529,10 +2529,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>ALL_PANELS</text>
