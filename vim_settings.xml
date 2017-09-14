@@ -103,10 +103,11 @@
         <mark key="^" line="18" column="74" />
         <mark key="." line="18" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/redux-popup-options.txt" timestamp="1505427733900">
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/redux-popup-options.txt" timestamp="1505428561176">
+        <mark key="[" line="15" column="118" />
+        <mark key="]" line="17" column="91" />
+        <mark key="^" line="17" column="91" />
+        <mark key="." line="17" column="91" />
       </file>
       <file name="$USER_HOME$/git/ilios-client/src/actions/index.js" timestamp="1501588725700">
         <mark key="[" line="12" column="54" />
