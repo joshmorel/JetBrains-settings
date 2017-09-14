@@ -270,7 +270,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" timestamp="1505213967362">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" timestamp="1505385586266">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="2" />
@@ -931,12 +931,12 @@
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" timestamp="1505254655069">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" timestamp="1505385753056">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="37" column="5" />
-        <mark key="." line="37" column="5" />
-        <mark key="^" line="37" column="5" />
+        <mark key="[" line="9" column="78" />
+        <mark key="]" line="9" column="75" />
+        <mark key="." line="9" column="75" />
+        <mark key="^" line="9" column="75" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/Weather.js" timestamp="1502275824288">
         <mark key="[" line="8" column="37" />
@@ -1380,11 +1380,11 @@
         <mark key="." line="20" column="54" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/settingsActions.js" timestamp="1505384754821">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/settingsActions.js" timestamp="1505385889740">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/css-less-sass/src/index.html" timestamp="1497568280515">
         <mark key="[" line="44" column="15" />
@@ -1891,12 +1891,12 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/weather.js" timestamp="1505254091702">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/weather.js" timestamp="1505385563251">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
-        <mark key="^" line="24" column="2" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/react-quote-machine/tools/srcServer.js" timestamp="1497658693199">
         <mark key="[" line="14" column="38" />
@@ -2523,43 +2523,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>togglePanelsVisibility</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>togglePanelsVisibility</text>
       </register>
       <register name="/" type="4">
         <text>ALL_PANELS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFMTF9QQU5FTFNfVE9HR0xFX1ZJU0lCSUxJVFkgPSAnQUxMX1BBTkVMU19UT0dHTEVfVklTSUJJTElUWSc7Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2godG9nZ2xlUGFuZWxzVmlzaWJpbGl0eSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYW5lbElzQWN0aXZlOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIHRvZ2dsZVBhbmVsc1Zpc2liaWxpdHk6ICgpID0+IHsKICAgICAgZGlzcGF0Y2godG9nZ2xlUGFuZWxzVmlzaWJpbGl0eSgpKQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVFRJTkdTX1BBTkVMX1RPR0dMRV9BQ1RJVkUgPSAnU0VUVElOR1NfUEFORUxfVE9HR0xFX0FDVElWRSc7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGNhc2UgQUxMX1BBTkVMU19UT0dHTEVfVklTSUJJTElUWToKICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHdlYXRoZXIsCiAgICAgICAge3BhbmVsSXNWaXNpYmxlOiAhd2VhdGhlci5wYW5lbElzVmlzaWJsZX0KICAgICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmc6ICIzdnciLAo=</text>
+        <text encoding="base64">ICBwYW5lbElzQWN0aXZlOiBmYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DbGljaz17KCk9PmNvbnNvbGUubG9nKCJIZWFkZXIiKX0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVFRJTkdTX1BBTkVMX1RPR0dMRV9BQ1RJVkUgPSAnU0VUVElOR1NfUEFORUxfVE9HR0xFX0FDVElWRSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmc6ICIzdnciCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiAid2hpdGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmc6ICIzdnciLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/ALL_PANELS/SETTINGS_PANEL/g</text>
