@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1505491694405">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1505513029384">
         <mark key="'" line="1" column="11" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyList.js" timestamp="1503760258969">
         <mark key="'" line="4" column="0" />
@@ -62,11 +63,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="101" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPopUp.js" timestamp="1505491718652">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPopUp.js" timestamp="1505512749262">
         <mark key="'" line="1" column="1" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" timestamp="1505490585107">
         <mark key="'" line="13" column="0" />
@@ -428,43 +429,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>Visible</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Visible</text>
       </register>
       <register name="/" type="4">
         <text>onIcon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgV0VBVEhFUl9QT1BVUF9DTE9TRToKICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHdlYXRoZXIsCiAgICAgICAge3BhbmVsSXNWaXNpYmxlOiBmYWxzZX0KICAgICAgKTsK</text>
+        <text encoding="base64">ICBjbG9zZVBvcFVwOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZDogUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENsaWNrT3V0c2lkZSBmcm9tICdyZWFjdC1jbGljay1vdXRzaWRlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgb25Nb3VzZUVudGVyPXsoKSA9PiBjb25zb2xlLmxvZyhgTW91c2UgZW50ZXIgJHtpZH1gKX0KICAgICAgICAgb25Nb3VzZUxlYXZlPXsoKSA9PiBjb25zb2xlLmxvZyhgTW91c2UgbGVhdmUgJHtpZH1gKX0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxoND5Gb3JlY2FzdDwvaDQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIG9uTW91c2VFbnRlcjogbnVtID0+IHsKICAgIC8vICAgZGlzcGF0Y2godHJhY2tVaVBvcHVwQWN0aXZlKG51bSkpCiAgICAvLyB9LAogICAgLy8gb25Nb3VzZUxlYXZlOiAoKSA9PiB7CiAgICAvLyAgIGRpc3BhdGNoKHVuc2V0VWlQb3B1cEFjdGl2ZSgpKQogICAgLy8gfSwKICAgIG9uQ2xpY2tPdXRzaWRlOiAoKSA9PiB7CiAgICAgIGRpc3BhdGNoKGNsb3NlUG9wdXAoKSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQ2xpY2tPdXRzaWRlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uSWNvbkNsaWNrOiAoKSA9PiB7CiAgICAgIGRpc3BhdGNoKG9wZW5Qb3B1cCgpKTsKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxDbGlja091dHNpZGUgPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZDogUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtzZXRVaVBvcHVwQWN0aXZlLCB0cmFja1VpUG9wdXBBY3RpdmUsIHVuc2V0VWlQb3B1cEFjdGl2ZX0gZnJvbSAiLi4vYWN0aW9ucy91aUFjdGlvbnMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbk1vdXNlRW50ZXI9e2UgPT4gewogICAgICAgICAgb25Nb3VzZUVudGVyKGUudGFyZ2V0LmlkKQogICAgICAgIH19CiAgICAgICAgICAgb25Nb3VzZUxlYXZlPXtvbk1vdXNlTGVhdmV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgb25Nb3VzZUVudGVyPXsoKSA9PiBjb25zb2xlLmxvZyhgTW91c2UgZW50ZXIgJHtpZH1gKX0KICAgICAgICAgb25Nb3VzZUxlYXZlPXsoKSA9PiBjb25zb2xlLmxvZyhgTW91c2UgbGVhdmUgJHtpZH1gKX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIG9uTW91c2VFbnRlcjogbnVtID0+IHsKICAgIC8vICAgZGlzcGF0Y2godHJhY2tVaVBvcHVwQWN0aXZlKG51bSkpCiAgICAvLyB9LAogICAgLy8gb25Nb3VzZUxlYXZlOiAoKSA9PiB7CiAgICAvLyAgIGRpc3BhdGNoKHVuc2V0VWlQb3B1cEFjdGl2ZSgpKQogICAgLy8gfSwKICAgIG9uQ2xpY2tPdXRzaWRlOiAoKSA9PiB7CiAgICAgIGRpc3BhdGNoKGNsb3NlUG9wdXAoKSkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/CLOSE/OPEN/g</text>
