@@ -222,10 +222,10 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/actionTypes.js" timestamp="1505473930357">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/actionTypes.js" timestamp="1505474731701">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/emaily/routes/surveyRoutes.js" timestamp="1502451042955">
         <mark key="'" line="2" column="10" />
@@ -430,8 +430,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0Y2Y5OGVkNzE5OThlNDVkZTA3NGI0NTQ4NDE5NjI4OWY5ZmVhYzM0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>S</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
