@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1505593134271">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1505594021474">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="19" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyList.js" timestamp="1503760258969">
         <mark key="'" line="4" column="0" />
@@ -435,44 +434,44 @@
       <jump line="76" column="23" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>display</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBvbkNsaWNrT3V0c2lkZT17aXNPcGVuID8gY2xvc2VQb3BVcCA6IG51bGx9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>display</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>Button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICIuL3N0eWxlL0J1dHRvbiI7Cg==</text>
+        <text encoding="base64">Y2xhc3MgUG9wVXAgZXh0ZW5kcyBDb21wb25lbnQgewogIGhhbmRsZUNsaWNrT3V0c2lkZSA9IGUgPT4gewogICAgdGhpcy5wcm9wcy5oYW5kbGVPbkNsaWNrT3V0c2lkZSgpOwogIH07CgogIHJlbmRlcigpIHsKICAgIGNvbnN0IHtoZWFkZXIsIGlzT3BlbiwgY2hpbGRyZW59ID0gdGhpcy5wcm9wczsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJQb3BVcCIKICAgICAgICAvLyBvbkNsaWNrT3V0c2lkZT17aXNPcGVuID8gY2xvc2VQb3BVcCA6IG51bGx9CiAgICAgICAgICAgc3R5bGU9e3toZWlnaHQ6IGlzT3BlbiA/ICI0MDBweCIgOiAiMCJ9fQogICAgICA+CiAgICAgICAge2hlYWRlciA/IDxoND57aGVhZGVyfTwvaDQ+IDogbnVsbH0KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9keSI+e2NoaWxkcmVufTwvZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfQp9CgpQb3BVcC5wcm9wVHlwZXMgPSB7CiAgaGVhZGVyOiBQcm9wVHlwZXMuc3RyaW5nLAogIGhhbmRsZU9uQ2xpY2tPdXRzaWRlOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIGlzT3BlbjogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZAp9OwoKZXhwb3J0IGRlZmF1bHQgb25DbGlja091dHNpZGUoUG9wVXApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIllvdSB0cmllZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBvbkNsaWNrT3V0c2lkZT17aXNPcGVuID8gY2xvc2VQb3BVcCA6IG51bGx9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIllvdSB0cmllZCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZW5kZXJTZXR0aW5nc1BvcFVwQm9keSA9IGhhbmRsZUNoYW5nZSA9PiB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7cmVuZGVyU2V0dGluZ3NQb3BVcEJvZHkoc2V0V2VhdGhlclRlbXBVbml0cyl9Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZW5kZXJTZXR0aW5nc1BvcFVwQm9keSA9IGhhbmRsZUNoYW5nZSA9PiB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9ybT4KICAgICAgICAgIFdlYXRoZXIgVW5pdHM6CiAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgIG5hbWU9InRlbXBEaXNwbGF5VW5pdHMiCiAgICAgICAgICAgIHZhbHVlPSJGIgogICAgICAgICAgICBjaGVja2VkPXt0ZW1wRGlzcGxheVVuaXRzID09PSAiRiJ9CiAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IGhhbmRsZUNoYW5nZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAvPkYKICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICB0eXBlPSJyYWRpbyIKICAgICAgICAgICAgbmFtZT0idGVtcERpc3BsYXlVbml0cyIKICAgICAgICAgICAgdmFsdWU9IkMiCiAgICAgICAgICAgIGNoZWNrZWQ9e3RlbXBEaXNwbGF5VW5pdHMgPT09ICJDIn0KICAgICAgICAgICAgb25DaGFuZ2U9e2UgPT4gaGFuZGxlQ2hhbmdlKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgIC8+QwogICAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICB7cmVuZGVyU2V0dGluZ3NQb3BVcEJvZHkoc2V0V2VhdGhlclRlbXBVbml0cyl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFNldHRpbmdzUG9wVXAgZnJvbSAiLi9TZXR0aW5nc1BvcFVwIjsK</text>
+        <text encoding="base64">ICAgICAgICA8Zm9ybT4KICAgICAgICAgIFdlYXRoZXIgVW5pdHM6CiAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgIG5hbWU9InRlbXBEaXNwbGF5VW5pdHMiCiAgICAgICAgICAgIHZhbHVlPSJGIgogICAgICAgICAgICBjaGVja2VkPXt0ZW1wRGlzcGxheVVuaXRzID09PSAiRiJ9CiAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IGhhbmRsZUNoYW5nZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAvPkYKICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICB0eXBlPSJyYWRpbyIKICAgICAgICAgICAgbmFtZT0idGVtcERpc3BsYXlVbml0cyIKICAgICAgICAgICAgdmFsdWU9IkMiCiAgICAgICAgICAgIGNoZWNrZWQ9e3RlbXBEaXNwbGF5VW5pdHMgPT09ICJDIn0KICAgICAgICAgICAgb25DaGFuZ2U9e2UgPT4gaGFuZGxlQ2hhbmdlKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgIC8+QwogICAgICAgIDwvZm9ybT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUZW1wRGlzcGxheVVuaXRzPXtzZXRXZWF0aGVyVGVtcFVuaXRzfQo=</text>
+        <text encoding="base64">aW1wb3J0IFNldHRpbmdzUG9wVXAgZnJvbSAiLi9TZXR0aW5nc1BvcFVwIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wRGlzcGxheVVuaXRzPXt0ZW1wRGlzcGxheVVuaXRzfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRUZW1wRGlzcGxheVVuaXRzPXtzZXRXZWF0aGVyVGVtcFVuaXRzfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wRGlzcGxheVVuaXRzPXt0ZW1wRGlzcGxheVVuaXRzfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Button/PopUp/g</text>
