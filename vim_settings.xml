@@ -113,11 +113,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/StatelessComponent.js" timestamp="1505679510139">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/StatelessComponent.js" timestamp="1505681341748">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/LinkCollection.js" timestamp="1505624698657">
         <mark key="[" line="4" column="0" />
@@ -158,11 +158,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1505679518059">
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="23" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1505681363699">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/redux-popup-options.txt" timestamp="1505432022637">
         <mark key="[" line="15" column="118" />
@@ -269,11 +269,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ContainerComponent.js" timestamp="1505679803143">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ContainerComponent.js" timestamp="1505682676148">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemAnchor/NavbarItemAnchor.js" timestamp="1503316330992">
         <mark key="'" line="0" column="25" />
@@ -314,6 +314,11 @@
         <mark key="]" line="69" column="12" />
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/MyList.js" timestamp="1505682643669">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" timestamp="1505663700625">
         <mark key="'" line="3" column="23" />
@@ -520,10 +525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHNlY3Rpb24+CiAgICAgICAgPGgxPkFycmF5PC9oMT4KICAgICAgICB7LyptYXBzICJhcnJheSIgdG8gYXJyYXkgIG9mICJsaSIsICJrZXkgcmVxdWlyZWQgZm9yIHBlcmZvcm1hbmNlIHJlYXNvbnMqL30KICAgICAgICA8dWw+CiAgICAgICAgICB7YXJyYXkubWFwKGkgPT4gKAogICAgICAgICAgICA8bGkga2V5PXtpfT57aX08L2xpPgogICAgICAgICAgKSl9CiAgICAgICAgPC91bD4KICAgICAgICA8aDE+T2JqZWN0PC9oMT4KICAgICAgICB7LypNYXBzIG9iamVjdCB0byBhcnJheSBvZiBsaS4gaGF2ZSB0byBjYWxsIE9iamVjdC5rZXlzIGJlY2F1c2Ugd2UgaGF2ZSB0byBsb29rdXAga2V5Ki99CiAgICAgICAgPHVsPgogICAgICAgICAge09iamVjdC5rZXlzKG9iamVjdCkubWFwKGkgPT4gKAogICAgICAgICAgICA8bGkga2V5PXtpfT4KICAgICAgICAgICAgICA8c3Ryb25nPntpfTogPC9zdHJvbmc+e29iamVjdFtpXX0KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICkpfQogICAgICAgIDwvdWw+CiAgICAgIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">TXlMaXN0LnByb3BUeXBlcyA9IHsKICAvL3NvbWVQcm9wOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCn07CgpleHBvcnQgZGVmYXVsdCBNeUxpc3Q7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>CATEGORY_SET</text>
@@ -532,31 +537,31 @@
         <text encoding="base64">ICAgICAgIDwvc2VjdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHNlY3Rpb24+CiAgICAgICAgPGgxPkFycmF5PC9oMT4KICAgICAgICB7LyptYXBzICJhcnJheSIgdG8gYXJyYXkgIG9mICJsaSIsICJrZXkgcmVxdWlyZWQgZm9yIHBlcmZvcm1hbmNlIHJlYXNvbnMqL30KICAgICAgICA8dWw+CiAgICAgICAgICB7YXJyYXkubWFwKGkgPT4gKAogICAgICAgICAgICA8bGkga2V5PXtpfT57aX08L2xpPgogICAgICAgICAgKSl9CiAgICAgICAgPC91bD4KICAgICAgICA8aDE+T2JqZWN0PC9oMT4KICAgICAgICB7LypNYXBzIG9iamVjdCB0byBhcnJheSBvZiBsaS4gaGF2ZSB0byBjYWxsIE9iamVjdC5rZXlzIGJlY2F1c2Ugd2UgaGF2ZSB0byBsb29rdXAga2V5Ki99CiAgICAgICAgPHVsPgogICAgICAgICAge09iamVjdC5rZXlzKG9iamVjdCkubWFwKGkgPT4gKAogICAgICAgICAgICA8bGkga2V5PXtpfT4KICAgICAgICAgICAgICA8c3Ryb25nPntpfTogPC9zdHJvbmc+e29iamVjdFtpXX0KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICkpfQogICAgICAgIDwvdWw+CiAgICAgIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">TXlMaXN0LnByb3BUeXBlcyA9IHsKICAvL3NvbWVQcm9wOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCn07CgpleHBvcnQgZGVmYXVsdCBNeUxpc3Q7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTWFwcGluZzsK</text>
+        <text encoding="base64">ICAgICAgey8qQWRkIGpzeCBoZXJlICovfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvL3RoaXMuaW5zdGFuY2VGdW5jdGlvbiA9IHRoaXMuaW5zdGFuY2VGdW5jdGlvbi5iaW5kKHRoaXMpOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYXJyYXkgPSBbCiAgJ0ZpcnN0JywKICAnU2Vjb25kJywKICAnVGhpcmQnCl07Cgpjb25zdCBvYmplY3QgPSB7CiAgZmlyc3Q6IDEsCiAgc2Vjb25kOiAyLAogIHRoaXJkOiAzCn07Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcywgY29udGV4dCkgewogICAgc3VwZXIocHJvcHMsIGNvbnRleHQpOwoKICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIC8va2V5OiB2YWwKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIAp9KQoK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L3NlY3Rpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgPG1haW4+CiAgICAgICAgPGgxPntoZWFkaW5nfTwvaDE+CiAgICAgICAgPHA+e2NvbnRlbnR9PC9wPgogICAgICA8L21haW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtoZWFkaW5nLCBjb250ZW50fSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gZGlzYWJsZWQ9e3NlY29uZH0+U2Vjb25kPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIC8vdGhpcy5pbnN0YW5jZUZ1bmN0aW9uID0gdGhpcy5pbnN0YW5jZUZ1bmN0aW9uLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgIGhlYWRpbmc6ICdSZWFjdCBBd2Vzb21lc2F1Y2UgKEJ1c3kpJywKICAgIGNvbnRlbnQ6ICdMb2FkaW5nLi4uJwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
