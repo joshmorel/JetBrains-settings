@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1505658544239">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1505666684347">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="20" />
-        <mark key="." line="73" column="20" />
-        <mark key="^" line="52" column="12" />
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="33" column="20" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/emaily/client/src/components/surveys/SurveyList.js" timestamp="1503760258969">
         <mark key="'" line="4" column="0" />
@@ -307,11 +307,11 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.js" timestamp="1505662649646">
-        <mark key="[" line="132" column="21" />
-        <mark key="]" line="140" column="21" />
-        <mark key="." line="140" column="21" />
-        <mark key="^" line="140" column="21" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.js" timestamp="1505666797051">
+        <mark key="[" line="129" column="21" />
+        <mark key="]" line="129" column="22" />
+        <mark key="." line="129" column="22" />
+        <mark key="^" line="129" column="22" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505665023882" />
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" timestamp="1505591668973">
@@ -327,8 +327,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/README.md" timestamp="1505585795301" />
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.css" timestamp="1505623744862">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.css" timestamp="1505666726588">
         <mark key="'" line="0" column="7" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.css" timestamp="1505624410980">
         <mark key="[" line="0" column="0" />
@@ -462,10 +465,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwZXJzaXN0U3RhdGUoKQo=</text>
+        <text encoding="base64">Ci8qLlBvcFVwIC5Cb2R5IHsqLwogIC8qcGFkZGluZzogOHB4OyovCi8qfSovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>CATEGORY_SET</text>
@@ -474,31 +477,31 @@
         <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCiAgcGVyc2lzdFN0YXRlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwZXJzaXN0U3RhdGUoKQo=</text>
+        <text encoding="base64">Ci8qLlBvcFVwIC5Cb2R5IHsqLwogIC8qcGFkZGluZzogOHB4OyovCi8qfSovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyouUG9wVXAub3BlbiB7Ki8KICAvKm1heC1oZWlnaHQ6IDQwMHB4OyovCi8qfSovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKm1heC1oZWlnaHQ6IDA7Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgU2V0dGluZ3NUYWIgPSAoe2ljb24sdGl0bGV9KSA9PiB7CiAgPAp9Owo=</text>
+        <text encoding="base64">ICBwZXJzaXN0U3RhdGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXR0aW5nc0Zvcm1zID0gewogICAgCiAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsIHRoaXMuaGFuZGxlQ2xpY2ssIGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29sb3I6ICJ3aGl0ZSIK</text>
+        <text encoding="base64">Y29uc3QgU2V0dGluZ3NUYWIgPSAoe2ljb24sdGl0bGV9KSA9PiB7CiAgPAp9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
