@@ -23,11 +23,11 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/news.js" timestamp="1505660233820">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="25" column="9" />
-        <mark key="^" line="25" column="9" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/news.js" timestamp="1505663131864">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/index.js" timestamp="1505610534099">
         <mark key="'" line="3" column="4" />
@@ -36,12 +36,12 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" timestamp="1505660565241">
-        <mark key="'" line="72" column="14" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" timestamp="1505662848476">
+        <mark key="'" line="67" column="14" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="98" column="5" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/ui.js" timestamp="1505514086392">
         <mark key="[" line="0" column="0" />
@@ -206,12 +206,12 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505623847324">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" timestamp="1505663257159">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="51" column="19" />
-        <mark key="." line="51" column="19" />
-        <mark key="^" line="51" column="19" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsModal.js" timestamp="1505152499148">
         <mark key="[" line="51" column="0" />
@@ -277,12 +277,11 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="12" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" timestamp="1505658513742">
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" timestamp="1505663700625">
         <mark key="'" line="3" column="23" />
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="49" column="29" />
-        <mark key="." line="49" column="29" />
-        <mark key="^" line="49" column="29" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Column/Column.js" timestamp="1503318184253">
         <mark key="'" line="15" column="2" />
@@ -308,12 +307,13 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.js" timestamp="1505658174308">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="106" column="37" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.js" timestamp="1505662649646">
+        <mark key="[" line="132" column="21" />
+        <mark key="]" line="140" column="21" />
+        <mark key="." line="140" column="21" />
+        <mark key="^" line="140" column="21" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505665023882" />
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" timestamp="1505591668973">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="9" column="0" />
@@ -326,12 +326,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/README.md" timestamp="1505585795301" />
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.css" timestamp="1505623744862">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.css" timestamp="1505624410980">
         <mark key="[" line="0" column="0" />
@@ -464,44 +461,44 @@
       <jump line="18" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NEWS_FETCH_FAILURE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwZXJzaXN0U3RhdGUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>NEWS_FETCH_FAILURE</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>CATEGORY_SET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgTkVXU19GRVRDSF9GQUlMVVJFOgogICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgbmV3cywgYWN0aW9uLmVycm9yKTsK</text>
+        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCiAgcGVyc2lzdFN0YXRlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwZXJzaXN0U3RhdGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBmZXRjaE5ld3MobmV3Q2F0ZWdvcnkpOwo=</text>
+        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVG8gaGlkZSBpbXBsZW1lbnRhdGlvbiBkZXRhaWxzIHRvIGNvbXBvbmVudHMgdXNpbmcgUG9wVXAKLy8gd2Ugd2lsbCBuZWVkIHRvIGhhbmRsZSBkaXNhYmxlT25DbGlja091dHNpZGUsIG91dHNpZGVDbGlja0lnbm9yZUNsYXNzIGhlcmUKLy8gYW5kIHBhc3MgdG8gUG9wVXBCYXNlIHVzaW5nIG9uQ2xpY2tPdXRzaWRlCgo=</text>
+        <text encoding="base64">Y29uc3QgU2V0dGluZ3NUYWIgPSAoe2ljb24sdGl0bGV9KSA9PiB7CiAgPAp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlT25DbGlja091dHNpZGU9eyFpc09wZW59Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlT25DbGlja091dHNpZGU9eyFpc09wZW59Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzZXR0aW5nc0Zvcm1zID0gewogICAgCiAgfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gUG9wVXBCYXNlLnByb3BUeXBlcyA9IHsKLy8gICBoYW5kbGVPbkNsaWNrT3V0c2lkZTogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKLy8gICBpc09wZW46IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCi8vICAgb3BlbkhlaWdodDogUHJvcFR5cGVzLnN0cmluZywKLy8gICBvdmVyZmxvdzogUHJvcFR5cGVzLnN0cmluZwovLyB9OwovLwovLyBQb3BVcEJhc2UuZGVmYXVsdFByb3BzID0gewovLyAgIG9wZW5IZWlnaHQ6ICIyNXZ3IiwKLy8gICBvdmVyZmxvdzogImhpZGRlbiIKLy8gfTsK</text>
+        <text encoding="base64">ICAgIC8vIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsIHRoaXMuaGFuZGxlQ2xpY2ssIGZhbHNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZmxvdz17aXNPcGVuID8gInNjcm9sbCIgOiAiaGlkZGVuIn0K</text>
+        <text encoding="base64">ICAgICAgLy8gY29sb3I6ICJ3aGl0ZSIK</text>
       </register>
       <register name=":" type="4">
         <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
