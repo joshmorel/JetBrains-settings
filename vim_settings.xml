@@ -23,11 +23,10 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/news.js" timestamp="1505663131864">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="23" column="44" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/news.js" timestamp="1505667119162">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/index.js" timestamp="1505610534099">
         <mark key="'" line="3" column="4" />
@@ -71,9 +70,11 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/weather.js" timestamp="1505612253616">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="52" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/weather.js" timestamp="1505667721943">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPopUp.js" timestamp="1505589531877">
         <mark key="'" line="1" column="1" />
@@ -314,6 +315,12 @@
         <mark key="^" line="129" column="22" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505665023882" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/data/newsCategories.js" timestamp="1505667157657">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsIcon.js" timestamp="1505591668973">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="9" column="0" />
@@ -464,44 +471,44 @@
       <jump line="18" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8qLlBvcFVwIC5Cb2R5IHsqLwogIC8qcGFkZGluZzogOHB4OyovCi8qfSovCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>CATEGORY_SET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCiAgcGVyc2lzdFN0YXRlKCkK</text>
+        <text encoding="base64">ICB7CiAgICB2YWx1ZTogIm1tYSIsCiAgICB0ZXh0OiAiTU1BIgogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8qLlBvcFVwIC5Cb2R5IHsqLwogIC8qcGFkZGluZzogOHB4OyovCi8qfSovCg==</text>
+        <text encoding="base64">ICB7CiAgICB2YWx1ZTogInRlY2hub2xvZ3kiLAogICAgdGV4dDogIlRlY2hub2xvZ3kiCiAgfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyouUG9wVXAub3BlbiB7Ki8KICAvKm1heC1oZWlnaHQ6IDQwMHB4OyovCi8qfSovCg==</text>
+        <text encoding="base64">Y29uc3QgbmV3c0NhdGVnb3JpZXMgPSBbCiAgewogICAgdmFsdWUgOiAid29ybGRuZXdzIiwKICAgIHRleHQ6ICJXb3JsZCBOZXdzIgogIH0sCiAgewogICAgdmFsdWU6ICJtbWEiLAogICAgdGV4dDogIk1NQSIKICB9Cl07Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKm1heC1oZWlnaHQ6IDA7Ki8K</text>
+        <text encoding="base64">Ci8qLlBvcFVwIC5Cb2R5IHsqLwogIC8qcGFkZGluZzogOHB4OyovCi8qfSovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwZXJzaXN0U3RhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCg==</text>
+        <text encoding="base64">LyouUG9wVXAub3BlbiB7Ki8KICAvKm1heC1oZWlnaHQ6IDQwMHB4OyovCi8qfSovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKm1heC1oZWlnaHQ6IDA7Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwZXJzaXN0U3RhdGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgU2V0dGluZ3NUYWIgPSAoe2ljb24sdGl0bGV9KSA9PiB7CiAgPAp9Owo=</text>
+        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuayksCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
