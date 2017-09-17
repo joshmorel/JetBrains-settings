@@ -23,10 +23,11 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/news.js" timestamp="1505614528448">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/news.js" timestamp="1505660233820">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/index.js" timestamp="1505610534099">
         <mark key="'" line="3" column="4" />
@@ -35,12 +36,12 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" timestamp="1505657403338">
-        <mark key="'" line="66" column="14" />
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" timestamp="1505660565241">
+        <mark key="'" line="72" column="14" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/ui.js" timestamp="1505514086392">
         <mark key="[" line="0" column="0" />
@@ -81,11 +82,11 @@
         <mark key="^" line="9" column="43" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" timestamp="1505608648797">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" timestamp="1505659852420">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="53" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" timestamp="1503316060419">
@@ -448,8 +449,6 @@
       <jump line="22" column="11" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" />
       <jump line="21" column="7" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/settings.js" />
       <jump line="19" column="1" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/settings.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
       <jump line="16" column="7" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/weather.js" />
       <jump line="13" column="23" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherForecastCell.js" />
       <jump line="7" column="15" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherWidget.js" />
@@ -461,65 +460,64 @@
       <jump line="3" column="4" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" />
       <jump line="45" column="14" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" />
+      <jump line="17" column="12" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>NEWS_FETCH_FAILURE</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>NEWS_FETCH_FAILURE</text>
       </register>
       <register name="/" type="4">
-        <text>settings</text>
+        <text>CATEGORY_SET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UG9wVXBCYXNlLnByb3BUeXBlcyA9IHsKICBoYW5kbGVPbkNsaWNrT3V0c2lkZTogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKICBpc09wZW46IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgb3BlbkhlaWdodDogUHJvcFR5cGVzLnN0cmluZywKICBvdmVyZmxvdzogUHJvcFR5cGVzLnN0cmluZwp9OwoKUG9wVXBCYXNlLmRlZmF1bHRQcm9wcyA9IHsKICBvcGVuSGVpZ2h0OiAiMjV2dyIsCiAgb3ZlcmZsb3c6ICJoaWRkZW4iCn07Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgTkVXU19GRVRDSF9GQUlMVVJFOgogICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgbmV3cywgYWN0aW9uLmVycm9yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVG8gaGlkZSBpbXBsZW1lbnRhdGlvbiBkZXRhaWxzIHRvIGNvbXBvbmVudHMgdXNpbmcgUG9wVXAKLy8gd2Ugd2lsbCBuZWVkIHRvIGhhbmRsZSBkaXNhYmxlT25DbGlja091dHNpZGUsIG91dHNpZGVDbGlja0lnbm9yZUNsYXNzIGhlcmUKLy8gYW5kIHBhc3MgdG8gUG9wVXBCYXNlIHVzaW5nIG9uQ2xpY2tPdXRzaWRlCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlT25DbGlja091dHNpZGU9eyFpc09wZW59Cg==</text>
+        <text encoding="base64">ICAvLyBmZXRjaE5ld3MobmV3Q2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlT25DbGlja091dHNpZGU9eyFpc09wZW59Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gUG9wVXBCYXNlLnByb3BUeXBlcyA9IHsKLy8gICBoYW5kbGVPbkNsaWNrT3V0c2lkZTogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKLy8gICBpc09wZW46IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCi8vICAgb3BlbkhlaWdodDogUHJvcFR5cGVzLnN0cmluZywKLy8gICBvdmVyZmxvdzogUHJvcFR5cGVzLnN0cmluZwovLyB9OwovLwovLyBQb3BVcEJhc2UuZGVmYXVsdFByb3BzID0gewovLyAgIG9wZW5IZWlnaHQ6ICIyNXZ3IiwKLy8gICBvdmVyZmxvdzogImhpZGRlbiIKLy8gfTsK</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZmxvdz17aXNPcGVuID8gInNjcm9sbCIgOiAiaGlkZGVuIn0K</text>
+        <text encoding="base64">Ly8gVG8gaGlkZSBpbXBsZW1lbnRhdGlvbiBkZXRhaWxzIHRvIGNvbXBvbmVudHMgdXNpbmcgUG9wVXAKLy8gd2Ugd2lsbCBuZWVkIHRvIGhhbmRsZSBkaXNhYmxlT25DbGlja091dHNpZGUsIG91dHNpZGVDbGlja0lnbm9yZUNsYXNzIGhlcmUKLy8gYW5kIHBhc3MgdG8gUG9wVXBCYXNlIHVzaW5nIG9uQ2xpY2tPdXRzaWRlCgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkaXNhYmxlT25DbGlja091dHNpZGU9eyFpc09wZW59Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogUHJvcFR5cGVzLnN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNhYmxlT25DbGlja091dHNpZGU9eyFpc09wZW59Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogImhpZGRlbiIK</text>
+        <text encoding="base64">Ly8gUG9wVXBCYXNlLnByb3BUeXBlcyA9IHsKLy8gICBoYW5kbGVPbkNsaWNrT3V0c2lkZTogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKLy8gICBpc09wZW46IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCi8vICAgb3BlbkhlaWdodDogUHJvcFR5cGVzLnN0cmluZywKLy8gICBvdmVyZmxvdzogUHJvcFR5cGVzLnN0cmluZwovLyB9OwovLwovLyBQb3BVcEJhc2UuZGVmYXVsdFByb3BzID0gewovLyAgIG9wZW5IZWlnaHQ6ICIyNXZ3IiwKLy8gICBvdmVyZmxvdzogImhpZGRlbiIKLy8gfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVyZmxvdz17aXNPcGVuID8gInNjcm9sbCIgOiAiaGlkZGVuIn0K</text>
       </register>
       <register name=":" type="4">
-        <text>s/settings/news/g</text>
+        <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
       </register>
     </registers>
     <search>
-      <last-search>settings</last-search>
+      <last-search>CATEGORY_SET</last-search>
       <last-offset />
-      <last-pattern>settings</last-pattern>
-      <last-replace>news</last-replace>
-      <last-substitute>settings</last-substitute>
+      <last-pattern>CATEGORY_SET</last-pattern>
+      <last-replace>CUSTOM_RSS_SET</last-replace>
+      <last-substitute>CATEGORY_SET</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PANEL</entry>
-        <entry>Panel</entry>
-        <entry>TOGGLE_VISIBILITY</entry>
         <entry>CLOSE</entry>
         <entry>active</entry>
         <entry>onIcon</entry>
@@ -537,12 +535,11 @@
         <entry>SETTINGS_</entry>
         <entry>Weather</entry>
         <entry>settings</entry>
+        <entry>POPUP_TOGGLE_OPEN</entry>
+        <entry>SOURCE</entry>
+        <entry>CATEGORY_SET</entry>
       </history-search>
       <history-cmd>
-        <entry>s/TOGGLE_VISIBILITY/CLOSE/g</entry>
-        <entry>s/CLOSE/OPEN/g</entry>
-        <entry>%s/Popup/PopUp/g</entry>
-        <entry>s/OPEN/TOGGLE/g</entry>
         <entry>%s/onIconClick/onClick/g</entry>
         <entry encoding="base64">JzwsJz5zL1dFQVRIRVIvU0VUVElOR1MvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3dlYXRoZXIvc2V0dGluZ3MvZw==</entry>
@@ -559,6 +556,10 @@
         <entry>reg</entry>
         <entry>s/Weather/News/g</entry>
         <entry>s/settings/news/g</entry>
+        <entry>s/POPUP_TOGGLE_OPEN/SOURCE_SET/s</entry>
+        <entry>s/POPUP_TOGGLE_OPEN/SOURCE_SET/g</entry>
+        <entry>s/SOURCE/CATEGORY/g</entry>
+        <entry>s/CATEGORY_SET/CUSTOM_RSS_SET/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
