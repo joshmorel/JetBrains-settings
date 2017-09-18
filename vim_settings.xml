@@ -125,11 +125,11 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/App.js" timestamp="1505677508091">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/App.js" timestamp="1505739958055">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" timestamp="1503271841664">
         <mark key="'" line="2" column="0" />
@@ -158,11 +158,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1505738522856">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="8" column="73" />
-        <mark key="." line="8" column="73" />
-        <mark key="^" line="8" column="73" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1505739824762">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/redux-popup-options.txt" timestamp="1505432022637">
         <mark key="[" line="15" column="118" />
@@ -301,6 +301,13 @@
         <mark key="." line="20" column="2" />
         <mark key="^" line="20" column="2" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AnotherComponent.js" timestamp="1505739916761">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarDivider/NavbarItemDivider.js" timestamp="1503271634137">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="1" column="0" />
@@ -422,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="30" filename="$USER_HOME$/git/thirty-days-repos/ilios-client/src/components/Footer/Footer.js" />
       <jump line="224" column="9" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" />
       <jump line="15" column="14" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" />
       <jump line="14" column="35" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarMenu/NavbarMenu.js" />
@@ -522,13 +528,14 @@
       <jump line="18" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
       <jump line="2" column="14" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Input.js" />
       <jump line="3" column="0" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Input.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AnotherComponent.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TXlMaXN0LnByb3BUeXBlcyA9IHsKICAvL3NvbWVQcm9wOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCn07CgpleHBvcnQgZGVmYXVsdCBNeUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzc05hbWU9IkFwcC1pbnRybyI+CiAgICAgICAgICBJbnRybwogICAgICAgIDwvcD4K</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>Container</text>
       </register>
       <register name="/" type="4">
         <text>CATEGORY_SET</text>
@@ -537,31 +544,31 @@
         <text encoding="base64">ICAgICAgIDwvc2VjdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TXlMaXN0LnByb3BUeXBlcyA9IHsKICAvL3NvbWVQcm9wOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCn07CgpleHBvcnQgZGVmYXVsdCBNeUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzc05hbWU9IkFwcC1pbnRybyI+CiAgICAgICAgICBJbnRybwogICAgICAgIDwvcD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgey8qQWRkIGpzeCBoZXJlICovfQo=</text>
+        <text encoding="base64">ICAvLyBSZW5kZXJzIHRoZSBjb250YWluZWUsIHBhc3NpbmcgdGhlIGNvbnRhaW5lcgogIC8vIHN0YXRlIGFzIHByb3BlcnRpZXMsIHVzaW5nIHRoZSBzcHJlYWQgb3BlcmF0b3I6ICIuLi4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvL3RoaXMuaW5zdGFuY2VGdW5jdGlvbiA9IHRoaXMuaW5zdGFuY2VGdW5jdGlvbi5iaW5kKHRoaXMpOwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IE1hcHBpbmcgZnJvbSAnLi9leGFtcGxlcy9NYXBwaW5nJzsKaW1wb3J0IElucHV0IGZyb20gJy4vZXhhbXBsZXMvSW5wdXQnOwppbXBvcnQgU3RhdGVmdWxDb21wb25lbnQgZnJvbSAnLi9leGFtcGxlcy9TdGF0ZWZ1bENvbXBvbmVudCc7CmltcG9ydCBNeUJ1dHRvbiBmcm9tICcuL2V4YW1wbGVzL1N0YXRlbGVzc0NvbXBvbmVudCc7CmltcG9ydCBNeUNvbnRhaW5lciBmcm9tICcuL2V4YW1wbGVzL0NvbnRhaW5lckNvbXBvbmVudC9Db250YWluZXJDb21wb25lbnQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcywgY29udGV4dCkgewogICAgc3VwZXIocHJvcHMsIGNvbnRleHQpOwoKICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIC8va2V5OiB2YWwKICAgIH0K</text>
+        <text encoding="base64">ICAgIDxJbnB1dC8+CiAgICA8TWFwcGluZy8+CiAgICA8U3RhdGVmdWxDb21wb25lbnQvPgogICAgPHNlY3Rpb24+CiAgICAgIDxNeUJ1dHRvbgogICAgICAgIHRleHQ9e2ZpcnN0LnRleHR9CiAgICAgICAgZGlzYWJsZWQ9e2ZpcnN0LmRpc2FibGVkfQogICAgICAvPgogICAgICA8TXlCdXR0b24KICAgICAgICB0ZXh0PXtzZWNvbmQudGV4dH0KICAgICAgICBkaXNhYmxlZD17c2Vjb25kLmRpc2FibGVkfQogICAgICAvPgogICAgICA8TXlCdXR0b24vPgogICAgPC9zZWN0aW9uPgogICAgPHNlY3Rpb24+CiAgICAgIDxNeUNvbnRhaW5lci8+CiAgICA8L3NlY3Rpb24+CiAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPG1haW4+CiAgICAgICAgPGgxPntoZWFkaW5nfTwvaDE+CiAgICAgICAgPHA+e2NvbnRlbnR9PC9wPgogICAgICA8L21haW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtoZWFkaW5nLCBjb250ZW50fSA9IHRoaXMuc3RhdGU7Cg==</text>
+        <text encoding="base64">Y29uc3QgZmlyc3QgPSB7CiAgdGV4dDogImEiLAogIGRpc2FibGVkOmZhbHNlCiAgfTsKCmNvbnN0IHNlY29uZCA9IHsKICB0ZXh0OiJiIiwKICBkaXNhYmxlZDp0cnVlCn07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdGhpcy5pbnN0YW5jZUZ1bmN0aW9uID0gdGhpcy5pbnN0YW5jZUZ1bmN0aW9uLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgPE15TGlzdCB7Li4udGhpcy5zdGF0ZX0vPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWRpbmc6ICdSZWFjdCBBd2Vzb21lc2F1Y2UgKEJ1c3kpJywKICAgIGNvbnRlbnQ6ICdMb2FkaW5nLi4uJwo=</text>
+        <text encoding="base64">ICAgICAgPE15TGlzdCB7Li4udGhpcy5zdGF0ZX0vPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
