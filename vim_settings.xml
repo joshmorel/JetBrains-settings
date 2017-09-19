@@ -17,11 +17,10 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/Button.js" timestamp="1505590393434">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="22" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="7" column="22" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/Button.js" timestamp="1505823597828">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Input.js" timestamp="1505677956545">
         <mark key="[" line="1" column="0" />
@@ -585,10 +584,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isOpen</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>isOpen</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>CATEGORY_SET</text>
@@ -597,31 +596,31 @@
         <text encoding="base64">aW1wb3J0IE15Qm91bmRCdXR0b24gZnJvbSAnLi9leGFtcGxlcy9FdmVudEhhbmRsaW5nL0F1dG9CaW5kaW5nJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3JlbmRlck1vZGFsKCl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3JlbmRlck1vZGFsKCl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyByZW5kZXJzIGEgYnV0dG9uIHdpdGggYSBib3VuZCBldmVudCBoYW5kbGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZW5kZXJzIGEgYnV0dG9uIHdpdGggYSBib3VuZCBldmVudCBoYW5kbGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja2VkJywKICAgICAgYCIke3RoaXMucHJvcHMuY2hpbGRyZW59ImApOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvLyBldmVudCBoYW5kbGVyIHJlcXVpcmVzIGFjY2VzcyB0byB0aGUgY29tcG9uZW50IHByb3BlcnRpZXMKICAvLyBkb2Vzbid0IG5lZWQgdG8gZXhwbGljaXRseSBiaW5kIGl0J3MgY29udGV4dAogIC8vIGJlY2F1c2UgImNyZWF0ZUNsYXNzKCkiIGNvbXBvbmVudHMgZG8gdGhpcyBhdXRvbWF0aWNhbGx5Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBvbkNsaWNrKCkgewogICAgY29uc29sZS5sb2coJ2NsaWNrZWQnKQogIH0KCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja2VkJywKICAgICAgYCIke3RoaXMucHJvcHMuY2hpbGRyZW59ImApOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyBldmVudCBoYW5kbGVyIHJlcXVpcmVzIGFjY2VzcyB0byB0aGUgY29tcG9uZW50IHByb3BlcnRpZXMKICAvLyBkb2Vzbid0IG5lZWQgdG8gZXhwbGljaXRseSBiaW5kIGl0J3MgY29udGV4dAogIC8vIGJlY2F1c2UgImNyZWF0ZUNsYXNzKCkiIGNvbXBvbmVudHMgZG8gdGhpcyBhdXRvbWF0aWNhbGx5Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBvbkNsaWNrKCkgewogICAgY29uc29sZS5sb2coJ2NsaWNrZWQnKQogIH0KCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9zdXBwb3J0ZWQgZXZlbnRzOiBodHRwczovL2ZhY2Vib29rLmdpdGh1Yi5pby9yZWFjdC9kb2NzL2V2ZW50cy5odG1sI3N1cHBvcnRlZC1ldmVudHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
