@@ -90,14 +90,22 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/SchedulerContainer.js" timestamp="1505950629826">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/SchedulerContainer.js" timestamp="1505952347472">
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="71" column="9" />
+        <mark key="." line="71" column="9" />
+        <mark key="^" line="71" column="9" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.js" timestamp="1505948331595">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="25" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" timestamp="1505951861734">
+        <mark key="'" line="26" column="29" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/App.js" timestamp="1505062952304">
         <mark key="[" line="8" column="0" />
@@ -222,6 +230,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/StudentList.js" timestamp="1505952125796">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIconArrow.js" timestamp="1505859481639">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="18" column="27" />
@@ -249,11 +263,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/reducers/index.js" timestamp="1505948143581">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/reducers/index.js" timestamp="1505951234443">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/App.css" timestamp="1505677472633">
         <mark key="[" line="15" column="0" />
@@ -277,6 +291,12 @@
         <mark key="]" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/actions/instructorActions.js" timestamp="1505951169195">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/MyList.js" timestamp="1505682643669">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -292,6 +312,12 @@
         <mark key="]" line="19" column="37" />
         <mark key="^" line="19" column="37" />
         <mark key="." line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/reducers/students.js" timestamp="1505951210939">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/AttendanceRecordShow.js" timestamp="1505949954178">
         <mark key="[" line="8" column="41" />
@@ -367,8 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="14" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/Navbar/Navbar.js" />
-      <jump line="14" column="35" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarMenu/NavbarMenu.js" />
       <jump line="7" column="5" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" />
       <jump line="6" column="28" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarMenu/NavbarEnd.js" />
       <jump line="10" column="4" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarMenu/NavbarMenu.js" />
@@ -467,64 +491,64 @@
       <jump line="3" column="0" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Input.js" />
       <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AnotherComponent.js" />
       <jump line="25" column="52" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/SchedulerContainer.js" />
+      <jump line="1" column="12" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" />
+      <jump line="30" column="29" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>\.</text>
+        <text>attendanceRecords</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY29tcG9zZUVuaGFuY2VycyA9IHdpbmRvdy5fX1JFRFVYX0RFVlRPT0xTX0VYVEVOU0lPTl9DT01QT1NFX18gfHwgY29tcG9zZTsKY29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShyZWR1Y2Vycywge30sIGNvbXBvc2VFbmhhbmNlcnMoCiAgYXBwbHlNaWRkbGV3YXJlKHJlZHV4VGh1bmspCikpOwoKUmVhY3RET00ucmVuZGVyKAogIDxQcm92aWRlciBzdG9yZT17c3RvcmV9PjxBcHAgLz48L1Byb3ZpZGVyPiwKICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpCik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDI+U3R1ZGVudHM8L2gyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAxZC4gVGhlbiwgcmVuZGVyIHRoZSBEYXlQaWNrZXIgY2FsZW5kYXIgY29tcG9uZW50LCBoaWdobGlnaHRpbmcgdGhlIHNlbGVjdGVkIGRheSB2aWEgdGhlIHNlbGVjdGVkRGF5cyBwcm9wLgogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IERheVBpY2tlciwge0RhdGVVdGlsc30gZnJvbSAncmVhY3QtZGF5LXBpY2tlcic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QXR0ZW5kYW5jZVJlY29yZFNob3cucHJvcFR5cGVzID0gewogIC8vc29tZVByb3A6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwKfTsK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tMTIgdGV4dC1jZW50ZXIiPgogICAgICB7c3R1ZGVudEluZm8oKX0KICAgICAge3JlY29yZEluZm8oKX0KICAgICAgPHA+e3Byb3BzLmRheS50b0RhdGVTdHJpbmcoKX08L3A+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgIDxkaXY+CiAgLy8gICAgIC4uLgogIC8vICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tMTIgdGV4dC1jZW50ZXIiPgogICAgICB7c3R1ZGVudEluZm8oKX0KICAgICAge3JlY29yZEluZm8oKX0KICAgICAgPHA+e3Byb3BzLmRheS50b0RhdGVTdHJpbmcoKX08L3A+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiByZWNvcmRJbmZvKCkgewogICAgaWYocHJvcHMucmVjb3JkKSB7CiAgICAgIGlmKHByb3BzLnJlY29yZC5hcnJpdmVkKSB7CiAgICAgICAgY29uc3QgZGF0ZSA9IG5ldyBEYXRlKHByb3BzLnJlY29yZC5hcnJpdmVkQXQpOwogICAgICAgIHJldHVybiA8cD5hcnJpdmVkIGF0OiB7ZGF0ZS50b0RhdGVTdHJpbmcoKX08L3A+OwogICAgICB9IGVsc2UgewogICAgICAgIHJldHVybiA8cD5hYnNlbnQgb3IgbGF0ZTwvcD47CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuaykK</text>
+        <text encoding="base64">ICAgIGlmKHByb3BzLnN0dWRlbnQpIHsKICAgICAgcmV0dXJuICgKICAgICAgIDxwPgogICAgICAgICByZWNvcmQgZm9yOiB7cHJvcHMuc3R1ZGVudC5maXJzdE5hbWV9e3Byb3BzLnN0dWRlbnQubGFzdE5hbWV9CiAgICAgICA8L3A+CiAgICAgICk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuaykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxBcHAgLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykpOwo=</text>
+        <text encoding="base64">aW1wb3J0IE1vbWVudCBmcm9tICdyZWFjdC1tb21lbnQnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/CATEGORY_SET/CUSTOM_RSS_SET/g</text>
+        <text>s/attendanceRecords/students/g</text>
       </register>
     </registers>
     <search>
-      <last-search>\.</last-search>
+      <last-search>attendanceRecords</last-search>
       <last-offset />
-      <last-pattern>\.</last-pattern>
-      <last-replace>CUSTOM_RSS_SET</last-replace>
-      <last-substitute>CATEGORY_SET</last-substitute>
+      <last-pattern>attendanceRecords</last-pattern>
+      <last-replace>students</last-replace>
+      <last-substitute>attendanceRecords</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onIcon</entry>
-        <entry>Popup</entry>
         <entry>OPEN</entry>
         <entry>onIconClick</entry>
         <entry>WEATHER</entry>
@@ -543,10 +567,10 @@
         <entry>CATEGORY_SET</entry>
         <entry>.</entry>
         <entry>\.</entry>
+        <entry>Scheduler</entry>
+        <entry>attendanceRecords</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/onIconClick/onClick/g</entry>
-        <entry encoding="base64">JzwsJz5zL1dFQVRIRVIvU0VUVElOR1MvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3dlYXRoZXIvc2V0dGluZ3MvZw==</entry>
         <entry>s/TOGGLE/TOGGLE_OPEN/g</entry>
         <entry>s/SETTINGS/WEATHER/g</entry>
@@ -565,6 +589,8 @@
         <entry>s/POPUP_TOGGLE_OPEN/SOURCE_SET/g</entry>
         <entry>s/SOURCE/CATEGORY/g</entry>
         <entry>s/CATEGORY_SET/CUSTOM_RSS_SET/g</entry>
+        <entry>%s/Scheduler/Students/g</entry>
+        <entry>s/attendanceRecords/students/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
