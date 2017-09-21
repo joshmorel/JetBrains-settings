@@ -90,22 +90,22 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/SchedulerContainer.js" timestamp="1505952347472">
-        <mark key="[" line="47" column="6" />
-        <mark key="]" line="71" column="9" />
-        <mark key="." line="71" column="9" />
-        <mark key="^" line="71" column="9" />
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/SchedulerContainer.js" timestamp="1505953826891">
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="92" column="13" />
+        <mark key="." line="92" column="13" />
+        <mark key="^" line="92" column="13" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.js" timestamp="1505948331595">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" timestamp="1505951861734">
-        <mark key="'" line="26" column="29" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" timestamp="1505953630286">
+        <mark key="'" line="28" column="29" />
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="17" column="10" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/App.js" timestamp="1505062952304">
         <mark key="[" line="8" column="0" />
@@ -170,11 +170,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/index.js" timestamp="1505948671168">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/index.js" timestamp="1505954101559">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteWidget.js" timestamp="1505909664873">
         <mark key="[" line="23" column="55" />
@@ -230,11 +230,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/StudentList.js" timestamp="1505952125796">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/StudentList.js" timestamp="1505952673197">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIconArrow.js" timestamp="1505859481639">
         <mark key="[" line="5" column="0" />
@@ -319,10 +319,10 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/AttendanceRecordShow.js" timestamp="1505949954178">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/AttendanceRecordShow.js" timestamp="1505953744124">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherWidget.js" timestamp="1505658491935">
@@ -496,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>attendanceRecords</text>
