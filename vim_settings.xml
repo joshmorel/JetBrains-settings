@@ -58,11 +58,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1505996628946">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="16" />
-        <mark key="^" line="38" column="16" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1505997873665">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="60" column="1" />
+        <mark key="." line="60" column="1" />
+        <mark key="^" line="60" column="1" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/App.js" timestamp="1505948417469">
         <mark key="[" line="9" column="11" />
@@ -121,6 +121,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1505997300633">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/redux-popup-options.txt" timestamp="1505432022637">
         <mark key="[" line="15" column="118" />
@@ -415,11 +421,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/actions/attendanceRecordActions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.isRequired</text>
       </register>
       <register name="-" type="4">
-        <text>doesn't need to render real-time</text>
+        <text>.isRequired</text>
       </register>
       <register name="/" type="4">
         <text>student_id</text>
@@ -428,31 +434,31 @@
         <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkU3R1ZGVudDogc3R1ZGVudCwgc2VsZWN0ZWRSZWNvcmQ6IHJlY29yZH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIDxPcHRpb25zTW9kYWw+T3B0aW9ucyE8L09wdGlvbnNNb2RhbD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdHlsZSA9IHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tCg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDEwZW07Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkU3R1ZGVudDogc3R1ZGVudCwgc2VsZWN0ZWRSZWNvcmQ6IHJlY29yZH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHJlY29yZCA9IHJlY29yZHNCeVNlbGVjdGVkRGF0ZS5yZWNvcmRzLmZpbmQocmVjb3JkID0+IHJlY29yZC5zdHVkZW50SWQgPT09IHN0dWRlbnRJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlY29yZHNCeVNlbGVjdGVkRGF0ZSkK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkU3R1ZGVudDogc3R1ZGVudCwgc2VsZWN0ZWRSZWNvcmQ6IHJlY29yZH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlY29yZHNCeVNlbGVjdGVkRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0dWRlbnRfaWQvc3R1ZGVudElkL2c=</text>
