@@ -34,11 +34,11 @@
         <mark key="^" line="35" column="1" />
         <mark key="." line="35" column="1" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Menu.js" timestamp="1506081157443">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Menu.js" timestamp="1506084336520">
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="12" />
+        <mark key="." line="39" column="12" />
+        <mark key="^" line="39" column="12" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Icon.js" timestamp="1505908444138">
         <mark key="[" line="5" column="0" />
@@ -64,11 +64,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1506083252348">
-        <mark key="[" line="65" column="13" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-        <mark key="^" line="46" column="3" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1506084403840">
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="23" />
+        <mark key="^" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/App.js" timestamp="1505948417469">
         <mark key="[" line="9" column="11" />
@@ -124,11 +124,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1506083171996">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="26" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1506084394929">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/redux-popup-options.txt" timestamp="1505432022637">
         <mark key="[" line="15" column="118" />
@@ -186,11 +186,11 @@
         <mark key="^" line="24" column="2" />
         <mark key="." line="24" column="2" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/ClockWidget/ClockWidget.css" timestamp="1506082133913">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/ClockWidget/ClockWidget.css" timestamp="1506084231779">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="13" column="10" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/reducers/attendanceRecords.js" timestamp="1505948272716">
         <mark key="[" line="5" column="42" />
@@ -433,11 +433,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/actions/attendanceRecordActions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPEljb24gZmFDbGFzcz0iZmEtY29nIgogICAgICAgICAgICBvbkljb25DbGljaz17b25JY29uQ2xpY2t9CiAgICAgICAgICAgIG9uSG92ZXJUZXh0PSJPcHRpb25zIgogICAgICAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>OptionsSubmenu</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gcmlnaHQgbm93IGp1c3QgcHJvdmlkZXMgZGVtbyBvZiBpbnRlci13aWRnZXQgaW50ZXJhY3Rpb25z</text>
+        <text>OptionsSubmenu</text>
       </register>
       <register name="m" type="4">
         <keys>
