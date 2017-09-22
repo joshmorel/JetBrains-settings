@@ -58,12 +58,6 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1506034551727">
-        <mark key="[" line="83" column="19" />
-        <mark key="]" line="83" column="21" />
-        <mark key="." line="83" column="21" />
-        <mark key="^" line="83" column="21" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/App.js" timestamp="1505948417469">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="11" column="11" />
@@ -80,12 +74,6 @@
         <mark key="[" line="83" column="16" />
         <mark key="]" line="55" column="45" />
         <mark key="." line="55" column="45" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.js" timestamp="1506030152393">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="41" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" timestamp="1505953630286">
         <mark key="'" line="28" column="29" />
@@ -125,10 +113,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1505997300633">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="11" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/redux-popup-options.txt" timestamp="1505432022637">
         <mark key="[" line="15" column="118" />
