@@ -34,6 +34,9 @@
         <mark key="^" line="35" column="1" />
         <mark key="." line="35" column="1" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/examples/react-form/src/components/FormExample.js" timestamp="1506120375706">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Menu.js" timestamp="1506084336520">
         <mark key="[" line="39" column="10" />
         <mark key="]" line="39" column="12" />
@@ -69,6 +72,11 @@
         <mark key="]" line="66" column="23" />
         <mark key="." line="66" column="23" />
         <mark key="^" line="66" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/General.js" timestamp="1506120301405">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/App.js" timestamp="1505948417469">
         <mark key="[" line="9" column="11" />
@@ -208,6 +216,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="40" column="2" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/examples/react-form/src/App.js" timestamp="1506120353252">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/GenericHandling.js" timestamp="1505773081720">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="35" column="1" />
@@ -323,6 +336,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/GeneralSection.js" timestamp="1506119796623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AutoBinding.js" timestamp="1505773641197">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="20" />
@@ -433,8 +452,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/actions/attendanceRecordActions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OptionsSubmenu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>OptionsSubmenu</text>
@@ -2119,31 +2138,31 @@
         <text encoding="base64">LyogV2lyZSBGcmFtaW5nOgoKICAtLVRpdGxlOgogICAgLS1sZWZ0OiBsb2dvCiAgICAtLWNlbnRlcjogIk9wdGlvbnMgJiBTZXR0aW5ncyIKICAtLU1lbnUgKGxlZnQpOgogICAgLS1saXN0IHdpdGggaG92ZXJhYmxlIHJlc3BvbnNlIHdoaWNoIGlzIGNvbW1vbiB0byA0IG90aGVyIHdpZGdldHMKICAgICAgLS1pY29uIG9uIGxlZnQKICAgICAgLS1jb250ZW50IG9uIHJpZ2h0CiAgICAgIC0tb24gaG92ZXIgPSBkYXJrZXIgd2l0aCBibHVlIGJvcmRlciBhbmQgYmx1ZSBoaWdsaWdodGluZyBvZiBpY29uCiAgICAtLW9uIGljb24gb2YgbWVudSBsaXN0IGl0ZW0gdHJpZ2dlcnMgZGlzcGxheSBpbiBib2R5CiAgIC0tQm9keSAocmlnaHQpOgogICAgLS1EZWZhdWx0cyB0byAiR2VuZXJhbCIKICAgIC0tT25seSBwYXJ0IHRoYXQgaXMgc3RhdGUtYXdhcmUgQlVUIG9ubHkgc29tZSBwYXJ0cyByZW5kZXIgaW4gcmVhbCB0aW1lOgogICAgICAtLVplbgogICAgICAtLUJhY2tncm91bmQKICAgICAgLS1DbG9jawogICAgLS1UaGVzZSBwYXJ0cyByZW5kZXIgb24gU2F2ZSAmIEFwcGx5IChyZWxvYWQgLSBzYXZlL2xvYWQgZnJvbSBsb2NhbFN0b3JhZ2UpCiAgICAgIC0tR2VuZXJhbAogICAgICAtLVF1aWNrIExpbmtzCiAgICAgIC0tQ2FsZW5kYXIKICAgICAgLS1Ub2RvIExpc3QKICAgICAgLS0gV2VhdGhlcgogICAgLS0gTm90IHJlbGF0ZWQgdG8gc3RhdGU6CiAgICAgIC0tTmV3IFVwZGF0ZQogICAgICAtLUFib3V0CiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPEljb24gZmFDbGFzcz0iZmEtY29nIgogICAgICAgICAgICBvbkljb25DbGljaz17b25JY29uQ2xpY2t9CiAgICAgICAgICAgIG9uSG92ZXJUZXh0PSJPcHRpb25zIgogICAgICAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPEljb24gZmFDbGFzcz0iZmEtY29nIgogICAgICAgICAgICBvbkljb25DbGljaz17b25JY29uQ2xpY2t9CiAgICAgICAgICAgIG9uSG92ZXJUZXh0PSJPcHRpb25zIC0gcmlnaHQgbm93IGp1c3QgcHJvdmlkZXMgZGVtbyBvZiBpbnRlci13aWRnZXQgaW50ZXJhY3Rpb25zIgogICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDEwZW07Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TWVudUl0ZW1MZWZ0IHsKICAKfQoKTWVudUl0ZW1SaWdodCB7CiAgCn0K</text>
+        <text encoding="base64">ICAgICAgPEljb24gZmFDbGFzcz0iZmEtY29nIgogICAgICAgICAgICBvbkljb25DbGljaz17b25JY29uQ2xpY2t9CiAgICAgICAgICAgIG9uSG92ZXJUZXh0PSJPcHRpb25zIgogICAgICAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFdpZGdldCBmcm9tICcuLi9jb21tb24vV2lkZ2V0JzsKaW1wb3J0IEljb24gZnJvbSAnLi4vY29tbW9uL0ljb24nOwoK</text>
+        <text encoding="base64">ICAgICAgPEljb24gZmFDbGFzcz0iZmEtY29nIgogICAgICAgICAgICBvbkljb25DbGljaz17b25JY29uQ2xpY2t9CiAgICAgICAgICAgIG9uSG92ZXJUZXh0PSJPcHRpb25zIC0gcmlnaHQgbm93IGp1c3QgcHJvdmlkZXMgZGVtbyBvZiBpbnRlci13aWRnZXQgaW50ZXJhY3Rpb25zIgogICAgICAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxXaWRnZXQgeVBvc2l0aW9uPSJib3R0b20iCiAgICAgICAgICAgIHhQb3NpdGlvbj0ibGVmdCI+CiAgICA8L1dpZGdldD4K</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDEwZW07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPE9wdGlvbnNNb2RhbC8+Cg==</text>
+        <text encoding="base64">TWVudUl0ZW1MZWZ0IHsKICAKfQoKTWVudUl0ZW1SaWdodCB7CiAgCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFdpZGdldCBmcm9tICcuLi9jb21tb24vV2lkZ2V0JzsKaW1wb3J0IEljb24gZnJvbSAnLi4vY29tbW9uL0ljb24nOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPEljb24gZmFDbGFzcz0iZmEtY29nIgogICAgICAgICAgICBvbkljb25DbGljaz17b25JY29uQ2xpY2t9CiAgICAgICAgICAgIG9uSG92ZXJUZXh0PSJPcHRpb25zIC0gcmlnaHQgbm93IGp1c3QgcHJvdmlkZXMgZGVtbyBvZiBpbnRlci13aWRnZXQgaW50ZXJhY3Rpb25zIgogICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIDxXaWRnZXQgeVBvc2l0aW9uPSJib3R0b20iCiAgICAgICAgICAgIHhQb3NpdGlvbj0ibGVmdCI+CiAgICA8L1dpZGdldD4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0dWRlbnRfaWQvc3R1ZGVudElkL2c=</text>
