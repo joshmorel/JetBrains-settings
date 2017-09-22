@@ -78,10 +78,10 @@
         <mark key="." line="66" column="23" />
         <mark key="^" line="66" column="23" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/General.js" timestamp="1506120301405">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/General.js" timestamp="1506121339710">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/App.js" timestamp="1505948417469">
         <mark key="[" line="9" column="11" />
@@ -476,7 +476,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2xhYmVsPgo=</text>
       </register>
       <register name="-" type="4">
         <text>// This is the built-in Text formInput</text>
@@ -2161,31 +2161,31 @@
         <text encoding="base64">LyogV2lyZSBGcmFtaW5nOgoKICAtLVRpdGxlOgogICAgLS1sZWZ0OiBsb2dvCiAgICAtLWNlbnRlcjogIk9wdGlvbnMgJiBTZXR0aW5ncyIKICAtLU1lbnUgKGxlZnQpOgogICAgLS1saXN0IHdpdGggaG92ZXJhYmxlIHJlc3BvbnNlIHdoaWNoIGlzIGNvbW1vbiB0byA0IG90aGVyIHdpZGdldHMKICAgICAgLS1pY29uIG9uIGxlZnQKICAgICAgLS1jb250ZW50IG9uIHJpZ2h0CiAgICAgIC0tb24gaG92ZXIgPSBkYXJrZXIgd2l0aCBibHVlIGJvcmRlciBhbmQgYmx1ZSBoaWdsaWdodGluZyBvZiBpY29uCiAgICAtLW9uIGljb24gb2YgbWVudSBsaXN0IGl0ZW0gdHJpZ2dlcnMgZGlzcGxheSBpbiBib2R5CiAgIC0tQm9keSAocmlnaHQpOgogICAgLS1EZWZhdWx0cyB0byAiR2VuZXJhbCIKICAgIC0tT25seSBwYXJ0IHRoYXQgaXMgc3RhdGUtYXdhcmUgQlVUIG9ubHkgc29tZSBwYXJ0cyByZW5kZXIgaW4gcmVhbCB0aW1lOgogICAgICAtLVplbgogICAgICAtLUJhY2tncm91bmQKICAgICAgLS1DbG9jawogICAgLS1UaGVzZSBwYXJ0cyByZW5kZXIgb24gU2F2ZSAmIEFwcGx5IChyZWxvYWQgLSBzYXZlL2xvYWQgZnJvbSBsb2NhbFN0b3JhZ2UpCiAgICAgIC0tR2VuZXJhbAogICAgICAtLVF1aWNrIExpbmtzCiAgICAgIC0tQ2FsZW5kYXIKICAgICAgLS1Ub2RvIExpc3QKICAgICAgLS0gV2VhdGhlcgogICAgLS0gTm90IHJlbGF0ZWQgdG8gc3RhdGU6CiAgICAgIC0tTmV3IFVwZGF0ZQogICAgICAtLUFib3V0CiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2xhYmVsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuPkNyZWF0ZSBBY2NvdW50Pzwvc3Bhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gSWYgeW91IGRvbid0IG5lZWQgYWNjZXNzIHRvIGFueSBmb3JtIG1ldGhvZHMgb3IgcHJvcHMsIHlvdSBjYW4gc2ltcGx5IHJldHVybiBKU1ggd2l0aG91dCB3cmFwcGluZyBpdCBpbiBhCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyBvdXIgcmV1c2FibGUgYWRkcmVzcyBmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQ9J2NyZWF0ZUFjY291bnQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gSXQgY2FuIGhhdmUgaXRzIG93biB2YWxpZGF0aW9uIGZ1bmN0aW9uIHRvbyEgVGhpcyBrZWVwcyBvdXIgcGFyZW50IHZhbGlkYXRpb24gZnVuY3Rpb24gY2xlYW4gYW5kIGZsYXQK</text>
+        <text encoding="base64">ICAgICAgICAgIDxDaGVja2JveCAvLyBUaGlzIGlzIHRoZSBidWlsdC1pbiBjaGVja2JveCBmb3JtSW5wdXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hlY2tib3ggfSBmcm9tICdyZWFjdC1mb3JtJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gTGV0J3MgZ2l2ZSB0aGUgZm9ybSBzb21lIGRlZmF1bHQgdmFsdWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gVmFsaWRhdGluZyB5b3VyIGZvcm0gaXMgc3VwZXIgZWFzeSwganVzdCB1c2UgdGhlIGB2YWxpZGF0ZWAgbGlmZS1jeWNsZSBtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0dWRlbnRfaWQvc3R1ZGVudElkL2c=</text>
