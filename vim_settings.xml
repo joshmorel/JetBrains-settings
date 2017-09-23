@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/app.js" timestamp="1506205347505">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1505859239787">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="25" column="65" />
@@ -112,6 +118,13 @@
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" timestamp="1506206858305">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="210" column="67" />
+        <mark key="]" line="210" column="67" />
+        <mark key="." line="210" column="67" />
+        <mark key="^" line="211" column="21" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/LinkCollection.js" timestamp="1506080145744">
         <mark key="[" line="4" column="0" />
@@ -359,6 +372,12 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/styles.css" timestamp="1506202991166">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/App.css" timestamp="1505947489747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -379,8 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarMenu/NavbarMenu.js" />
-      <jump line="3" column="13" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarMenu/NavbarMenu.js" />
       <jump line="0" column="25" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemAnchor/NavbarItemAnchor.js" />
       <jump line="3" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" />
       <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" />
@@ -479,13 +496,15 @@
       <jump line="30" column="29" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" />
       <jump line="12" column="0" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/actions/attendanceRecordActions.js" />
       <jump line="109" column="25" filename="$USER_HOME$/git/edu-repos/examples/react-form-demo/src/components/FormExample.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="66" column="0" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Widget</text>
+        <text encoding="base64">IGNoZWNrZWQ=</text>
       </register>
       <register name="-" type="4">
-        <text>Widget</text>
+        <text encoding="base64">IGNoZWNrZWQ=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2161,46 +2180,46 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>student_id</text>
+        <text>loc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFdpZGdldCBmcm9tICcuLi9jb21tb24vV2lkZ2V0JzsK</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImJhY2tncm91bmRJbWFnZSIgdmFsdWU9InJhbmRvbSIgY2hlY2tlZD4KICAgICAgICAgIFJhbmRvbSBpbWFnZQogICAgICAgIDwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1lbnUsIHtNZW51SXRlbX0gZnJvbSAiLi4vY29tbW9uL01lbnUiOwoKaW1wb3J0IFdpZGdldCBmcm9tICcuLi9jb21tb24vV2lkZ2V0JzsKaW1wb3J0IEljb24gZnJvbSAnLi4vY29tbW9uL0ljb24nOwppbXBvcnQgJy4vT3B0aW9uc1dpZGdldC5jc3MnOwoKLy8gaW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCcKCi8vIGltcG9ydCB7Ci8vICAgdG9nZ2xlSWNvblZpc2liaWxpdHkgYXMgdG9nZ2xlV2VhdGhlckljb25WaXNpYmlsaXR5Ci8vIH0gZnJvbSAiLi4vLi4vYWN0aW9ucy93ZWF0aGVyQWN0aW9ucyI7CgovKiBXaXJlIEZyYW1pbmc6CgogIC0tVGl0bGU6CiAgICAtLWxlZnQ6IGxvZ28KICAgIC0tY2VudGVyOiAiT3B0aW9ucyAmIFNldHRpbmdzIgogIC0tTWVudSAobGVmdCk6CiAgICAtLWxpc3Qgd2l0aCBob3ZlcmFibGUgcmVzcG9uc2Ugd2hpY2ggaXMgY29tbW9uIHRvIDQgb3RoZXIgd2lkZ2V0cwogICAgICAtLWljb24gb24gbGVmdAogICAgICAtLWNvbnRlbnQgb24gcmlnaHQKICAgICAgLS1vbiBob3ZlciA9IGRhcmtlciB3aXRoIGJsdWUgYm9yZGVyIGFuZCBibHVlIGhpZ2xpZ2h0aW5nIG9mIGljb24KICAgIC0tb24gaWNvbiBvZiBtZW51IGxpc3QgaXRlbSB0cmlnZ2VycyBkaXNwbGF5IGluIGJvZHkKICAgLS1Cb2R5IChyaWdodCk6CiAgICAtLURlZmF1bHRzIHRvICJHZW5lcmFsIgogICAgLS1Pbmx5IHBhcnQgdGhhdCBpcyBzdGF0ZS1hd2FyZSBCVVQgb25seSBzb21lIHBhcnRzIHJlbmRlciBpbiByZWFsIHRpbWU6CiAgICAgIC0tWmVuCiAgICAgIC0tQmFja2dyb3VuZAogICAgICAtLUNsb2NrCiAgICAtLVRoZXNlIHBhcnRzIHJlbmRlciBvbiBTYXZlICYgQXBwbHkgKHJlbG9hZCAtIHNhdmUvbG9hZCBmcm9tIGxvY2FsU3RvcmFnZSkKICAgICAgLS1HZW5lcmFsCiAgICAgIC0tUXVpY2sgTGlua3MKICAgICAgLS1DYWxlbmRhcgogICAgICAtLVRvZG8gTGlzdAogICAgICAtLSBXZWF0aGVyCiAgICAtLSBOb3QgcmVsYXRlZCB0byBzdGF0ZToKICAgICAgLS1OZXcgVXBkYXRlCiAgICAgIC0tQWJvdXQKICovCgpjb25zdCBPcHRpb25zTW9kYWwgPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJPcHRpb25zTW9kYWwiPgogICAgICA8TWVudT4KICAgICAgICA8TWVudUl0ZW0+CiAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLWNvZ3MiLz4KICAgICAgICAgIDxkaXY+R2VuZXJhbDwvZGl2PgogICAgICAgIDwvTWVudUl0ZW0+CiAgICAgICAgPE1lbnVJdGVtPgogICAgICAgICAgPGkgY2xhc3NOYW1lPSJmYSBmYS1saW5rIi8+CiAgICAgICAgICA8ZGl2PlF1aWNrIExpbmtzPC9kaXY+CiAgICAgICAgPC9NZW51SXRlbT4KICAgICAgICA8TWVudUl0ZW0+CiAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLWxpc3QtdWwiLz4KICAgICAgICAgIDxkaXY+VG9kbyBMaXN0PC9kaXY+CiAgICAgICAgPC9NZW51SXRlbT4KICAgICAgPC9NZW51PgogICAgICA8Zm9ybSBjbGFzc05hbWU9Ik9wdGlvbnNGb3JtIi8+CiAgICA8L2Rpdj4KICApCn07Cgpjb25zdCBPcHRpb25zV2lkZ2V0ID0gKHtvbkljb25DbGlja30pID0+IHsKCiAgLy8gb3B0aW9ucyBmdW5jdGlvbmFsaXR5IG5lZWRzIHRvIGJlIGJ1aWx0CiAgLy8gdGhpcyBpcyBjdXJyZW50bHkganVzdCBkZW1vaW5nIGludGVyLXdpZGdldCBpbnRlcmFjdGlvbgoKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgey8qMm5kIGRpdiB0byBlbmFibGUgdmVydGljYWwvaG9yaXpvbnRhbCBjZW50ZXJpbmcqL30KICAgICAgPGRpdiBjbGFzc05hbWU9Ik9wdGlvbnMiPgogICAgICAgIDxPcHRpb25zTW9kYWwvPgogICAgICA8L2Rpdj4KICAgICAgPFdpZGdldAogICAgICAgIHlQb3NpdGlvbj0iYm90dG9tIgogICAgICAgIHhQb3NpdGlvbj0ibGVmdCIKICAgICAgPgogICAgICAgIDxJY29uIGZhQ2xhc3M9ImZhLWNvZyIKICAgICAgICAgICAgICBvbkljb25DbGljaz17b25JY29uQ2xpY2t9CiAgICAgICAgICAgICAgb25Ib3ZlclRleHQ9Ik9wdGlvbnMiCiAgICAgICAgLz4KICAgICAgPC9XaWRnZXQ+CiAgICA8L2Rpdj4KICApOwp9OwoKLy8gZnVuY3Rpb24gbWFwRGlzcGF0Y2hUb1Byb3BzKGRpc3BhdGNoKSB7Ci8vICAgcmV0dXJuIHsKLy8gICAgIG9uSWNvbkNsaWNrOiAoKSA9PiB7Ci8vICAgICAgIGRpc3BhdGNoKHRvZ2dsZVdlYXRoZXJJY29uVmlzaWJpbGl0eSgpKTsKLy8gICAgIH0KLy8gICB9Ci8vIH0KCmV4cG9ydCBkZWZhdWx0IE9wdGlvbnNXaWRnZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9IndlYXRoZXJHZW9sb2NhdGlvbiIgdmFsdWU9ImN1c3RvbSI+CiAgICAgICAgPC9sYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IkF1c3RpbiwgVFggb3IgMjc1MTQiPgogICAgICAgIDxidXR0b24+RW50ZXI8L2J1dHRvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPE9wdGlvbnNJdGVtTWVudS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFVzZSBkZWZhdWx0IGdlb2xvY2F0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgT3B0aW9uc0l0ZW1NZW51ID0gKCkgPT4gewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iT3B0aW9uc0l0ZW1NZW51Ij4KICAgICAgU3ViLW1lbnUKICAgIDwvZGl2PgogICk7Cn07Cgo=</text>
+        <text encoding="base64">ICA8L2Zvcm0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICBIaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9ImJpZy1sYWJlbCI+QWxsPC9zcGFuPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuPkNyZWF0ZSBBY2NvdW50Pzwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9ImJpZy1sYWJlbCI+QWxsPC9zcGFuPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxwPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQ9J2NyZWF0ZUFjY291bnQnCg==</text>
+        <text encoding="base64">ICAgIDxwPgogICAgICA8c3BhbiBjbGFzcz0iYmlnLWxhYmVsIj5OZXdzPC9zcGFuPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsTmV3c0hpZGUiIGNoZWNrZWQ+SGlkZQogICAgICA8L2xhYmVsPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsTmV3c0FjdGl2ZSI+QWN0aXZlIG9uIG9wZW4KICAgICAgPC9sYWJlbD4KICAgIDwvcD4KICAgIDxwPgogICAgICA8c3BhbiBjbGFzcz0iYmlnLWxhYmVsIj5SU1M8L3NwYW4+CiAgICAgIDxsYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImdlbmVyYWxOZXdzUlNTIiB2YWx1ZT0iUlNTIj4KICAgICAgICBSU1MKICAgICAgPC9sYWJlbD4KICAgICAgPGxhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iZ2VuZXJhbE5ld3NSU1MiIHZhbHVlPSJkZWZhdWx0IiBjaGVja2VkPgogICAgICAgIERlZmF1bHQgTmV3cwogICAgICA8L2xhYmVsPgogICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iZ2VuZXJhbE5ld3NSU1NWYWx1ZSIgcGxhY2Vob2xkZXI9IlJTUyBVUkwiPgogICAgPC9wPgogICAgPHA+CiAgICAgIDxzcGFuIGNsYXNzPSJiaWctbGFiZWwiPk5vdGVwYWQ8L3NwYW4+CiAgICAgIDxsYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImdlbmVyYWxOb3RlcGFkSGlkZSI+SGlkZQogICAgICA8L2xhYmVsPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsTm90ZXBhZEhpZGUiPkFjdGl2ZSBvbiBvcGVuCiAgICAgIDwvbGFiZWw+CiAgICA8L3A+CiAgICA8cD4KICAgICAgPHNwYW4gY2xhc3M9ImJpZy1sYWJlbCI+U2VhcmNoPC9zcGFuPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsU2VhcmNoSGlkZSIgY2hlY2tlZD5IaWRlCiAgICAgIDwvbGFiZWw+CiAgICAgIDxsYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImdlbmVyYWxTZWFyY2hIaWRlIj5BY3RpdmUgb24gb3BlbgogICAgICA8L2xhYmVsPgogICAgPC9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDaGVja2JveCAvLyBUaGlzIGlzIHRoZSBidWlsdC1pbiBjaGVja2JveCBmb3JtSW5wdXQK</text>
+        <text encoding="base64">ICAgICAgPHNwYW4+UXVvdGVzOjwvc3Bhbj4KICAgICAgPGxhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iZ2VuZXJhbFF1b3RlcyIgdmFsdWU9InllcyIgY2hlY2tlZD4KICAgICAgICBZZXMKICAgICAgPC9sYWJlbD4KICAgICAgPGxhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iZ2VuZXJhbFF1b3RlcyIgdmFsdWU9Im5vIj4KICAgICAgICBObwogICAgICA8L2xhYmVsPgogICAgPC9wPgogICAgPGg1PlRvb2wgQWN0aW9uczwvaDU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0dWRlbnRfaWQvc3R1ZGVudElkL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>student_id</last-search>
+      <last-search>loc</last-search>
       <last-offset />
-      <last-pattern>student_id</last-pattern>
+      <last-pattern>loc</last-pattern>
       <last-replace>studentId</last-replace>
       <last-substitute>student_id</last-substitute>
       <last-dir>1</last-dir>
@@ -2208,7 +2227,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onIconClick</entry>
         <entry>WEATHER</entry>
         <entry>weather</entry>
         <entry>TOGGLE</entry>
@@ -2228,6 +2246,7 @@
         <entry>Scheduler</entry>
         <entry>attendanceRecords</entry>
         <entry>student_id</entry>
+        <entry>loc</entry>
       </history-search>
       <history-cmd>
         <entry>s/TOGGLE/TOGGLE_OPEN/g</entry>
@@ -2305,6 +2324,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
