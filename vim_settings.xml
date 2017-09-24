@@ -119,12 +119,12 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" timestamp="1506206858305">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="210" column="67" />
-        <mark key="]" line="210" column="67" />
-        <mark key="." line="210" column="67" />
-        <mark key="^" line="211" column="21" />
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" timestamp="1506261351524">
+        <mark key="'" line="305" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="104" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/LinkCollection.js" timestamp="1506080145744">
         <mark key="[" line="4" column="0" />
@@ -398,7 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="25" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemAnchor/NavbarItemAnchor.js" />
       <jump line="3" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarBrand/NavbarBrand.js" />
       <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarStart/NavbarStart.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/bulma-react-play/src/components/NavbarItemDropdown/NavbarItemDropdown.js" />
@@ -498,13 +497,14 @@
       <jump line="109" column="25" filename="$USER_HOME$/git/edu-repos/examples/react-form-demo/src/components/FormExample.js" />
       <jump line="13" column="2" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="66" column="0" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="315" column="0" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNoZWNrZWQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8IS0tPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIuL3N0eWxlcy9ub3JtYWxpemUuY3NzIj4tLT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNoZWNrZWQ=</text>
+        <text>Clone of the Leoh Extension</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2180,54 +2180,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>loc</text>
+        <text>span</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImJhY2tncm91bmRJbWFnZSIgdmFsdWU9InJhbmRvbSIgY2hlY2tlZD4KICAgICAgICAgIFJhbmRvbSBpbWFnZQogICAgICAgIDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImNsb2NrSGlkZSI+SGlkZSBDbG9jawogICAgICAgIDwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9IndlYXRoZXJHZW9sb2NhdGlvbiIgdmFsdWU9ImN1c3RvbSI+CiAgICAgICAgPC9sYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IkF1c3RpbiwgVFggb3IgMjc1MTQiPgogICAgICAgIDxidXR0b24+RW50ZXI8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICA8IS0tPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIuL3N0eWxlcy9ub3JtYWxpemUuY3NzIj4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVzZSBkZWZhdWx0IGdlb2xvY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgPHA+VGhpcyBpcyBhIENsb25lIG9mIHRoZSBMZW9oIEV4dGVuc2lvbjwvcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxoMj5OZXcgVXBkYXRlPC9oMj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9RHJvaWQrU2VyaWZ8SW5jb25zb2xhdGF8TGF0b3xUYXZpcmFqfFRyaXJvbmciIHJlbD0ic3R5bGVzaGVldCI+ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9ImJpZy1sYWJlbCI+QWxsPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iaGVsdmV0aWNhIiBzdHlsZT0iZm9udC1mYW1pbHk6ICdIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7Ij5IZWx2ZXRpY2E8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iYXJpYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsiPkFyaWFsPC9vcHRpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9ImJpZy1sYWJlbCI+QWxsPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6ICdIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7Ij5IZWx2ZXRpY2E8L3NwYW4+LAogICAgICAgIDxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWwsICdIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsiPkFyaWFsPC9zcGFuPiwKICAgICAgICA8c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6ICdMYXRvJywgc2Fucy1zZXJpZjsiPkxhdG88L3NwYW4+LAogICAgICAgIDxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogJ0Ryb2lkIFNlcmlmJywgc2VyaWY7Ij5Ecm9pZCBTZXJpZjwvc3Bhbj4sCiAgICAgICAgPHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiAnSW5jb25zb2xhdGEnLCBtb25vc3BhY2U7Ij5JbmNvbnNvbGF0YTwvc3Bhbj4sCiAgICAgICAgPHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiAnVGF2aXJhaicsIHNlcmlmOyI+VGF2aXJhajwvc3Bhbj4sCiAgICAgICAgPHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiAnVHJpcm9uZycsIHNlcmlmOyI+VHJpcm9uZzwvc3Bhbj4sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsOyI+SGVsdmV0aWNhPC9zcGFuPiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwPgogICAgICA8c3BhbiBjbGFzcz0iYmlnLWxhYmVsIj5OZXdzPC9zcGFuPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsTmV3c0hpZGUiIGNoZWNrZWQ+SGlkZQogICAgICA8L2xhYmVsPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsTmV3c0FjdGl2ZSI+QWN0aXZlIG9uIG9wZW4KICAgICAgPC9sYWJlbD4KICAgIDwvcD4KICAgIDxwPgogICAgICA8c3BhbiBjbGFzcz0iYmlnLWxhYmVsIj5SU1M8L3NwYW4+CiAgICAgIDxsYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImdlbmVyYWxOZXdzUlNTIiB2YWx1ZT0iUlNTIj4KICAgICAgICBSU1MKICAgICAgPC9sYWJlbD4KICAgICAgPGxhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iZ2VuZXJhbE5ld3NSU1MiIHZhbHVlPSJkZWZhdWx0IiBjaGVja2VkPgogICAgICAgIERlZmF1bHQgTmV3cwogICAgICA8L2xhYmVsPgogICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iZ2VuZXJhbE5ld3NSU1NWYWx1ZSIgcGxhY2Vob2xkZXI9IlJTUyBVUkwiPgogICAgPC9wPgogICAgPHA+CiAgICAgIDxzcGFuIGNsYXNzPSJiaWctbGFiZWwiPk5vdGVwYWQ8L3NwYW4+CiAgICAgIDxsYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImdlbmVyYWxOb3RlcGFkSGlkZSI+SGlkZQogICAgICA8L2xhYmVsPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsTm90ZXBhZEhpZGUiPkFjdGl2ZSBvbiBvcGVuCiAgICAgIDwvbGFiZWw+CiAgICA8L3A+CiAgICA8cD4KICAgICAgPHNwYW4gY2xhc3M9ImJpZy1sYWJlbCI+U2VhcmNoPC9zcGFuPgogICAgICA8bGFiZWw+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJnZW5lcmFsU2VhcmNoSGlkZSIgY2hlY2tlZD5IaWRlCiAgICAgIDwvbGFiZWw+CiAgICAgIDxsYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImdlbmVyYWxTZWFyY2hIaWRlIj5BY3RpdmUgb24gb3BlbgogICAgICA8L2xhYmVsPgogICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iZGVmYXVsdERhcmsiPkRlZmF1bHQgLSBEYXJrPC9vcHRpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4+UXVvdGVzOjwvc3Bhbj4KICAgICAgPGxhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iZ2VuZXJhbFF1b3RlcyIgdmFsdWU9InllcyIgY2hlY2tlZD4KICAgICAgICBZZXMKICAgICAgPC9sYWJlbD4KICAgICAgPGxhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iZ2VuZXJhbFF1b3RlcyIgdmFsdWU9Im5vIj4KICAgICAgICBObwogICAgICA8L2xhYmVsPgogICAgPC9wPgogICAgPGg1PlRvb2wgQWN0aW9uczwvaDU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2xhYmVsPgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N0dWRlbnRfaWQvc3R1ZGVudElkL2c=</text>
+        <text encoding="base64">JzwsJz5zL3NwYW4vb3B0aW9uL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>loc</last-search>
+      <last-search>span</last-search>
       <last-offset />
-      <last-pattern>loc</last-pattern>
-      <last-replace>studentId</last-replace>
-      <last-substitute>student_id</last-substitute>
+      <last-pattern>span</last-pattern>
+      <last-replace>option</last-replace>
+      <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>WEATHER</entry>
         <entry>weather</entry>
         <entry>TOGGLE</entry>
         <entry>SETTINGS</entry>
@@ -2247,9 +2246,9 @@
         <entry>attendanceRecords</entry>
         <entry>student_id</entry>
         <entry>loc</entry>
+        <entry>span</entry>
       </history-search>
       <history-cmd>
-        <entry>s/TOGGLE/TOGGLE_OPEN/g</entry>
         <entry>s/SETTINGS/WEATHER/g</entry>
         <entry>s/_OPEN//g</entry>
         <entry>s/settings/weather/g</entry>
@@ -2269,6 +2268,7 @@
         <entry>%s/Scheduler/Students/g</entry>
         <entry>s/attendanceRecords/students/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0dWRlbnRfaWQvc3R1ZGVudElkL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3NwYW4vb3B0aW9uL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
