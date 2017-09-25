@@ -122,7 +122,6 @@
         <mark key="]" line="55" column="45" />
         <mark key="." line="55" column="45" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/ImperativeComponent.js" timestamp="1506289490139" />
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/StatelessComponent.js" timestamp="1505681341748">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="17" column="24" />
@@ -135,12 +134,11 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" timestamp="1506299398338">
-        <mark key="'" line="259" column="6" />
-        <mark key="[" line="295" column="84" />
-        <mark key="]" line="275" column="91" />
-        <mark key="." line="275" column="91" />
-        <mark key="^" line="275" column="91" />
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" timestamp="1506339950159">
+        <mark key="'" line="405" column="41" />
+        <mark key="[" line="415" column="0" />
+        <mark key="]" line="415" column="0" />
+        <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/CounterContainer.js" timestamp="1506284607740">
         <mark key="[" line="55" column="7" />
@@ -397,12 +395,12 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/styles/styles.css" timestamp="1506297359655">
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/styles/styles.css" timestamp="1506340520853">
         <mark key="'" line="181" column="2" />
-        <mark key="[" line="103" column="15" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="95" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="48" column="43" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/styles.css" timestamp="1506202991166">
         <mark key="[" line="1" column="18" />
@@ -436,10 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="24" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteWidget.js" />
-      <jump line="29" column="1" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/note.js" />
-      <jump line="1" column="11" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.css" />
       <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsPopUp.js" />
       <jump line="1" column="1" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPopUp.js" />
       <jump line="0" column="7" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherPopUpCell.js" />
@@ -536,13 +530,17 @@
       <jump line="256" column="18" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="257" column="6" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="258" column="6" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="345" column="14" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="362" column="25" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="364" column="14" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="405" column="41" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>checked</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>checked</text>
+        <text>focus</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2218,57 +2216,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>L</text>
+        <text>zenHide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIGlkPSJiYWNrZ3JvdW5kSW1hZ2VSYW5kb20iIG5hbWU9ImJhY2tncm91bmRJbWFnZSIgY2hlY2tlZD4KICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJiYWNrZ3JvdW5kSW1hZ2VSYW5kb20iPgogICAgICAgICAgICAgICAgPHNwYW4+PGkgY2xhc3M9ImZhIGZhLWNoZWNrIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPgogICAgICAgICAgICAgIDwvc3Bhbj5SYW5kb20gaW1hZ2UKICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICBib3JkZXItbGVmdDogc29saWQgdHJhbnNwYXJlbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bGFiZWw+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnIvPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LyoubWVudUl0ZW06YWN0aXZlLCAubWVudUl0ZW06Zm9jdXMgeyovCiAgLypib3JkZXI6IG5vbmU7Ki8KICAvKm91dGxpbmU6IG5vbmU7Ki8KICAvKnBhZGRpbmc6IDRweDsqLwovKn0qLwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Lm1lbnVJdGVtOmhvdmVyOmZvY3VzIHsKICBib3JkZXItbGVmdDogc29saWQgcmdiYSgwLCAxNTMsIDI1NSwgMC40KTsKfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvKmJvcmRlci1sZWZ0OiBzb2xpZCByZ2JhKDAsIDE1MywgMjU1LCAwLjQpOyovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBib3JkZXI6IG5vbmU7CiAgb3V0bGluZTogbm9uZTsKICBwYWRkaW5nOiA0cHg7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnIvPgo=</text>
+        <text encoding="base64">ICBtYXJnaW46IDEwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnIvPgogICAgICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iYmFja2dyb3VuZCIgdmFsdWU9ImltYWdlUmFuZG9tRnJvbUFsYnVtIiBpZD0iIj4KICAgICAgICAgICAgICAgIFJhbmRvbSBpbWFnZSBmcm9tIGFsYnVtOgogICAgICAgICAgICAgICAgPGJyLz4KICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSBuYW1lPSJpbWFnZVJhbmRvbUZyb21BbGJ1bUxpc3QiIHJvd3M9IjYiIGRpc2FibGVkPmh0dHA6Ly9pLmltZ3VyLmNvbS9zN0xGSUJvLmpwZyYjMTM7JiMxMDtodHRwOi8vaS5pbWd1ci5jb20vSFh5WTN2bC5qcGc8L3RleHRhcmVhPgogICAgICAgICAgICAgIDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1lbnVCb2R5Ij4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImJhY2tncm91bmQiIHZhbHVlPSJpbWFnZVJhbmRvbSIgY2hlY2tlZD4KICAgICAgICAgICAgICAgIFJhbmRvbSBpbWFnZQogICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgPGJyLz4KICAgICAgICAgICAgICA8bGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImJhY2tncm91bmQiIHZhbHVlPSJpbWFnZUN1c3RvbSI+CiAgICAgICAgICAgICAgICBDdXN0b20gaW1hZ2U6CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iYmFja2dyb3VuZEltYWdlQ3VzdG9tIj4KICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgIDxici8+CiAgICAgICAgICAgICAgPGxhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJiYWNrZ3JvdW5kIiB2YWx1ZT0iY29sb3JDdXN0b20iPgogICAgICAgICAgICAgICAgQmFja2dyb3VuZCBjb2xvcjoKICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJiYWNrZ3JvdW5kQ29sb3JDdXN0b20iPgogICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgPGJyLz4KICAgICAgICAgICAgICA8bGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImJhY2tncm91bmQiIHZhbHVlPSJjb2xvclJhbmRvbSI+CiAgICAgICAgICAgICAgICBSYW5kb20gY29sb3IKICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAtbXMtdXNlci1zZWxlY3Q6IG5vbmU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RvZG9MaXN0VmlzaWJsZS96ZW5IaWRlL2c=</text>
+        <text encoding="base64">JzwsJz5zL3plbkhpZGUvY2xvY2tGb250Qm9sZC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>L</last-search>
+      <last-search>zenHide</last-search>
       <last-offset />
-      <last-pattern>L</last-pattern>
-      <last-replace>zenHide</last-replace>
-      <last-substitute>todoListVisible</last-substitute>
+      <last-pattern>zenHide</last-pattern>
+      <last-replace>clockFontBold</last-replace>
+      <last-substitute>zenHide</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>i.</entry>
-        <entry>i\.</entry>
-        <entry>Title</entry>
-        <entry>Cl</entry>
         <entry>ul</entry>
         <entry>menuListItem</entry>
         <entry>News</entry>
@@ -2285,12 +2279,12 @@
         <entry>Light</entry>
         <entry>Li</entry>
         <entry>L</entry>
+        <entry>AMPM</entry>
+        <entry>Date</entry>
+        <entry>_Hide</entry>
+        <entry>zenHide</entry>
       </history-search>
       <history-cmd>
-        <entry>s/CATEGORY_SET/CUSTOM_RSS_SET/g</entry>
-        <entry>%s/Scheduler/Students/g</entry>
-        <entry>s/attendanceRecords/students/g</entry>
-        <entry encoding="base64">JzwsJz5zL3N0dWRlbnRfaWQvc3R1ZGVudElkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NwYW4vb3B0aW9uL2c=</entry>
         <entry>s/Monolithic/Composed/g</entry>
         <entry>s/i./article./g</entry>
@@ -2307,6 +2301,10 @@
         <entry encoding="base64">JzwsJz5zL0hpZGUvVmlzaWJsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3RvZG8vd2VhdGhlci9n</entry>
         <entry encoding="base64">JzwsJz5zL3RvZG9MaXN0VmlzaWJsZS96ZW5IaWRlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0FNUE0vRGF0ZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL0RhdGUvTG9jYXRpb24vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL19IaWRlL01pZGRsZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3plbkhpZGUvY2xvY2tGb250Qm9sZC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
