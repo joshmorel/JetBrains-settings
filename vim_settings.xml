@@ -106,18 +106,18 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/MenuItem.js" timestamp="1506426399126">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/MenuItem.js" timestamp="1506466060485">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1506430016156">
-        <mark key="'" line="134" column="21" />
-        <mark key="[" line="131" column="15" />
-        <mark key="]" line="174" column="69" />
-        <mark key="." line="174" column="69" />
-        <mark key="^" line="174" column="69" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1506466188247">
+        <mark key="'" line="139" column="21" />
+        <mark key="[" line="223" column="20" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="184" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/FirstExample.js" timestamp="1506419761298">
         <mark key="[" line="24" column="0" />
@@ -200,8 +200,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1506430102571">
-        <mark key="[" line="27" column="5" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1506466303988">
+        <mark key="[" line="32" column="0" />
         <mark key="]" line="25" column="14" />
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
@@ -593,11 +593,11 @@
       <jump line="134" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvT3B0aW9uc01lbnVGb3JtU2VjdGlvbj4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>children</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2276,34 +2276,34 @@
         <text>Menu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgT3B0aW9uc01lbnUgZXh0ZW5kcyBDb21wb25lbnQgewogIGNvbnN0cnVjdG9yKCkgewogICAgc3VwZXIoKTsKICAgIHRoaXMudXBkYXRlT3BlbklkID0gdGhpcy51cGRhdGVPcGVuSWQuYmluZCh0aGlzKTsKICB9CgogIHVwZGF0ZU9wZW5JZChpZCkgewogICAgdGhpcy5zZXRTdGF0ZSh7b3BlbkZvcm1TZWN0aW9uSWQ6aWR9KQogIH0KCiAgc3RhdGUgPSB7CiAgICBvcGVuRm9ybVNlY3Rpb25JZDogImdlbmVyYWwiCiAgfTsK</text>
+        <text encoding="base64">ICB1cGRhdGVPcGVuSWQoaWQpIHsKICAgIHRoaXMuc2V0U3RhdGUoe29wZW5Gb3JtU2VjdGlvbklkOiBpZH0pCiAgfQoKICBzdGF0ZSA9IHsKICAgIG9wZW5Gb3JtU2VjdGlvbklkOiAiZ2VuZXJhbCIKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvT3B0aW9uc01lbnVGb3JtU2VjdGlvbj4K</text>
+        <text encoding="base64">Ck1lbnVJdGVtLmRlZmF1bHRQcm9wcyA9IHsKICBvbkNsaWNrOiAoKSA9PiBjb25zb2xlLmxvZygiQ2xpY2siKQp9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgICB0aGlzLnVwZGF0ZU9wZW5JZCA9IHRoaXMudXBkYXRlT3BlbklkLmJpbmQodGhpcyk7CiAgfQoKICB1cGRhdGVPcGVuSWQoaWQpIHsKICAgIHRoaXMuc2V0U3RhdGUoe29wZW5Gb3JtU2VjdGlvbklkOiBpZH0pCiAgfQoKICBzdGF0ZSA9IHsKICAgIG9wZW5Gb3JtU2VjdGlvbklkOiAiZ2VuZXJhbCIKICB9OwoKICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgT3B0aW9uc1dpZGdldDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgT3B0aW9uc1dpbmRvdyA9ICgpID0+IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8T3B0aW9uc01lbnVJdGVtQ29udGVudC8+CiAgXTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgT3B0aW9uc01lbnVGb3JtU2VjdGlvbiA9ICh7Y2hpbGRyZW4sIGlzT3Blbn0pID0+IHsKICBjb25zdCBjbGFzc2VzID0gYE9wdGlvbnNNZW51Rm9ybVNlY3Rpb24ke2lzT3BlbiA/ICcgb3BlbicgOiAnJ31gOwogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT17Y2xhc3Nlc30+e2NoaWxkcmVufTwvZGl2PgogICk7Cn07Cgo=</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuLmJpbmQodGhpcykK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgICB0aGlzLnVwZGF0ZU9wZW5JZCA9IHRoaXMudXBkYXRlT3BlbklkLmJpbmQodGhpcyk7CiAgfQoKICB1cGRhdGVPcGVuSWQoaWQpIHsKICAgIHRoaXMuc2V0U3RhdGUoe29wZW5Gb3JtU2VjdGlvbklkOiBpZH0pCiAgfQoKICBzdGF0ZSA9IHsKICAgIG9wZW5Gb3JtU2VjdGlvbklkOiAiZ2VuZXJhbCIKICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlT3BlbklkaGFuZGxlT25Nb3VzZUVudGVyID0gdGhpcy5oYW5kbGVPbk1vdXNlRW50ZXIuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIC8vIG9wdGlvbnMgZnVuY3Rpb25hbGl0eSBuZWVkcyB0byBiZSBidWlsdAogICAgLy8gdGhpcyBpcyBjdXJyZW50bHkganVzdCBkZW1vaW5nIGludGVyLXdpZGdldCBpbnRlcmFjdGlvbgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QKICBPcHRpb25zV2lkZ2V0ID0gKHtvbkljb25DbGlja30pID0+IHsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Menu/MenuItem/g</text>
