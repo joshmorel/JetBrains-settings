@@ -49,6 +49,11 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/InstanceExample.js" timestamp="1506469706037">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Menu.js" timestamp="1506426568115">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="25" column="15" />
@@ -202,7 +207,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/App.js" timestamp="1506420464542">
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/App.js" timestamp="1506470194222">
         <mark key="[" line="1" column="64" />
         <mark key="]" line="1" column="64" />
         <mark key="." line="1" column="64" />
@@ -356,10 +361,10 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/NodeExampleContainer.js" timestamp="1506420436095">
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/NodeExampleContainer.js" timestamp="1506469579866">
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/public/index.html" timestamp="1506271055379">
         <mark key="[" line="21" column="11" />
@@ -406,6 +411,7 @@
         <mark key="." line="99" column="29" />
         <mark key="^" line="99" column="29" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/InstanceExampleClass.js" timestamp="1506469649439" />
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/weatherActions.js" timestamp="1505676519866">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -500,8 +506,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/README.md" timestamp="1506420590954">
-        <mark key="[" line="40" column="233" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/README.md" timestamp="1506470120798">
+        <mark key="[" line="47" column="82" />
         <mark key="]" line="47" column="81" />
         <mark key="^" line="47" column="81" />
         <mark key="." line="47" column="81" />
@@ -616,11 +622,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VjdGlvbi5jb250ZW50KTsK</text>
+      <register name="&quot;" type="4">
+        <text>NodeExampleContainer</text>
       </register>
       <register name="-" type="4">
-        <text>{isOpen}</text>
+        <text>NodeExampleContainer</text>
       </register>
       <register name="m" type="4">
         <keys>
