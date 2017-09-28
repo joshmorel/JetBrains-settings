@@ -15,24 +15,17 @@
         <mark key="." line="34" column="10" />
         <mark key="^" line="34" column="10" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/InstanceExample.js" timestamp="1506469706037">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/ValueExample.js" timestamp="1506557988324">
-        <mark key="[" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Menu.js" timestamp="1506426568115">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormSection.js" timestamp="1506512414011">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormSection.js" timestamp="1506561440939">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ReusableComponents/ArticleList.js" timestamp="1506271108531">
         <mark key="[" line="13" column="0" />
@@ -40,11 +33,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Weather.js" timestamp="1506515667315">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Weather.js" timestamp="1506562357457">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="71" />
+        <mark key="." line="6" column="60" />
+        <mark key="^" line="6" column="60" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Modal.css" timestamp="1505825365774">
         <mark key="[" line="1" column="28" />
@@ -72,16 +66,11 @@
         <mark key="^" line="156" column="42" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/FirstExample.js" timestamp="1506419761298">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Links.js" timestamp="1506516745081">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Links.js" timestamp="1506562187252">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="73" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/App.js" timestamp="1505948417469">
         <mark key="[" line="9" column="11" />
@@ -95,22 +84,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/SchedulerContainer.js" timestamp="1505995469979">
-        <mark key="[" line="83" column="16" />
-        <mark key="]" line="55" column="45" />
-        <mark key="." line="55" column="45" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/UserList.js" timestamp="1506290047804">
         <mark key="[" line="22" column="59" />
         <mark key="]" line="17" column="47" />
         <mark key="^" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Todo.js" timestamp="1506515652003">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Todo.js" timestamp="1506562267027">
+        <mark key="'" line="9" column="8" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="7" column="63" />
+        <mark key="^" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/LinkCollection.js" timestamp="1506080145744">
         <mark key="[" line="4" column="0" />
@@ -154,13 +139,11 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/README.md" timestamp="1506341177378">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormSection.css" timestamp="1506512396230">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormSection.css" timestamp="1506561451341">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/SchedulerContainer.js" timestamp="1505947628173">
         <mark key="[" line="2" column="41" />
@@ -204,9 +187,6 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ContainerComponent/FormControls.js" timestamp="1506268650045">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/reducers/index.js" timestamp="1505951234443">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="7" column="9" />
@@ -225,6 +205,13 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Radio.js" timestamp="1506563536249">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/api.js" timestamp="1506289776782">
         <mark key="[" line="21" column="1" />
         <mark key="]" line="48" column="31" />
@@ -237,11 +224,17 @@
         <mark key="^" line="19" column="37" />
         <mark key="." line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" timestamp="1506515696757">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Separator.css" timestamp="1506561828792">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" timestamp="1506562379314">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/weatherActions.js" timestamp="1505676519866">
         <mark key="[" line="133" column="0" />
@@ -261,11 +254,17 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Zen.js" timestamp="1506515682368">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Checkbox.js" timestamp="1506562082118">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Zen.js" timestamp="1506562333154">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.css" timestamp="1505624410980">
         <mark key="[" line="0" column="0" />
@@ -303,28 +302,23 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Radio.css" timestamp="1506563276417">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Input.js" timestamp="1505677956545">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="/fragment.js" timestamp="1506466580212">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/EventPoolingGotcha.js" timestamp="1505775158118">
         <mark key="[" line="34" column="3" />
         <mark key="]" line="35" column="1" />
         <mark key="^" line="35" column="1" />
         <mark key="." line="35" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/react-form-demo/src/index.js" timestamp="1506120539754">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/react-form/src/components/FormExample.js" timestamp="1506120375706">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ReusableComponents/AddArticle.js" timestamp="1506271066694">
         <mark key="[" line="0" column="12" />
@@ -351,11 +345,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/General.js" timestamp="1506512795189">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/General.js" timestamp="1506563509240">
+        <mark key="'" line="22" column="9" />
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="36" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsMenu.js" timestamp="1506426937584">
         <mark key="'" line="5" column="10" />
@@ -388,6 +383,9 @@
         <mark key="^" line="55" column="13" />
         <mark key="." line="55" column="13" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" timestamp="1506563128031">
+        <mark key="'" line="213" column="22" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsMenu.css" timestamp="1506342557273">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="22" column="15" />
@@ -400,26 +398,17 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1506290433127">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1506514281425">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/FirstExampleContainer.js" timestamp="1506419776657">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/Widget.js" timestamp="1505575774268">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
         <mark key="^" line="12" column="4" />
         <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Separator.js" timestamp="1506563484908">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/About.js" timestamp="1506514025796">
         <mark key="[" line="5" column="11" />
@@ -432,11 +421,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="^" line="48" column="47" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/examples/react-form/src/App.js" timestamp="1506120353252">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/CustomExampleContainer.js" timestamp="1506558220614">
         <mark key="[" line="18" column="4" />
@@ -456,11 +440,6 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/package.json" timestamp="1506425682111">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/NodeExampleContainer.js" timestamp="1506513405454">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -479,8 +458,11 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506513744077">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Checkbox.css" timestamp="1506562137749">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/reducers/students.js" timestamp="1505951210939">
         <mark key="[" line="4" column="10" />
@@ -530,9 +512,6 @@
         <mark key="." line="11" column="2" />
         <mark key="^" line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/MyList.js" timestamp="1506285086281">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/backgroundActions.js" timestamp="1506386028645">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -545,10 +524,10 @@
         <mark key="." line="26" column="5" />
         <mark key="^" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/styles/styles.css" timestamp="1506426675292">
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/styles/styles.css" timestamp="1506563272921">
         <mark key="'" line="181" column="2" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="19" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="21" />
         <mark key="." line="70" column="0" />
         <mark key="^" line="48" column="43" />
       </file>
@@ -566,33 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/weatherActions.js" />
-      <jump line="22" column="11" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" />
-      <jump line="21" column="7" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/settings.js" />
-      <jump line="19" column="1" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/settings.js" />
-      <jump line="16" column="7" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/weather.js" />
-      <jump line="13" column="23" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherForecastCell.js" />
-      <jump line="7" column="15" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherWidget.js" />
-      <jump line="9" column="7" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" />
-      <jump line="76" column="23" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/SettingsWidget.js" />
-      <jump line="15" column="13" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/App.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/reducers/index.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" />
-      <jump line="45" column="14" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/newsActions.js" />
-      <jump line="17" column="12" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/actionTypes.js" />
-      <jump line="2" column="14" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Input.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Input.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AnotherComponent.js" />
-      <jump line="25" column="52" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/SchedulerContainer.js" />
-      <jump line="1" column="12" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" />
-      <jump line="30" column="29" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/components/containers/StudentsContainer.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/edu-repos/examples/redux-containers/src/actions/attendanceRecordActions.js" />
-      <jump line="109" column="25" filename="$USER_HOME$/git/edu-repos/examples/react-form-demo/src/components/FormExample.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="315" column="0" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="12" column="46" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ReusableComponents/MonolithicComponent.js" />
       <jump line="18" column="6" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ReusableComponents/MonolithicComponent.js" />
@@ -666,13 +618,40 @@
       <jump line="14" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
       <jump line="13" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
       <jump line="15" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
+      <jump line="151" column="112" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="156" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="160" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="165" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="167" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="171" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="182" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="184" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="188" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="190" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="198" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="200" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="203" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="205" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="211" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="217" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="219" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="222" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="226" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="228" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="14" column="9" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/General.js" />
+      <jump line="9" column="8" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Todo.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Weather.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Weather.js" />
+      <jump line="3" column="11" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Radio.js" />
+      <jump line="213" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="0" column="7" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Radio.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9yIGV4YW1wbGU6IGBteUFycmF5OiAocHJvcHMsIG5hbWUsIGNvbXBvbmVudCkgPT4gKEFycmF5LmlzQXJyYXkocHJvcHNbbmFtZV0pICYmIHByb3BzW25hbWVdLmxlbmd0aCkgPyBudWxsIDogbmV3IEVycm9yKCBgYCR7Y29tcG9uZW50fS4ke25hbWV9OiBleHBlY3Rpbmcgbm9uLWVtcHR5IGFycmF5YGAgKSxg</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yIGV4YW1wbGU6IGBteUFycmF5OiAocHJvcHMsIG5hbWUsIGNvbXBvbmVudCkgPT4gKEFycmF5LmlzQXJyYXkocHJvcHNbbmFtZV0pICYmIHByb3BzW25hbWVdLmxlbmd0aCkgPyBudWxsIDogbmV3IEVycm9yKCBgYCR7Y29tcG9uZW50fS4ke25hbWV9OiBleHBlY3Rpbmcgbm9uLWVtcHR5IGFycmF5YGAgKSxg</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2348,61 +2327,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Links</text>
+        <text>checkbox</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTXlVc2VyKCJNaWNreSIsIk1vdXNlIiksCg==</text>
+        <text encoding="base64">ICAgICAgPFJhZGlvIG5hbWU9eyJnZW5lcmFsUlNTUlNTIn0vPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFJhZGlvIG5hbWU9eyJnZW5lcmFsUlNTUlNTIn0vPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Ym9yZGVyLXJhZGl1czogNTAlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnYXBwJykK</text>
+        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiA1MCU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVuZGVyKCgK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVuZGVyIH0gZnJvbSAncmVhY3QtZG9tJzsK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzTmFtZT17IklucHV0In0+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBpZD17aWR9IG5hbWU9e2lkfS8+CiAgICAgICAgPHNwYW4+PGkgY2xhc3NOYW1lPSJmYSBmYS1jaGVjayIgYXJpYS1oaWRkZW49InRydWUiLz48L3NwYW4+e2xhYmVsVGV4dH0KICAgICAgPC9sYWJlbD4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnYXBwJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzTmFtZT17IklucHV0In0+CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBpZD17aWR9IG5hbWU9e2lkfS8+CiAgICAgICAgPHNwYW4+PGkgY2xhc3NOYW1lPSJmYSBmYS1jaGVjayIgYXJpYS1oaWRkZW49InRydWUiLz48L3NwYW4+e2xhYmVsVGV4dH0KICAgICAgPC9sYWJlbD4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICBpZDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/Links/Clock/g</text>
+        <text>%s/checkbox/radio/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Links</last-search>
+      <last-search>checkbox</last-search>
       <last-offset />
-      <last-pattern>Links</last-pattern>
-      <last-replace>Clock</last-replace>
-      <last-substitute>Links</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>checkbox</last-pattern>
+      <last-replace>radio</last-replace>
+      <last-substitute>checkbox</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cD4=</entry>
-        <entry>textarea</entry>
-        <entry>Hide</entry>
-        <entry>radio</entry>
-        <entry>todo</entry>
-        <entry>todoListVisible</entry>
-        <entry>height</entry>
-        <entry>weather</entry>
         <entry>Light</entry>
         <entry>Li</entry>
         <entry>L</entry>
@@ -2415,13 +2386,16 @@
         <entry>About</entry>
         <entry>links</entry>
         <entry>Links</entry>
+        <entry encoding="base64">PGk=</entry>
+        <entry>Notepad</entry>
+        <entry>topVisited</entry>
+        <entry>todoList</entry>
+        <entry>To</entry>
+        <entry>Checkbox</entry>
+        <entry>radio</entry>
+        <entry>checkbox</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0hpZGUvVmlzaWJsZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL3RvZG8vd2VhdGhlci9n</entry>
-        <entry encoding="base64">JzwsJz5zL3RvZG9MaXN0VmlzaWJsZS96ZW5IaWRlL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0FNUE0vRGF0ZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL0RhdGUvTG9jYXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL19IaWRlL01pZGRsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3plbkhpZGUvY2xvY2tGb250Qm9sZC9n</entry>
         <entry>s/Menu/MenuItem/g</entry>
@@ -2437,6 +2411,11 @@
         <entry>s/links/weather/g</entry>
         <entry>s/links/clock/g</entry>
         <entry>s/Links/Clock/g</entry>
+        <entry encoding="base64">JzwsJz5zL05vdGVwYWQvU2VhcmNoL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3RvcFZpc2l0ZWQvdG9kb0xpc3QvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3RvZG9MaXN0L1dlYXRoZXIvZw==</entry>
+        <entry>%s/Checkbox/Radio/g</entry>
+        <entry>%s/checkbox/radio/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
