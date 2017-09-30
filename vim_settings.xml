@@ -96,11 +96,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" timestamp="1506780224482">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" timestamp="1506781915481">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.js" timestamp="1506775564001">
         <mark key="[" line="12" column="0" />
@@ -168,8 +168,10 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/store/defaultState.js" timestamp="1506776858226">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/store/defaultState.js" timestamp="1506782651362">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/CheckboxUncontrolled.js" timestamp="1506780487920">
         <mark key="'" line="25" column="0" />
@@ -254,9 +256,6 @@
         <mark key="]" line="1" column="29" />
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/HOCs/connect.js" timestamp="1506687663202">
-        <mark key="[" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/HoverArrow.js" timestamp="1505908464993">
         <mark key="[" line="24" column="6" />
@@ -495,6 +494,7 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/note.js" timestamp="1506782560924" />
       <file name="$USER_HOME$/git/edu-repos/examples/react-form-demo/src/components/FormExample.js" timestamp="1506121096908">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -535,9 +535,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/Filter.js" timestamp="1506687957317">
-        <mark key="[" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/PropertyValidation/InstanceExampleContainer.js" timestamp="1506557810527">
         <mark key="[" line="10" column="6" />
@@ -751,11 +748,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/CheckboxUncontrolled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0gewp9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>note</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2434,34 +2431,34 @@
         <text>Checkbox</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENoZWNrYm94Q29udHJvbGxlZCBmcm9tICcuLi9JbnB1dHMvQ2hlY2tib3hDb250cm9sbGVkJzsK</text>
+        <text encoding="base64">ICBub3RlOiB7CiAgICBub3RlSWNvbklzVmlzaWJsZTogdHJ1ZSwKICAgIGFjdGl2ZU9uT3BlbjogZmFsc2UsCiAgICBub3RlSXNWaXNpYmxlOiBmYWxzZSwKICAgIGNvbnRlbnQ6ICIiLAogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3JlZn0K</text>
+        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0gewp9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge29wdGlvbnNGb3JtU2VjdGlvbnMubWFwKHNlY3Rpb24gPT4gewogICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8T3B0aW9uc0Zvcm1TZWN0aW9uCiAgICAgICAgICAgICAgICAgIGtleT17c2VjdGlvbi5pZH0KICAgICAgICAgICAgICAgICAgaXNPcGVuPXtvcGVuRm9ybVNlY3Rpb25JZCA9PT0gc2VjdGlvbi5pZH0KICAgICAgICAgICAgICAgICAgY29udGVudD17c2VjdGlvbi5jb250ZW50fS8+CiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSl9CiAgICAgICAgICA8L09wdGlvbnNGb3JtPgo=</text>
+        <text encoding="base64">ICAgIG5vdGVJc1Zpc2libGU6IGZhbHNlLAogICAgY29udGVudDogIiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWY9e2lucHV0ID0+IHRoaXMuX2dlbmVyYWxOZXdzSGlkZSA9IGlucHV0fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL3JlZiBmb3IgdW5jb250cm9sbGVkIGNvbXBvbmVudHMK</text>
+        <text encoding="base64">ICAgIHRoZW1lOiAnZGVmYXVsdERhcmsnLAogICAgaGlkZUFsbDogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL29uQ2hhbmdlIGZvciBjb250cm9sbGVkIGNvbXBvbmVudHMK</text>
+        <text encoding="base64">ICBub3RlSWNvbklzVmlzaWJsZTogdHJ1ZSwKICBub3RlSXNWaXNpYmxlOiBmYWxzZSwKICBjb250ZW50OiAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZTogUHJvcFR5cGVzLmZ1bmMsCg==</text>
+        <text encoding="base64">ICAgIHRoZW1lOiAnZGVmYXVsdERhcmsnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVtYWlsID0gdGhpcy5fZW1haWxJbnB1dC52YWx1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL3JlZiBmb3IgdW5jb250cm9sbGVkIGNvbXBvbmVudHMK</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiByZWY9e2lucCA9PiB0aGlzLl9lbWFpbElucHV0ID0gaW5wfSAvPgogICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiByZWY9e2lucCA9PiB0aGlzLl9hZ3JlZUNoZWNrYm94ID0gaW5wfSAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL29uQ2hhbmdlIGZvciBjb250cm9sbGVkIGNvbXBvbmVudHMK</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiByZWY9e2lucCA9PiB0aGlzLl9lbWFpbElucHV0ID0gaW5wfSAvPgogICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiByZWY9e2lucCA9PiB0aGlzLl9hZ3JlZUNoZWNrYm94ID0gaW5wfSAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Checkbox/CheckboxUncontrolled/g</text>
