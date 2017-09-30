@@ -117,11 +117,11 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/HOCs/store.js" timestamp="1506772082000">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="10" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/HOCs/store.js" timestamp="1506773857054">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/LinkCollection.js" timestamp="1506080145744">
         <mark key="[" line="4" column="0" />
@@ -135,6 +135,7 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="26" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/ComposedFilter.js" timestamp="1506774143572" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.css" timestamp="1506642143453">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="24" />
@@ -400,6 +401,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/ComposedContainer.js" timestamp="1506774121983">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/InlineEventButton.js" timestamp="1505774391051">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="53" />
@@ -418,11 +425,16 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/App.js" timestamp="1506772789102">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="58" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/App.js" timestamp="1506772910213">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1506774181243">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1506640724063">
         <mark key="[" line="25" column="0" />
@@ -452,6 +464,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="^" line="48" column="47" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/ComposedMyList.js" timestamp="1506773989917">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Number.css" timestamp="1506684823660">
         <mark key="[" line="0" column="11" />
@@ -697,11 +714,11 @@
       <jump line="3" column="5" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Click me</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Click me</text>
+        <text>[&quot;A&quot;,&quot;B&quot;]</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2380,34 +2397,34 @@
         <text>Radio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE15SW5wdXQgZnJvbSAnLi9leGFtcGxlcy9FeHRlbmRpbmcvRmlsdGVyJzsK</text>
+        <text encoding="base64">aW1wb3J0IE15TGlzdCBmcm9tICcuL0NvbXBvc2VkTXlMaXN0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yICgpIHsKICAgICAgc3VwZXIoKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0geyBkYXRhOiBzdG9yZSB9Owo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlRGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhbmQpOwo=</text>
+        <text encoding="base64">TXlMaXN0LnByb3BUeXBlcyA9IHsKICBpdGVtczogUHJvcFR5cGVzLmFycmF5LmlzUmVxdWlyZWQKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICcuL0hPQ3Mvc3RvcmUnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygicmVkdWNlciIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJSZW5kZXJpbmcgYXBwIik7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZ2V0U3RhdGUoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TXlMaXN0IGl0ZW1zPXtbImhlbGxvIiwiVGhlcmUiXX0vPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Radio/Number/g</text>
