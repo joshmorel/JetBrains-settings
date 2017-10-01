@@ -9,15 +9,15 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506895343675">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506896846955">
         <mark key="a" line="23" column="39" />
-        <mark key="'" line="107" column="6" />
-        <mark key="[" line="25" column="6" />
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="38" column="0" />
         <mark key="m" line="71" column="20" />
-        <mark key="]" line="26" column="63" />
+        <mark key="]" line="38" column="0" />
         <mark key="n" line="71" column="2" />
-        <mark key="." line="26" column="63" />
-        <mark key="^" line="26" column="63" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="52" column="10" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/InheritingComponentJsx.js" timestamp="1506686849172">
         <mark key="[" line="0" column="0" />
@@ -968,7 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="14" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="362" column="25" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="364" column="14" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="405" column="41" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
@@ -1068,13 +1067,14 @@
       <jump line="55" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
       <jump line="12" column="1" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" />
       <jump line="42" column="8" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/QuickLinksWidget/QuickLinksWidget.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2lzQWN0aXZlOiBmYWxzZX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWN0aXZlIHRvIGluYWN0aXZlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2753,34 +2753,34 @@
         <text>mapDisp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2lzQWN0aXZlOiBmYWxzZX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKAogICAgICAgICAge2hlaWdodDogIjAifSwKICAgICAgICAgICgpID0+IHNldFRpbWVvdXQoKCkgPT4gdGhpcy5zZXRTdGF0ZSh7ZGlzcGxheTogIm5vbmUifSksIHRyYW5zaXRpb25UaW1lU2Vjb25kcyAqIDEwMDApCiAgICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoYW5kbGVPbkNsaWNrT3V0c2lkZVBhbmVsKCkgewogICAgdGhpcy5zZXRTdGF0ZSh7aXNBY3RpdmU6IGZhbHNlfSk7CiAgfQoKICBoYW5kbGVPbkljb25DbGljaygpIHsKICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+IHsKICAgICAgcmV0dXJuIHtpc0FjdGl2ZTogIXByZXZTdGF0ZS5pc0FjdGl2ZX07CiAgICB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWN0aXZlIHRvIGluYWN0aXZlJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy9pbml0aWFsIGRpc3BsYXkgaXMgIm5vbmUiIHVubGVzcyBhY3RpdmUgb24gb3Blbgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5hY3RpdmUgdG8gYWN0aXZlJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHdpbGwgcmVjZWl2ZSBpc0FjdGl2ZSBvbiBvcGVuIGZyb20gc3RvcmUgdmlhIG9wdGlvbnMKICAgIC8vIGFmdGVyIHRoYXQgYWN0aXZlIHN0YXRlIGlzIGhhbmRsZWQgbG9jYWxseSBiYXNlZCBjbGlja2luZyBvdXRzaWRlIGFuZCBvbiBpY29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyB3YW50IHBhbmVsIGRpc3BsYXkgdG8gYmUgIm5vbmUiIHdoZW4gaW5hY3RpdmUgd2gKICAvLyBhcyBwYXJlbnQgdXNlcyBmbGV4IHRvIHJlbmRlciBpY29uIGFuZCBwYW5lbCB0b2dldGhlcgogIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICgpID0+IHRoaXMuc2V0U3RhdGUoe2hlaWdodDogaGVpZ2h0V2hlbkFjdGl2ZX0pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyB3ZSBuZWVkIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLwogIC8vICAgfQogIC8vIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAvLyB0b2dnbGVEaXNwbGF5Tm9uZShuZXdEaXNwbGF5KSB7CiAgLy8gICB0aGlzLnNldFN0YXRlKHtkaXNwbGF5OiBuZXdEaXNwbGF5fSk7CiAgLy8gfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBmb3IgdGhpcyB0byB3b3JrIHByb3Blcmx5IGFuZCBhaHZlIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGVEaXNwbGF5Tm9uZSgiZmxleCIpOwo=</text>
+        <text encoding="base64">ICAgU2luY2UgcGFyZW50IHVzZXMgZmxleCBkaXNwbGF5IHRvIHJlbmRlciBpY29uL3BhbmVsIHRvZ2V0aGVyCiAgIEZsZXggcmVuZGVyIGljb24gYW5kIHBhbmVsIHRvZ2V0aGVyLiBEaXNwbGF5IHNob3VsZCB0b2dnbGUgYmV0d2VlbiBub25lL290aGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Body/Header/g</text>
