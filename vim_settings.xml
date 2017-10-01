@@ -110,12 +110,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1506822188328">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="64" column="42" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1506827234302">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Links.js" timestamp="1506562187252">
         <mark key="[" line="12" column="0" />
@@ -954,8 +953,8 @@
       <jump line="86" column="23" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>createClockStyle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KiBbIF0gUmVhbC10aW1lIHVwZGF0aW5nIGlzIHdvcmtpbmcgd2hlcmUgbmVlZGVkIChjbG9jayBwb3NpdGlvbikK</text>
       </register>
       <register name="-" type="4">
         <text>createClockStyle</text>
@@ -2640,31 +2639,31 @@
         <text encoding="base64">ICAgICAgICA8bGFiZWw+QU0vUE06IDwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZm9ybWF0RnJvbVByb3BzID0gKHNob3dEYXRlLHNob3dUaW1lKSA9PiB7Cgp9Cgo=</text>
+        <text encoding="base64">KiBbIF0gUmVhbC10aW1lIHVwZGF0aW5nIGlzIHdvcmtpbmcgd2hlcmUgbmVlZGVkIChjbG9jayBwb3NpdGlvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucmVuZGVyQSgpfQo=</text>
+        <text encoding="base64">Y29uc3QgZm9ybWF0RnJvbVByb3BzID0gKHNob3dEYXRlLHNob3dUaW1lKSA9PiB7Cgp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlckEoKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucmVuZGVyQSgpfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDEwZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlckEoKX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDEwZW07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLmRhdGUuZm9ybWF9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0JhY2tncm91bmQvQ2xvY2svZw==</text>
