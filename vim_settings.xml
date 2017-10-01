@@ -9,11 +9,12 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506859948512">
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="35" column="21" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506861043796">
+        <mark key="'" line="53" column="3" />
+        <mark key="[" line="77" column="5" />
+        <mark key="]" line="83" column="14" />
+        <mark key="." line="83" column="14" />
+        <mark key="^" line="83" column="14" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1506859253850" />
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/InheritingComponentJsx.js" timestamp="1506686849172">
@@ -22,11 +23,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1506819619477">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="44" column="46" />
-        <mark key="." line="44" column="46" />
-        <mark key="^" line="44" column="46" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1506861275394">
+        <mark key="[" line="48" column="52" />
+        <mark key="]" line="48" column="52" />
+        <mark key="." line="48" column="52" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/ContainerList.js" timestamp="1506264802694">
         <mark key="[" line="29" column="11" />
@@ -141,7 +142,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" timestamp="1506824516030">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" timestamp="1506861232979">
         <mark key="'" line="9" column="11" />
         <mark key="[" line="38" column="11" />
         <mark key="]" line="38" column="15" />
@@ -394,6 +395,7 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Widget.js" timestamp="1506860573919" />
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Mapping.js" timestamp="1505677929105">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="23" />
@@ -661,7 +663,7 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIcon.js" timestamp="1506786795932">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIcon.js" timestamp="1506860071137">
         <mark key="[" line="33" column="62" />
         <mark key="]" line="47" column="6" />
         <mark key="^" line="47" column="6" />
@@ -777,7 +779,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherWidget.js" timestamp="1506859556980" />
+      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherWidget.js" timestamp="1506860483805" />
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/README.md" timestamp="1505950644850">
         <mark key="[" line="5" column="107" />
         <mark key="]" line="5" column="18" />
@@ -847,8 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="35" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
-      <jump line="32" column="16" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="194" column="14" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="149" column="29" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="202" column="20" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
@@ -947,13 +947,15 @@
       <jump line="7" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/options.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Background.js" />
       <jump line="86" column="23" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
+      <jump line="42" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
+      <jump line="44" column="3" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>children</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2629,55 +2631,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>OnMouseLeave</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8bGFiZWw+QU0vUE06IDwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7eVBvc2l0aW9uPT09InRvcCIgPyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgU2xpZGluZ1dpZGdldDsKLy8gY29uc3QgRW5oYW5jZWRQb3BVcEJhc2UgPSBvbkNsaWNrT3V0c2lkZShQb3BVcEJhc2UpOwoKLy8gU2xpZGluZ1dpZGdldC5wcm9wVHlwZXMgPSB7Ci8vICAgeVBvc2l0aW9uOiBQcm9wVHlwZXMub25lT2YoWyd0b3AnLCAnYm90dG9tJ10pLmlzUmVxdWlyZWQsCi8vICAgeFBvc2l0aW9uOiBQcm9wVHlwZXMub25lT2YoWydsZWZ0JywgJ3JpZ2h0J10pLmlzUmVxdWlyZWQsCi8vICAgeU9mZnNldDogUHJvcFR5cGVzLm51bWJlciwgLy8gYWJzb2x1dGUgb2Zmc2V0IGluIGVtIHVuaXRzIGZyb20gdG9wIG9yIGJvdHRvbQovLyAgIHhPZmZzZXQ6IFByb3BUeXBlcy5udW1iZXIgLy8gYWJzb2x1dGUgb2Zmc2V0IGluIGVtIHVuaXRzIGZyb20gbGVmdCBvciByaWdodAovLyB9OwovLwovLyBXaWRnZXQuZGVmYXVsdFByb3BzID0gewovLyAgIHlPZmZzZXQ6IDIsCi8vICAgeE9mZnNldDogMgovLyB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB5UG9zaXRpb246IFByb3BUeXBlcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0KOwoKV2lkZ2V0LnByb3BUeXBlcyA9IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybigKICAgICAgPGRpdiBjbGFzc05hbWU9IldpZGdldCIgc3R5bGU9e3N0eWxlc30+CiAgICAgICAge2NoaWxkcmVufQogICAgICA8L2Rpdj4sCiAgICApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fTsgIGNvbnN0IHN0eWxlcyA9IHsKICB0b3A6IHlQb3NpdGlvbiA9PT0gJ3RvcCcgPyBgJHt5T2Zmc2V0fWVtYCA6IHVuZGVmaW5lZCwKICBib3R0b206IHlQb3NpdGlvbiA9PT0gJ2JvdHRvbScgPyBgJHt5T2Zmc2V0fWVtYCA6IHVuZGVmaW5lZCwKICBsZWZ0OiB4UG9zaXRpb24gPT09ICdsZWZ0JyA/IGAke3hPZmZzZXR9ZW1gIDogdW5kZWZpbmVkLAogIHJpZ2h0OiB4UG9zaXRpb24gPT09ICdyaWdodCcgPyBgJHt4T2Zmc2V0fWVtYCA6IHVuZGVmaW5lZCwKICBhbGlnbkl0ZW1zOiB4UG9zaXRpb24gPT09ICdsZWZ0JyA/ICdmbGV4LXN0YXJ0JyA6ICdmbGV4LWVuZCcKfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b2dnbGVBY3RpdmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZU9uQ2xpY2tPdXRzaWRlID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBoYW5kbGVPbkNsaWNrT3V0c2lkZSwKICAgICAgICAgICAgICAgICByZWxhdGVkSWNvbkNsYXNzTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0JhY2tncm91bmQvQ2xvY2svZw==</text>
+        <text encoding="base64">JzwsJz5zL09uTW91c2VMZWF2ZS9PbkJ1dHRvbkNsaWNrL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>OnMouseLeave</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
-      <last-replace>Clock</last-replace>
-      <last-substitute>Background</last-substitute>
+      <last-pattern>OnMouseLeave</last-pattern>
+      <last-replace>OnButtonClick</last-replace>
+      <last-substitute>OnMouseLeave</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
-        <entry>option</entry>
         <entry>Dark</entry>
         <entry>text</entry>
         <entry>Separator</entry>
@@ -2696,10 +2696,10 @@
         <entry>Weather</entry>
         <entry>Background</entry>
         <entry>console</entry>
+        <entry>OnMouseEnter</entry>
+        <entry>OnMouseLeave</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Radio/Select/g</entry>
-        <entry>s/Dark/Dark + Blue/g</entry>
         <entry>%s/Checkbox/Text/g</entry>
         <entry>s/Separator/Text/g</entry>
         <entry encoding="base64">JzwsJz5zL1F1b3Rlcy9SU1MvZw==</entry>
@@ -2718,6 +2718,8 @@
         <entry>s/weather/options/g</entry>
         <entry>%s/Weather/Background/g</entry>
         <entry encoding="base64">JzwsJz5zL0JhY2tncm91bmQvQ2xvY2svZw==</entry>
+        <entry>s/OnMouseEnter/OnClickOutsidePanel/g</entry>
+        <entry encoding="base64">JzwsJz5zL09uTW91c2VMZWF2ZS9PbkJ1dHRvbkNsaWNrL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
