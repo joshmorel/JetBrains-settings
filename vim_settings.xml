@@ -9,13 +9,13 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506869769328">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506871675530">
         <mark key="'" line="53" column="3" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="41" />
+        <mark key="[" line="120" column="33" />
+        <mark key="]" line="120" column="25" />
         <mark key="m" line="60" column="20" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="113" column="11" />
+        <mark key="." line="120" column="25" />
+        <mark key="^" line="120" column="25" />
         <mark key="n" line="60" column="2" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/PopUp.js" timestamp="1506867401582" />
@@ -25,10 +25,10 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1506869379601">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1506869972672">
         <mark key="'" line="12" column="4" />
-        <mark key="[" line="118" column="35" />
-        <mark key="]" line="119" column="33" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="." line="119" column="33" />
         <mark key="^" line="119" column="33" />
       </file>
@@ -168,11 +168,11 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Button.js" timestamp="1506867601131">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="60" />
-        <mark key="." line="7" column="60" />
-        <mark key="^" line="7" column="60" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Button.js" timestamp="1506871506557">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="62" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/UserListContainer.js" timestamp="1506290334345">
         <mark key="[" line="1" column="35" />
@@ -210,11 +210,11 @@
         <mark key="." line="8" column="64" />
         <mark key="^" line="8" column="64" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteWidget.js" timestamp="1506824711436">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="31" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteWidget.js" timestamp="1506871761753">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/CheckboxUncontrolled.js" timestamp="1506780487920">
         <mark key="'" line="25" column="0" />
@@ -307,11 +307,11 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/HoverArrow.js" timestamp="1506868647132">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/HoverArrow.js" timestamp="1506871616299">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/actionTypes.js" timestamp="1506865361891">
         <mark key="'" line="9" column="0" />
@@ -438,6 +438,7 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteIcon.css" timestamp="1506870245660" />
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/Button.js" timestamp="1505823727872">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="13" />
@@ -462,11 +463,11 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Button.css" timestamp="1506867258663">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Button.css" timestamp="1506871731257">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/EventPoolingGotcha.js" timestamp="1505775158118">
         <mark key="[" line="34" column="3" />
@@ -511,11 +512,11 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Icon.js" timestamp="1506803544717">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="20" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Icon.js" timestamp="1506870132539">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/MyUser.js" timestamp="1506285532896">
         <mark key="[" line="31" column="1" />
@@ -589,12 +590,12 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteModal.js" timestamp="1506802122138">
-        <mark key="'" line="11" column="26" />
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="37" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="28" column="37" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteModal.js" timestamp="1506871752522">
+        <mark key="'" line="10" column="26" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1506774181243">
         <mark key="[" line="7" column="17" />
@@ -716,7 +717,7 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteIcon.js" timestamp="1506868927668">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteIcon.js" timestamp="1506870452674">
         <mark key="'" line="4" column="5" />
         <mark key="[" line="41" column="15" />
         <mark key="]" line="41" column="37" />
@@ -920,10 +921,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlckFycm93T25JY29uSG92ZXIoKX0K</text>
+        <text encoding="base64">aW1wb3J0ICcuL05vdGVNb2RhbC5jc3MnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>weather-arrow</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2602,34 +2603,34 @@
         <text>Widget</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFdpZGdldCBmcm9tICcuLi9jb21tb24vV2lkZ2V0JzsK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlckFycm93T25JY29uSG92ZXIoKX0K</text>
+        <text encoding="base64">aW1wb3J0ICcuL05vdGVNb2RhbC5jc3MnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJBcnJvd09uSWNvbkhvdmVyKCl9Cg==</text>
+        <text encoding="base64">ICByZW5kZXJJY29uQnV0dG9uKCkgewogICAgLy9yZW5kZXIgaWNvbiBidXR0b24gZGVwZW5kaW5nIG9uCiAgICBjb25zdCB7c2hvd0Fycm93T25JY29uSG92ZXIsIHlQb3NpdGlvbn0gPSB0aGlzLnByb3BzOwoKICAgIGNvbnN0IEJ1dHRvbgoKICAgIGlmKCFzaG93QXJyb3dPbkljb25Ib3ZlcikgewogICAgICByZXR1cm4KICAgIH0KCiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uTW91c2VFbnRlcj17dGhpcy5oYW5kbGVPbkljb25Nb3VzZUVudGVyfQogICAgICAgICAgb25Nb3VzZUxlYXZlPXt0aGlzLmhhbmRsZU9uSWNvbk1vdXNlTGVhdmV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uTW91c2VFbnRlcj17dGhpcy5oYW5kbGVPbkljb25Nb3VzZUVudGVyfQogICAgICAgICAgb25Nb3VzZUxlYXZlPXt0aGlzLmhhbmRsZU9uSWNvbk1vdXNlTGVhdmV9Cg==</text>
+        <text encoding="base64">ICAgIC8vIHVzZWQgZm9yIGJvdGggYXJyb3cgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIHVzZWQgaW4gYm90aCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgIC8vIHJlLXVzZWQgd2l0aGluIGJ1dHRvbiBkaXYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5zaG93QXJyb3dPbkljb25Ib3ZlciA/IDxIb3ZlckFycm93IGhpZGRlbj17fSBkaXJlY3Rpb249e30vPiA6IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgLy93aWxsIHJlbmRlciBpbiByZXZlcnNlIG9yZGVyIG9mIGJlbG93IGlmIG9uIGJvdHRvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYXJyb3dpc0hpZGRlbiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7ZmxleERpcmVjdGlvbjogeVBvc2l0aW9uID09PSAndG9wJyA/ICdjb2x1bW4nIDogJ2NvbHVtbi1yZXZlcnNlJ319Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LndlYXRoZXItYXJyb3cgewogIHdpZHRoOiAxMDAlOwogIHRleHQtYWxpZ246IGNlbnRlcjsKfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Widget/Button/g</text>
