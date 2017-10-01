@@ -165,12 +165,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/LinkCollection.js" timestamp="1506080145744">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="6" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" timestamp="1506772389993">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="26" column="26" />
@@ -776,12 +770,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/WeatherWidget.js" timestamp="1505658491935">
-        <mark key="[" line="99" column="8" />
-        <mark key="]" line="99" column="29" />
-        <mark key="." line="99" column="29" />
-        <mark key="^" line="99" column="29" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/README.md" timestamp="1505950644850">
         <mark key="[" line="5" column="107" />
         <mark key="]" line="5" column="18" />
@@ -953,11 +941,11 @@
       <jump line="86" column="23" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KiBbIF0gUmVhbC10aW1lIHVwZGF0aW5nIGlzIHdvcmtpbmcgd2hlcmUgbmVlZGVkIChjbG9jayBwb3NpdGlvbikK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>createClockStyle</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
