@@ -9,15 +9,15 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506886527440">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506889473470">
         <mark key="a" line="23" column="39" />
         <mark key="'" line="107" column="6" />
-        <mark key="[" line="26" column="0" />
+        <mark key="[" line="34" column="54" />
         <mark key="m" line="71" column="20" />
-        <mark key="]" line="26" column="0" />
+        <mark key="]" line="34" column="57" />
         <mark key="n" line="71" column="2" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="127" column="13" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/InheritingComponentJsx.js" timestamp="1506686849172">
         <mark key="[" line="0" column="0" />
@@ -1070,11 +1070,11 @@
       <jump line="42" column="8" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/QuickLinksWidget/QuickLinksWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgeE9mZnNldD17Mn0K</text>
+      <register name="&quot;" type="4">
+        <text>none</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>none</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2753,34 +2753,34 @@
         <text>mapDisp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFdpZGdldEJvZHkgZnJvbSAnLi4vY29tbW9uL1dpZGdldEJvZHknOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2V0VGltZW91dCgoKSA9PiB0aGlzLnRvZ2dsZURpc3BsYXlOb25lKCJub25lIiksdGhpcy5wcm9wcy50cmFuc2l0aW9uVGltZVNlY29uZHMqMTAwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgeE9mZnNldD17Mn0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGVEaXNwbGF5Tm9uZSgiZmxleCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0lOQUNUSVZFJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7Y29udGVudH0gPSBsaW5rczsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFdpZGdldEhlYWRlciBmcm9tICcuLi9jb21tb24vV2lkZ2V0SGVhZGVyJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdJTkFDVElWRScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGVEaXNwbGF5Tm9uZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbWFwRGlzcGF0Y2hUb1Byb3BzKGRpc3BhdGNoKSB7CiAgcmV0dXJuIHsKICAgIG9uQ29udGVudENoYW5nZTogY29udGVudCA9PiB7CiAgICAgIGRpc3BhdGNoKHVwZGF0ZU5vdGVDb250ZW50KGNvbnRlbnQpKTsKICAgIH0sCiAgfTsKfQo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogdGhpcy5zdGF0ZS5kaXNwbGF5LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNvbnRlbnRDaGFuZ2U9e29uQ29udGVudENoYW5nZX0K</text>
+        <text encoding="base64">ICAgIHRoaXMudG9nZ2xlRGlzcGxheU5lKGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50PXtjb250ZW50fQo=</text>
+        <text encoding="base64">ICAgICAgeE9mZnNldD17Mn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2lkZ2V0SGVhZGVyPXs8V2lkZ2V0SGVhZGVyIGhlYWRlcj0iTm90ZSBUYWtlciIvPn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Body/Header/g</text>
