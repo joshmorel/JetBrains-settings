@@ -706,6 +706,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" timestamp="1506986296429">
+        <mark key="'" line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.css" timestamp="1506979053873">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1033,13 +1036,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
       <jump line="12" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
       <jump line="14" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
       <jump line="13" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
       <jump line="15" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/index.js" />
-      <jump line="151" column="112" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="156" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="160" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="165" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
@@ -1133,6 +1133,9 @@
       <jump line="4" column="1" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/actionTypes.js" />
       <jump line="8" column="8" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/utils.js" />
       <jump line="7" column="27" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/index.js" />
+      <jump line="271" column="13" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="151" column="73" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
+      <jump line="6" column="28" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2815,7 +2818,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcHRpb25zXD4=</text>
+        <text>rss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHt1cGRhdGVOb3RlQ29udGVudH0gZnJvbSAnLi4vLi4vYWN0aW9ucy9ub3RlQWN0aW9ucyc7Cg==</text>
@@ -2852,9 +2855,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
+      <last-search>rss</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
+      <last-pattern>rss</last-pattern>
       <last-replace>_REMOVE</last-replace>
       <last-substitute>_ADD</last-substitute>
       <last-dir>1</last-dir>
@@ -2862,12 +2865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon</entry>
-        <entry>maxWidth</entry>
-        <entry>FormSections</entry>
-        <entry>Body</entry>
-        <entry>mapDisp</entry>
-        <entry>App</entry>
         <entry>enzy</entry>
         <entry>babel-jest</entry>
         <entry>enzyme</entry>
@@ -2882,6 +2879,12 @@
         <entry>Submit</entry>
         <entry>_ADD</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry>googl</entry>
+        <entry>favi</entry>
+        <entry>favic</entry>
+        <entry>news</entry>
+        <entry>new</entry>
+        <entry>rss</entry>
       </history-search>
       <history-cmd>
         <entry>s/weather/options/g</entry>
