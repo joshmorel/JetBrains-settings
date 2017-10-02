@@ -195,11 +195,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" timestamp="1506772389993">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="26" column="26" />
-        <mark key="^" line="26" column="26" />
-        <mark key="." line="26" column="26" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" timestamp="1506947907901">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/WidgetHeader.js" timestamp="1506878893542">
         <mark key="'" line="3" column="19" />
@@ -298,6 +298,12 @@
         <mark key="]" line="3" column="81" />
         <mark key="." line="3" column="81" />
         <mark key="^" line="3" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Routing/BasicRouteDefinition.js" timestamp="1506947943318">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/react-form-demo/src/App.js" timestamp="1506120519913">
         <mark key="[" line="0" column="41" />
@@ -1072,10 +1078,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>MyComponent</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>MyComponent</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2757,31 +2763,31 @@
         <text encoding="base64">aW1wb3J0IG9uQ2xpY2tPdXRzaWRlIGZyb20gJ3JlYWN0LW9uY2xpY2tvdXRzaWRlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAtMTsK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1yb3V0ZXIiOiAiXjQuMi4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICB6LWluZGV4OiAtMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgID0+IHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAoe2lzT3BlbiwgY2hpbGRyZW59KSA9PiB7CiAgY29uc3Qgc3R5bGUgPSB7CiAgICBkaXNwbGF5OiBpc09wZW4gPyAnYmxvY2snIDogJ25vbmUnLAogIH07Cg==</text>
+        <text encoding="base64">ICAgID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAoe2lzT3BlbiwgY2hpbGRyZW59KSA9PiB7CiAgY29uc3Qgc3R5bGUgPSB7CiAgICBkaXNwbGF5OiBpc09wZW4gPyAnYmxvY2snIDogJ25vbmUnLAogIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Body/Header/g</text>
