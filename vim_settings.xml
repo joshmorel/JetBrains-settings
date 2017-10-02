@@ -9,16 +9,6 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506898042588">
-        <mark key="a" line="23" column="39" />
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="m" line="71" column="20" />
-        <mark key="]" line="2" column="50" />
-        <mark key="n" line="71" column="2" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="52" column="10" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/InheritingComponentJsx.js" timestamp="1506686849172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -146,6 +136,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="30" column="1" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Testing/Link.js" timestamp="1506955839819">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" timestamp="1506883970333">
         <mark key="'" line="6" column="11" />
         <mark key="[" line="7" column="0" />
@@ -195,12 +190,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" timestamp="1506952049574">
-        <mark key="'" line="83" column="49" />
-        <mark key="[" line="73" column="37" />
-        <mark key="]" line="74" column="37" />
-        <mark key="^" line="74" column="37" />
-        <mark key="." line="74" column="37" />
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" timestamp="1506956269785">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="68" column="37" />
+        <mark key="]" line="68" column="37" />
+        <mark key="^" line="47" column="27" />
+        <mark key="." line="68" column="37" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/WidgetHeader.js" timestamp="1506878893542">
         <mark key="'" line="3" column="19" />
@@ -996,6 +991,9 @@
         <mark key="^" line="58" column="25" />
         <mark key="." line="58" column="25" />
       </file>
+      <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Testing/Link.test.js" timestamp="1506955873853">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/WidgetHeader.css" timestamp="1506878913687">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1003,8 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="32" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
-      <jump line="134" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="4" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="142" column="3" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="150" column="39" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
@@ -1103,13 +1099,15 @@
       <jump line="2" column="18" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Routing/About.test.js" />
       <jump line="9" column="27" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
       <jump line="78" column="49" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
+      <jump line="5" column="27" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
+      <jump line="10" column="29" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2785,46 +2783,46 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>react-ad</text>
+        <text>babel-esl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IE15Q29tcG9uZW50IGZyb20gJy4vSGVsbG9Sb3V0ZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyBiaW5kIG1hbnVhbGx5IGJlY2F1c2UgUmVhY3QgY2xhc3MgY29tcG9uZW50cyBkb24ndCBhdXRvLWJpbmQKICAgIC8vIGh0dHA6Ly9mYWNlYm9vay5naXRodWIuaW8vcmVhY3QvYmxvZy8yMDE1LzAxLzI3L3JlYWN0LXYwLjEzLjAtYmV0YS0xLmh0bWwjYXV0b2JpbmRpbmcK</text>
+        <text encoding="base64">ICAgICAgIjxyb290RGlyPi9jb25maWcvamVzdC9qZXN0c2V0dXAuanMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gQ2hlY2tib3hXaXRoTGFiZWwuanMK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1lc2xpbnQiOiAiXjguMC4xIiwKICAgICJlbnp5bWUiOiAiXjMuMC4wIiwKICAgICJlbnp5bWUtdG8tanNvbiI6ICJeMy4wLjEiLAogICAgInN0YW5kYXJkIjogIl4xMC4wLjMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8QXBwLz4K</text>
+        <text encoding="base64">ICAgICJiYWJlbC1lc2xpbnQiOiAiNy4yLjMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1hZGRvbnMtdGVzdC11dGlscyI6ICJeMTUuNi4yIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">CiAgICAvLyBiaW5kIG1hbnVhbGx5IGJlY2F1c2UgUmVhY3QgY2xhc3MgY29tcG9uZW50cyBkb24ndCBhdXRvLWJpbmQKICAgIC8vIGh0dHA6Ly9mYWNlYm9vay5naXRodWIuaW8vcmVhY3QvYmxvZy8yMDE1LzAxLzI3L3JlYWN0LXYwLjEzLjAtYmV0YS0xLmh0bWwjYXV0b2JpbmRpbmcK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0SW5pdGlhbFN0YXRlIH0gZnJvbSAnLi9leGFtcGxlcy9FeHRlbmRpbmcvSE9Dcy9zdG9yZScK</text>
+        <text encoding="base64">Ly8gQ2hlY2tib3hXaXRoTGFiZWwuanMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9zZXQgaW5pdGlhbCBzdGF0ZQo=</text>
+        <text encoding="base64">ICA8QXBwLz4K</text>
       </register>
       <register name=":" type="4">
         <text>s/App/About/g</text>
       </register>
     </registers>
     <search>
-      <last-search>react-ad</last-search>
+      <last-search>babel-esl</last-search>
       <last-offset />
-      <last-pattern>react-ad</last-pattern>
+      <last-pattern>babel-esl</last-pattern>
       <last-replace>About</last-replace>
       <last-substitute>App</last-substitute>
       <last-dir>1</last-dir>
@@ -2832,8 +2830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OnMouseEnter</entry>
-        <entry>OnMouseLeave</entry>
         <entry>isActive</entry>
         <entry>button</entry>
         <entry>But</entry>
@@ -2852,6 +2848,8 @@
         <entry>babel-jest</entry>
         <entry>enzyme</entry>
         <entry>react-ad</entry>
+        <entry>babel</entry>
+        <entry>babel-esl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isVisible/isActive/g</entry>
