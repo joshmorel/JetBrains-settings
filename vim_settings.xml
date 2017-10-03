@@ -9,13 +9,13 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507059153961">
-        <mark key="[" line="48" column="34" />
-        <mark key="m" line="86" column="20" />
-        <mark key="]" line="53" column="38" />
-        <mark key="n" line="86" column="2" />
-        <mark key="^" line="53" column="48" />
-        <mark key="." line="53" column="38" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507061547599">
+        <mark key="[" line="81" column="61" />
+        <mark key="m" line="114" column="20" />
+        <mark key="]" line="82" column="84" />
+        <mark key="n" line="114" column="2" />
+        <mark key="." line="82" column="84" />
+        <mark key="^" line="82" column="84" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/InheritingComponentJsx.js" timestamp="1506686849172">
         <mark key="[" line="0" column="0" />
@@ -1164,11 +1164,11 @@
       <jump line="6" column="28" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zbGlkZXIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>Current</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2847,34 +2847,34 @@
         <text>rss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2xpZGluZ0Rpdik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zbGlkZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICJyZWQiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zbGlkZXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsiYmxlbG93In0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlN0YXJ0aW5nIHRvZ2dsZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2xpZGluZ0Rpdik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnNsaWRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHt0YXJnZXRTdGF0ZUFjdGl2ZX0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6ICJhdXRvIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Y2hpbGRyZW59Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudG9nZ2xlU2xpZGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/_ADD/_REMOVE/g</text>
