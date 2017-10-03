@@ -9,14 +9,6 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1506980386465">
-        <mark key="[" line="155" column="35" />
-        <mark key="m" line="32" column="20" />
-        <mark key="]" line="155" column="47" />
-        <mark key="n" line="32" column="2" />
-        <mark key="." line="155" column="47" />
-        <mark key="^" line="155" column="47" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/InheritingComponentJsx.js" timestamp="1506686849172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -355,12 +347,10 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" timestamp="1506987721995">
-        <mark key="'" line="105" column="19" />
-        <mark key="[" line="93" column="20" />
-        <mark key="]" line="93" column="106" />
-        <mark key="." line="93" column="106" />
-        <mark key="^" line="93" column="106" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" timestamp="1507032773462">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Background.js" timestamp="1506882034899">
         <mark key="'" line="0" column="0" />
@@ -464,6 +454,12 @@
         <mark key="]" line="68" column="4" />
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/Links.js" timestamp="1507032510666">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/actions/weatherActions.js" timestamp="1505676519866">
         <mark key="[" line="133" column="0" />
@@ -1149,10 +1145,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvZGQgaW5kZXggaXMgdXJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>REMOVE</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2831,34 +2827,34 @@
         <text>rss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXZlbiBpbmRleCBpcyB0aXRsZQo=</text>
+        <text encoding="base64">ICAgIDxmb3JtIHN0eWxlPXtzdHlsZX0+CiAgICAgIDxpbnB1dAogICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgdmFsdWU9e25ld0xpbmtUaXRsZX0KICAgICAgICBvbkNoYW5nZT17aGFuZGxlTmV3TGlua1RpdGxlQ2hhbmdlfQogICAgICAgIG9uS2V5UHJlc3M9e2hhbmRsZUZvcm1LZXlQcmVzc30KICAgICAgICBwbGFjZWhvbGRlcj0iVGl0bGUiCiAgICAgIC8+CiAgICAgIDxpbnB1dAogICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgdmFsdWU9e25ld0xpbmtVcmx9CiAgICAgICAgb25DaGFuZ2U9e2hhbmRsZU5ld0xpbmtVcmxDaGFuZ2V9CiAgICAgICAgb25LZXlQcmVzcz17aGFuZGxlRm9ybUtleVByZXNzfQogICAgICAgIHBsYWNlaG9sZGVyPSJXZWJzaXRlIChodHRwOi8vIHJlcXVpcmVkKSIKICAgICAgLz4KICAgIDwvZm9ybT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvZGQgaW5kZXggaXMgdXJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Y29uc3QgQWRkTGlua0Zvcm0gPSAoe2lzQWN0aXZlLCBoYW5kbGVOZXdMaW5rVGl0bGVDaGFuZ2UsIGhhbmRsZU5ld0xpbmtVcmxDaGFuZ2UsIG5ld0xpbmtUaXRsZSwgbmV3TGlua1VybCwgaGFuZGxlRm9ybUtleVByZXNzfSkgPT4gewogIGNvbnN0IHN0eWxlID0gewogICAgZGlzcGxheTogaXNBY3RpdmUgPyAnYmxvY2snIDogJ25vbmUnLAogIH07CgogIHJldHVybiAoCiAgICA8Zm9ybSBzdHlsZT17c3R5bGV9PgogICAgICA8aW5wdXQKICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgIHZhbHVlPXtuZXdMaW5rVGl0bGV9CiAgICAgICAgb25DaGFuZ2U9e2hhbmRsZU5ld0xpbmtUaXRsZUNoYW5nZX0KICAgICAgICBvbktleVByZXNzPXtoYW5kbGVGb3JtS2V5UHJlc3N9CiAgICAgICAgcGxhY2Vob2xkZXI9IlRpdGxlIgogICAgICAvPgogICAgICA8aW5wdXQKICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgIHZhbHVlPXtuZXdMaW5rVXJsfQogICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVOZXdMaW5rVXJsQ2hhbmdlfQogICAgICAgIG9uS2V5UHJlc3M9e2hhbmRsZUZvcm1LZXlQcmVzc30KICAgICAgICBwbGFjZWhvbGRlcj0iV2Vic2l0ZSAoaHR0cDovLyByZXF1aXJlZCkiCiAgICAgIC8+CiAgICA8L2Zvcm0+CiAgKTsKfTsKCkFkZExpbmtGb3JtLnByb3BUeXBlcyA9IHsKICBpc0FjdGl2ZTogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZCwKfTsKCmNvbnN0IExpbmtzQm9keSA9ICh7CiAgICAgICAgICAgICAgICAgICAgIGxpbmtzLAogICAgICAgICAgICAgICAgICAgICBmb3JtSXNBY3RpdmUsCiAgICAgICAgICAgICAgICAgICAgIHRvZ2dsZUZvcm1BY3RpdmUsCiAgICAgICAgICAgICAgICAgICAgIG5ld0xpbmtUaXRsZSwKICAgICAgICAgICAgICAgICAgICAgbmV3TGlua1VybCwKICAgICAgICAgICAgICAgICAgICAgaGFuZGxlTmV3TGlua1RpdGxlQ2hhbmdlLAogICAgICAgICAgICAgICAgICAgICBoYW5kbGVOZXdMaW5rVXJsQ2hhbmdlLAogICAgICAgICAgICAgICAgICAgICBoYW5kbGVGb3JtS2V5UHJlc3MsCiAgICAgICAgICAgICAgICAgICB9KSA9PiB7CiAgcmV0dXJuICgKICAgIDxXaWRnZXRCb2R5PgogICAgICA8TWVudT4KICAgICAgICB7Lyp0aGVzZSB3aWxsIGJlIGRpc2FsbG93ZWQgdW5sZXNzIHJ1bm5pbmcgYXMgYSBjaHJvbWUtYXBwIC0gZmluZSBmb3Igbm93Ki99CiAgICAgICAgPE1lbnVMaW5rIHVybD0iY2hyb206Ly9hcHBzIj4KICAgICAgICAgIDxNZW51SXRlbUljb24gZmFDbGFzcz0iZmEtdGgtbGFyZ2UiLz4KICAgICAgICAgIDxkaXY+QXBwbGljYXRpb25zPC9kaXY+CiAgICAgICAgPC9NZW51TGluaz4KICAgICAgICA8TWVudUxpbmsgdXJsPSJjaHJvbWU6Ly9ib29rbWFya3MiPgogICAgICAgICAgPE1lbnVJdGVtSWNvbiBmYUNsYXNzPSJmYS1ib29rbWFyayIvPgogICAgICAgICAgPGRpdj5Cb29rbWFya3M8L2Rpdj4KICAgICAgICA8L01lbnVMaW5rPgogICAgICAgIDxNZW51TGluayB1cmw9ImNocm9tZTovL2hpc3RvcnkiPgogICAgICAgICAgPE1lbnVJdGVtSWNvbiBmYUNsYXNzPSJmYS1oaXN0b3J5Ii8+CiAgICAgICAgICA8ZGl2Pkhpc3Rvcnk8L2Rpdj4KICAgICAgICA8L01lbnVMaW5rPgogICAgICA8L01lbnU+CiAgICAgIDxoci8+CiAgICAgIDxBZGRMaW5rQnV0dG9uIG9uQ2xpY2s9e3RvZ2dsZUZvcm1BY3RpdmV9Lz4KICAgICAge2xpbmtzLm1hcCgobGluaywgaSkgPT4gewogICAgICAgIHJldHVybiAoCiAgICAgICAgICA8TWVudUxpbmsga2V5PXtpfSB1cmw9e2xpbmsudXJsfT4KICAgICAgICAgICAgPE1lbnVMaW5rRmF2aWNvbiB1cmw9e2xpbmsudXJsfS8+CiAgICAgICAgICAgIHtsaW5rLnRpdGxlfQogICAgICAgICAgPC9NZW51TGluaz4KICAgICAgICApOwogICAgICB9KX0KICAgICAgPEFkZExpbmtGb3JtCiAgICAgICAgaXNBY3RpdmU9e2Zvcm1Jc0FjdGl2ZX0KICAgICAgICBuZXdMaW5rVGl0bGU9e25ld0xpbmtUaXRsZX0KICAgICAgICBuZXdMaW5rVXJsPXtuZXdMaW5rVXJsfQogICAgICAgIGhhbmRsZU5ld0xpbmtUaXRsZUNoYW5nZT17aGFuZGxlTmV3TGlua1RpdGxlQ2hhbmdlfQogICAgICAgIGhhbmRsZU5ld0xpbmtVcmxDaGFuZ2U9e2hhbmRsZU5ld0xpbmtVcmxDaGFuZ2V9CiAgICAgICAgaGFuZGxlRm9ybUtleVByZXNzPXtoYW5kbGVGb3JtS2V5UHJlc3N9CiAgICAgIC8+CiAgICA8L1dpZGdldEJvZHk+CiAgKTsKfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY2MuY29uY2F0KHt0aXRsZTppdGVtfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICByZXR1cm4gWwoKICBdCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWR1eCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCB7ZG9tYWluID0gIiJ9ID0gcGFyc2VEb21haW4odXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB7ZG9tYWluID0gZG9tYWluUGFydHMK</text>
+        <text encoding="base64">Y2xhc3MgTGlua3NMaXN0IGVWCiAgcmVuZGVyICgpIHsKICAgIHJldHVybiAoKQogIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoIWRvbWFpbikgewogICAgcmV0dXJuIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJzZURvbWFpbih1cmwpKTsK</text>
+        <text encoding="base64">aW1wb3J0IFRleHRBcmVhIGZyb20gJy4uL0lucHV0cy9Gb3JtVGV4dEFyZWEnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBvZGQgaW5kZXggaXMgdXJsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/_ADD/_REMOVE/g</text>
