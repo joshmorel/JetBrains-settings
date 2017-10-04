@@ -45,12 +45,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" timestamp="1507079765777">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" timestamp="1507151157451">
         <mark key="'" line="6" column="11" />
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="53" />
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="55" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Inputs/Select.css" timestamp="1507072364079">
         <mark key="[" line="0" column="0" />
@@ -589,6 +589,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/indexNew.js" timestamp="1507151292570">
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="54" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/SimpleHOC.js" timestamp="1506687243247">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -847,8 +853,8 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/Links.js" timestamp="1507072524221">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/Links.js" timestamp="1507151086553">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="1" column="71" />
         <mark key="^" line="1" column="70" />
         <mark key="." line="1" column="70" />
@@ -1299,10 +1305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>between</text>
+        <text>FormSection</text>
       </register>
       <register name="-" type="4">
-        <text>between</text>
+        <text>FormSection</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2984,31 +2990,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5zbGlkZXIuc3R5bGUuaGVpZ2h0ID0gYCR7c2xpZGVySGVpZ2h0fXB4YDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLy8gcmVuZGVyRm9ybSgpIHsKICAvLyAgIGNvbnN0IHt3aW5kb3dJc09wZW4sIG9wZW5TZWN0aW9uTmFtZX0gPSB0aGlzLnN0YXRlOwogIC8vCiAgLy8gICAvLyByZWR1eC1mb3JtIHN0YXRlIGlzIGRlc3Ryb3llZCB3aXRoIGFsbCB0ZW1wb3JhcnkgdmFsdWVzCiAgLy8gICAvLyByZXNldCBvbiB1bm1vdW50aW5nLCBzbyB3aGVuIGNsb3NlZCByZW5kZXIgbnVsbAogIC8vCiAgLy8gICByZXR1cm4gd2luZG93SXNPcGVuID8gPE9wdGlvbnNGb3JtIG9wZW5TZWN0aW9uTmFtZT17b3BlblNlY3Rpb25OYW1lfS8+CiAgLy8gICAgIDogbnVsbDsKICAvLyB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtGb3JtU2VjdGlvbn0gZnJvbSAncmVkdXgtZm9ybSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWxsUmVjZWl2ZQo=</text>
+        <text encoding="base64">aW1wb3J0IEFib3V0IGZyb20gJy4vQWJvdXQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">aW1wb3J0IENsb2NrIGZyb20gJy4vQ2xvY2snOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzZXQ9e3Jlc2V0fWRkCg==</text>
+        <text encoding="base64">aW1wb3J0IEJhY2tncm91bmQgZnJvbSAnLi9CYWNrZ3JvdW5kJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlckZvcm0oKX0K</text>
+        <text encoding="base64">aW1wb3J0IFdlYXRoZXIgZnJvbSAnLi9XZWF0aGVyJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAtMjsK</text>
+        <text encoding="base64">aW1wb3J0IEdlbmVyYWwgZnJvbSAnLi9HZW5lcmFsJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAtMTsK</text>
+        <text encoding="base64">CiAgLy8gcmVuZGVyRm9ybSgpIHsKICAvLyAgIGNvbnN0IHt3aW5kb3dJc09wZW4sIG9wZW5TZWN0aW9uTmFtZX0gPSB0aGlzLnN0YXRlOwogIC8vCiAgLy8gICAvLyByZWR1eC1mb3JtIHN0YXRlIGlzIGRlc3Ryb3llZCB3aXRoIGFsbCB0ZW1wb3JhcnkgdmFsdWVzCiAgLy8gICAvLyByZXNldCBvbiB1bm1vdW50aW5nLCBzbyB3aGVuIGNsb3NlZCByZW5kZXIgbnVsbAogIC8vCiAgLy8gICByZXR1cm4gd2luZG93SXNPcGVuID8gPE9wdGlvbnNGb3JtIG9wZW5TZWN0aW9uTmFtZT17b3BlblNlY3Rpb25OYW1lfS8+CiAgLy8gICAgIDogbnVsbDsKICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKV2lkZ2V0IFJlZmFjdG9yaW5nIFRPRE86CgoqIFt4XSBIYW5kbGUgZml4ZWQgaGVpZ2h0CiogW3hdIEhhbmRsZSBtYXggaGVpZ2h0CiogW3hdIEhhbmRsZSBhdXRvIGhlaWdodCAtSEFSREVTVAoKKi8KCg==</text>
+        <text encoding="base64">ICB3aWxsUmVjZWl2ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/height/maxHeight/g</text>
