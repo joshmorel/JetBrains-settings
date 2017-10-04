@@ -345,12 +345,6 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" timestamp="1507079972328">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="12" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/style/Widget.js" timestamp="1505575774268">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
@@ -1032,11 +1026,11 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.css" timestamp="1507078465365">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.css" timestamp="1507114408294">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/index.js" timestamp="1506948751278">
         <mark key="[" line="6" column="17" />
@@ -1202,7 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="160" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="165" column="12" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="167" column="22" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
@@ -1302,13 +1295,14 @@
       <jump line="178" column="16" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="32" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/Radio.css" />
       <jump line="77" column="52" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
+      <jump line="16" column="12" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgLy8gcmVuZGVyRm9ybSgpIHsKICAvLyAgIGNvbnN0IHt3aW5kb3dJc09wZW4sIG9wZW5TZWN0aW9uTmFtZX0gPSB0aGlzLnN0YXRlOwogIC8vCiAgLy8gICAvLyByZWR1eC1mb3JtIHN0YXRlIGlzIGRlc3Ryb3llZCB3aXRoIGFsbCB0ZW1wb3JhcnkgdmFsdWVzCiAgLy8gICAvLyByZXNldCBvbiB1bm1vdW50aW5nLCBzbyB3aGVuIGNsb3NlZCByZW5kZXIgbnVsbAogIC8vCiAgLy8gICByZXR1cm4gd2luZG93SXNPcGVuID8gPE9wdGlvbnNGb3JtIG9wZW5TZWN0aW9uTmFtZT17b3BlblNlY3Rpb25OYW1lfS8+CiAgLy8gICAgIDogbnVsbDsKICAvLyB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>between</text>
       </register>
       <register name="-" type="4">
-        <text>reset</text>
+        <text>between</text>
       </register>
       <register name="m" type="4">
         <keys>
