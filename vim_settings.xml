@@ -181,10 +181,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" timestamp="1507238243485">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" timestamp="1507243529261">
+        <mark key="[" line="158" column="39" />
+        <mark key="]" line="161" column="45" />
+        <mark key="." line="161" column="45" />
+        <mark key="^" line="161" column="45" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/ImperativeComponentContainer.js" timestamp="1506289663152">
         <mark key="[" line="11" column="3" />
@@ -476,12 +477,12 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" timestamp="1507239119829">
-        <mark key="'" line="26" column="9" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" timestamp="1507243705400">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1507203994834">
         <mark key="[" line="0" column="0" />
@@ -591,11 +592,11 @@
         <mark key="^" line="58" column="25" />
         <mark key="." line="58" column="25" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/links.js" timestamp="1507241114257">
-        <mark key="[" line="41" column="45" />
-        <mark key="]" line="41" column="42" />
-        <mark key="^" line="41" column="42" />
-        <mark key="." line="41" column="42" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/links.js" timestamp="1507243784952">
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="40" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/WidgetHeader.css" timestamp="1506878913687">
         <mark key="[" line="6" column="0" />
@@ -719,12 +720,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1507241570983">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" timestamp="1507243458238">
         <mark key="'" line="118" column="4" />
-        <mark key="[" line="291" column="38" />
-        <mark key="]" line="291" column="38" />
-        <mark key="^" line="292" column="7" />
-        <mark key="." line="291" column="38" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="." line="277" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/TextArea.js" timestamp="1507156759500">
         <mark key="[" line="8" column="17" />
@@ -1333,18 +1333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="87" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Radio.js" />
-      <jump line="50" column="6" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/General.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
-      <jump line="6" column="19" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Number.js" />
-      <jump line="3" column="5" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/CheckboxUncontrolled.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/CheckboxUncontrolled.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/actionTypes.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/edu-repos/examples/react-hocs/package-lock.json" />
-      <jump line="5" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/index.js" />
-      <jump line="7" column="47" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteModal.js" />
-      <jump line="11" column="26" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteModal.js" />
       <jump line="8" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Modal.js" />
       <jump line="13" column="9" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" />
       <jump line="66" column="5" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Weather.js" />
@@ -1433,13 +1421,25 @@
       <jump line="180" column="11" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="103" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="117" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
+      <jump line="65" column="46" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="46" column="37" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="45" column="32" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="44" column="29" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="32" column="37" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="31" column="27" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="30" column="24" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="12" column="19" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="10" column="14" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
+      <jump line="8" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiZ2V0TGlua3NBc1N0cmluZy1zdHJpbmciLGxpbmtzU3RyaW5nKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3115,54 +3115,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>OptionsInputChange</text>
+        <text>con</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHtSRUhZRFJBVEV9IGZyb20gJ3JlZHV4LXBlcnNpc3QvY29uc3RhbnRzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNhdmVOZXdPcHRpb25zOiBzYXZlZFN0YXRlID0+IHsKICAgICAgZGlzcGF0Y2goc2F2ZU9wdGlvbnMoc2F2ZWRTdGF0ZSkpOwogICAgfSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiZ2V0TGlua3NBc1N0cmluZy1zdHJpbmciLGxpbmtzU3RyaW5nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZ2V0TGlua3NBc1N0cmluZycsc3RhdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygibWFwIHN0YXRlIHRvIHByb3BzLCBzdHJpbmciLGxpbmtzU3RyaW5nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2F2ZUFsbFN0YXRlQW5kUmVmcmVzaChjYWxsYmFja3MpIHsKCiAgZm9yIChjYiBvZiBjYWxsYmFja3MpIHsKICAgICAgY2IoKTsKCiAgfQp9Cgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygibWFwIHN0YXRlIHRvIHByb3BzIixsaW5rcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGFyc2VMaW5rc0Zyb21TdHJpbmcoYWN0aW9uLmxpbmtzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNhdmVTdGF0ZSgpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiQUZKS0xERkxLQURKRktMQURKUyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNhdmVkIGxpbmtzIHN0cmluZyIsc2F2ZWRMaW5rc1N0cmluZyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImxpbmtzIGFkZCIsYWN0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGxpbmtzOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInJlaHlkcmF0ZSIsYWN0aW9uLnBheWxvYWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/OptionsInputChange/LinksChange/g</text>
       </register>
     </registers>
     <search>
-      <last-search>OptionsInputChange</last-search>
+      <last-search>con</last-search>
       <last-offset />
-      <last-pattern>OptionsInputChange</last-pattern>
+      <last-pattern>con</last-pattern>
       <last-replace>LinksChange</last-replace>
       <last-substitute>OptionsInputChange</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ClockOptions</entry>
         <entry>Clock</entry>
         <entry>Links</entry>
         <entry>Todo</entry>
@@ -3182,6 +3181,7 @@
         <entry>this\.state\.</entry>
         <entry>goptions</entry>
         <entry>OptionsInputChange</entry>
+        <entry>con</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Background/BackgroundOptions/g</entry>
