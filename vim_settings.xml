@@ -405,7 +405,6 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Widget.css" timestamp="1507289426146" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/About.js" timestamp="1506881977635">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -751,11 +750,11 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.js" timestamp="1507290426953">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="37" column="37" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.js" timestamp="1507330131313">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/HOCs/store.js" timestamp="1506773857054">
         <mark key="[" line="23" column="0" />
@@ -1428,8 +1427,8 @@
       <jump line="10" column="34" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -3117,28 +3116,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sKCkgPT4ge2lmKHRoaXMuc3RhdGUuaXNBY3RpdmVSZXF1ZXN0cykgdGhpcy5zZXRTdGF0ZSh7fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHthY3RpdmVTdGF0ZX0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgIH0sKCkgPT4ge2lmKHRoaXMuc3RhdGUuaXNBY3RpdmVSZXF1ZXN0cykgdGhpcy5zZXRTdGF0ZSh7fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHthY3RpdmVTdGF0ZX0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdEFuaW1hdGlvbkZyYW1lKCgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdEFuaW1hdGlvbkZyYW1lKCgpID0+IHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc3RvcmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc3RvcmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/OptionsInputChange/LinksChange/g</text>
