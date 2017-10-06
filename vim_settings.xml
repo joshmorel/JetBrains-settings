@@ -603,14 +603,14 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507331504560">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507331807655">
         <mark key="'" line="33" column="4" />
-        <mark key="[" line="59" column="116" />
-        <mark key="m" line="102" column="20" />
-        <mark key="]" line="60" column="1" />
-        <mark key="n" line="102" column="2" />
-        <mark key="^" line="60" column="1" />
-        <mark key="." line="60" column="1" />
+        <mark key="[" line="35" column="41" />
+        <mark key="m" line="107" column="20" />
+        <mark key="]" line="35" column="64" />
+        <mark key="n" line="107" column="2" />
+        <mark key="^" line="35" column="64" />
+        <mark key="." line="35" column="64" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1507203003508">
         <mark key="'" line="12" column="1" />
@@ -1427,11 +1427,11 @@
       <jump line="33" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0b2dnbGVTbGlkZShjdXJyZW50U3RhdGVBY3RpdmUpIHsKICAgIC8vZ2V0IGhlaWdodCBvZiBlbGVtZW50J3MgaW5uZXIgY29udGVudAogICAgY29uc3Qgc2xpZGVySGVpZ2h0ID0gdGhpcy5zbGlkZXIuc2Nyb2xsSGVpZ2h0OwogICAgY3VycmVudFN0YXRlQWN0aXZlID8gdGhpcy5zbGlkZUluYWN0aXZlKHNsaWRlckhlaWdodCkgOiB0aGlzLnNsaWRlSW5hY3RpdmUoc2xpZGVySGVpZ2h0KTsKICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>slideInactive</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>slideInactive</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3110,7 +3110,7 @@
         <text>toggleSlide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2xpZGVBY3RpdmUgPSB0aGlzLnNsaWRlQWN0aXZlLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2xpZGVJbmFjdGl2ZSA9IHRoaXMuc2xpZGVJbmFjdGl2ZS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB0b2dnbGVTbGlkZShjdXJyZW50U3RhdGVBY3RpdmUpIHsKICAgIC8vZ2V0IGhlaWdodCBvZiBlbGVtZW50J3MgaW5uZXIgY29udGVudAogICAgY29uc3Qgc2xpZGVySGVpZ2h0ID0gdGhpcy5zbGlkZXIuc2Nyb2xsSGVpZ2h0OwogICAgY3VycmVudFN0YXRlQWN0aXZlID8gdGhpcy5zbGlkZUluYWN0aXZlKHNsaWRlckhlaWdodCkgOiB0aGlzLnNsaWRlSW5hY3RpdmUoc2xpZGVySGVpZ2h0KTsKICB9Cgo=</text>
