@@ -603,14 +603,14 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507375263550">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="51" column="17" />
-        <mark key="m" line="121" column="20" />
-        <mark key="]" line="51" column="6" />
-        <mark key="n" line="121" column="2" />
-        <mark key="." line="51" column="6" />
-        <mark key="^" line="51" column="6" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507379177503">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="71" column="47" />
+        <mark key="m" line="167" column="20" />
+        <mark key="]" line="72" column="32" />
+        <mark key="n" line="167" column="2" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="32" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1507203003508">
         <mark key="'" line="12" column="1" />
@@ -1325,9 +1325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="11" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsForm.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/options.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Background.js" />
       <jump line="86" column="23" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
       <jump line="42" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="44" column="3" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
@@ -1425,13 +1422,16 @@
       <jump line="85" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
       <jump line="10" column="34" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
       <jump line="33" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
+      <jump line="31" column="6" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNiKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGlvblBlbmRpbmc6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>currentStateActive</text>
+        <text>n</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3107,54 +3107,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>toggleSlide</text>
+        <text>processAnimation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+IHsKICAgICAgaWYgKG5leHRQcm9wcy5pc0FjdGl2ZSAhPT0gaXNBY3RpdmUpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgaXNBY3RpdmVSZXF1ZXN0czogcHJldlN0YXRlLmlzQWN0aXZlUmVxdWVzdHMuY29uY2F0KAogICAgICAgICAgICBuZXh0UHJvcHMuaXNBY3RpdmUpLAogICAgICAgIH07CiAgICAgIH0KICAgIH0sKCkgPT4gY29uc29sZS5sb2coImNiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlRyYW5zaXRpb25pbmcgdG8gaW5hY3RpdmUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNiKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGlvblBlbmRpbmc6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNiKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXZlbnQudGFyZ2V0LnN0eWxlLmhlaWdodCA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcmV2U3RhdGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+IHsKICAgICAgaWYgKG5leHRQcm9wcy5pc0FjdGl2ZSAhPT0gaXNBY3RpdmUpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgaXNBY3RpdmVSZXF1ZXN0czogcHJldlN0YXRlLmlzQWN0aXZlUmVxdWVzdHMuY29uY2F0KAogICAgICAgICAgICBuZXh0UHJvcHMuaXNBY3RpdmUpLAogICAgICAgIH07CiAgICAgIH0KICAgIH0sKCkgPT4gY29uc29sZS5sb2coImNiIikpOwoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibmV4dElzQWN0aXZlUmVxdWVzdCIsbmV4dElzQWN0aXZlUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibmV4dElzQWN0aXZlUmVxdWVzdCIsbmV4dElzQWN0aXZlUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibmV4dElzQWN0aXZlUmVxdWVzdCIsbmV4dElzQWN0aXZlUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV4dFByb3BzLmlzQWN0aXZlICE9PSBpc0FjdGl2ZSkgewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRJc0FjdGl2ZVJlcXVlc3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImFuaW1hdGVBdXRvSGVpZ2h0IHRhcmdldDoiLHRhcmdldElzQWN0aXZlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tcGxldGVTbGlkaW5nQW5pbWF0aW9uID0gdGhpcy5jb21wbGV0ZVNsaWRpbmdBbmltYXRpb24uYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>s/toggleSlide/slideActive/g</text>
+        <text>s/processAnimation/animateFixedHeight/g</text>
       </register>
     </registers>
     <search>
-      <last-search>toggleSlide</last-search>
+      <last-search>processAnimation</last-search>
       <last-offset />
-      <last-pattern>toggleSlide</last-pattern>
-      <last-replace>slideActive</last-replace>
-      <last-substitute>toggleSlide</last-substitute>
+      <last-pattern>processAnimation</last-pattern>
+      <last-replace>animateFixedHeight</last-replace>
+      <last-substitute>processAnimation</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Weather</entry>
         <entry>Checkbox</entry>
         <entry>TextArea</entry>
         <entry>Radio</entry>
@@ -3174,11 +3173,9 @@
         <entry>affect</entry>
         <entry>IconButton</entry>
         <entry>toggleSlide</entry>
+        <entry>processAnimation</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Links/LinksOptions/g</entry>
-        <entry>%s/Todo/TodoOptions/g</entry>
-        <entry>%s/Background/Weather/g</entry>
         <entry>%s/Weather/Todo/g</entry>
         <entry>%s/Checkbox/General/g</entry>
         <entry>%s/TextArea/LinksOptions/g</entry>
@@ -3196,6 +3193,9 @@
         <entry encoding="base64">JzwsJz5zL3RoaXNcLnN0YXRlXC4vZw==</entry>
         <entry>s/OptionsInputChange/LinksChange/g</entry>
         <entry>s/toggleSlide/slideActive/g</entry>
+        <entry>%s/toggleSlide/processAnimation/g</entry>
+        <entry>s/processAnimation/animateAutoHeight/g</entry>
+        <entry>s/processAnimation/animateFixedHeight/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
