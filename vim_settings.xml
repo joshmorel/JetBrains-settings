@@ -603,14 +603,14 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507331807655">
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507373691033">
         <mark key="'" line="33" column="4" />
-        <mark key="[" line="35" column="41" />
-        <mark key="m" line="107" column="20" />
-        <mark key="]" line="35" column="64" />
-        <mark key="n" line="107" column="2" />
-        <mark key="^" line="35" column="64" />
-        <mark key="." line="35" column="64" />
+        <mark key="[" line="62" column="27" />
+        <mark key="m" line="115" column="20" />
+        <mark key="]" line="62" column="3" />
+        <mark key="n" line="115" column="2" />
+        <mark key="." line="62" column="3" />
+        <mark key="^" line="62" column="3" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1507203003508">
         <mark key="'" line="12" column="1" />
@@ -1427,11 +1427,11 @@
       <jump line="33" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>slideInactive</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNiKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>slideInactive</text>
+        <text>currentStateActive</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3110,34 +3110,34 @@
         <text>toggleSlide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2xpZGVJbmFjdGl2ZSA9IHRoaXMuc2xpZGVJbmFjdGl2ZS5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+IHsKICAgICAgaWYgKG5leHRQcm9wcy5pc0FjdGl2ZSAhPT0gaXNBY3RpdmUpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgaXNBY3RpdmVSZXF1ZXN0czogcHJldlN0YXRlLmlzQWN0aXZlUmVxdWVzdHMuY29uY2F0KAogICAgICAgICAgICBuZXh0UHJvcHMuaXNBY3RpdmUpLAogICAgICAgIH07CiAgICAgIH0KICAgIH0sKCkgPT4gY29uc29sZS5sb2coImNiIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0b2dnbGVTbGlkZShjdXJyZW50U3RhdGVBY3RpdmUpIHsKICAgIC8vZ2V0IGhlaWdodCBvZiBlbGVtZW50J3MgaW5uZXIgY29udGVudAogICAgY29uc3Qgc2xpZGVySGVpZ2h0ID0gdGhpcy5zbGlkZXIuc2Nyb2xsSGVpZ2h0OwogICAgY3VycmVudFN0YXRlQWN0aXZlID8gdGhpcy5zbGlkZUluYWN0aXZlKHNsaWRlckhlaWdodCkgOiB0aGlzLnNsaWRlSW5hY3RpdmUoc2xpZGVySGVpZ2h0KTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgIGNiKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRyYW5zaXRpb24gdG8gaGVpZ2h0IG9mIGlubmVyIGNvbnRlbnQgaW5zdGVhZCBvZiBhdXRvCg==</text>
+        <text encoding="base64">ICAgIGNiKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vZ2V0IGhlaWdodCBvZiBlbGVtZW50J3MgaW5uZXIgY29udGVudAogICAgY29uc3Qgc2xpZGVySGVpZ2h0ID0gdGhpcy5zbGlkZXIuc2Nyb2xsSGVpZ2h0OwoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vZ2V0IGhlaWdodCBvZiBlbGVtZW50J3MgaW5uZXIgY29udGVudAogICAgY29uc3Qgc2xpZGVySGVpZ2h0ID0gdGhpcy5zbGlkZXIuc2Nyb2xsSGVpZ2h0Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+IHsKICAgICAgaWYgKG5leHRQcm9wcy5pc0FjdGl2ZSAhPT0gaXNBY3RpdmUpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgaXNBY3RpdmVSZXF1ZXN0czogcHJldlN0YXRlLmlzQWN0aXZlUmVxdWVzdHMuY29uY2F0KAogICAgICAgICAgICBuZXh0UHJvcHMuaXNBY3RpdmUpLAogICAgICAgIH07CiAgICAgIH0KICAgIH0sKCkgPT4gY29uc29sZS5sb2coImNiIikpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gb24gbmV4dCBmcmFtZSwgZXhwbGljaXRseSBzZXQgaGVpZ2h0IHRvIHBpeGVsIGhlaWdodCBzbyBhcmVuJ3QgdHJhbnNpdGlvbiBvdXQgb2YgYXV0byBhbmQgdGhlcmVmb3JlIHRyYW5zaXRpb24gd2lsbCBiZSBhbmltYXRlZAogICAgICByZXF1ZXN0QW5pbWF0aW9uRnJhbWUoKCkgPT4gewogICAgICAgIHRoaXMuc2xpZGVyLnN0eWxlLmhlaWdodCA9IGAke3NsaWRlckhlaWdodH1weGA7CiAgICAgICAgLy8gb24gbmV4dCBmcmFtZSB0cmFuc2l0aW9uIHRvIGhlaWdodDogMAogICAgICAgIHJlcXVlc3RBbmltYXRpb25GcmFtZSgoKSA9PiB7CiAgICAgICAgICB0aGlzLnNsaWRlci5zdHlsZS5oZWlnaHQgPSAnMHB4JzsKICAgICAgICB9KTsKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICAvLyB0cmFuc2l0aW9uIHRvIGhlaWdodCBvZiBpbm5lciBjb250ZW50IGluc3RlYWQgb2YgYXV0bwogICAgICB0aGlzLnNsaWRlci5zdHlsZS5oZWlnaHQgPSBgJHtzbGlkZXJIZWlnaHR9cHhgOwogICAgICAvLyBvbmNlIHRyYW5zaXRpb24gZW5kcywgcmVtb3ZlIGV4cGxpY2l0IGhlaWdodAogICAgICAvLyBzbyB0aGF0IGNoaWxkcmVuIGNhbiBiZSBhZGRlZC9yZW1vdmVkIHdoaWxlIGFjdGl2ZSAoZS5nLiBiYXNlZCBvbiBhZGRpbmcgbGluay90by1kbykKICAgICAgdGhpcy5zbGlkZXIuYWRkRXZlbnRMaXN0ZW5lcigndHJhbnNpdGlvbmVuZCcsIHJlc2V0SGVpZ2h0KTsKICAgIH0KCiAgICBmdW5jdGlvbiByZXNldEhlaWdodChldmVudCkgewogICAgICBldmVudC50YXJnZXQuc3R5bGUuaGVpZ2h0ID0gbnVsbDsKICAgICAgZXZlbnQudGFyZ2V0LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ3RyYW5zaXRpb25lbmQnLCByZXNldEhlaWdodCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vZ2V0IGhlaWdodCBvZiBlbGVtZW50J3MgaW5uZXIgY29udGVudAogICAgY29uc3Qgc2xpZGVySGVpZ2h0ID0gdGhpcy5zbGlkZXIuc2Nyb2xsSGVpZ2h0OwogICAgLy8gZGVjcmVhc2luZyBpbiBoZWlnaHQgLSBhY3RpdmUgdG8gaW5hY3RpdmUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV4dFByb3BzLmlzQWN0aXZlICE9PSBpc0FjdGl2ZSkgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sKCkgPT4ge2lmKHRoaXMuc3RhdGUuaXNBY3RpdmVSZXF1ZXN0cykgdGhpcy5zZXRTdGF0ZSh7fSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29tcGxldGVTbGlkaW5nQW5pbWF0aW9uID0gdGhpcy5jb21wbGV0ZVNsaWRpbmdBbmltYXRpb24uYmluZCh0aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/toggleSlide/slideActive/g</text>
