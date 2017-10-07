@@ -603,14 +603,14 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507379177503">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="71" column="47" />
-        <mark key="m" line="167" column="20" />
-        <mark key="]" line="72" column="32" />
-        <mark key="n" line="167" column="2" />
-        <mark key="." line="72" column="32" />
-        <mark key="^" line="72" column="32" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" timestamp="1507381007401">
+        <mark key="'" line="35" column="21" />
+        <mark key="[" line="119" column="0" />
+        <mark key="m" line="138" column="20" />
+        <mark key="]" line="119" column="0" />
+        <mark key="n" line="138" column="2" />
+        <mark key="^" line="81" column="3" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" timestamp="1507203003508">
         <mark key="'" line="12" column="1" />
@@ -744,10 +744,10 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.css" timestamp="1507289440659">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.css" timestamp="1507380591423">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
         <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/index.js" timestamp="1507330131313">
@@ -1325,7 +1325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="23" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" />
       <jump line="42" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="44" column="3" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="13" column="44" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" />
@@ -1425,13 +1424,14 @@
       <jump line="31" column="6" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="34" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="35" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
+      <jump line="36" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGlvblBlbmRpbmc6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInRyeWluZyB0byB0cmFuc2l0aW9uIGZpeGVkIHRvIDBweCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3107,55 +3107,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>processAnimation</text>
+        <text>Ac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIlRyYW5zaXRpb25pbmcgdG8gaW5hY3RpdmUiKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInRyeWluZyB0byB0cmFuc2l0aW9uIGZpeGVkIHRvIixoZWlnaHRXaGVuQWN0aXZlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGlvblBlbmRpbmc6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInRyeWluZyB0byB0cmFuc2l0aW9uIGZpeGVkIHRvIDBweCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQudGFyZ2V0LnN0eWxlLmhlaWdodCA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcmV2U3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibmV4dElzQWN0aXZlUmVxdWVzdCIsbmV4dElzQWN0aXZlUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBjb21wb25lbnREaWRVcGRhdGUgcHJldlByb3BzLmlzQWN0aXZlICR7cHJldlByb3BzLmlzQWN0aXZlfSB0aGlzLnN0YXRlLiAke3RoaXMucHJvcHMuaXNBY3RpdmV9YCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibmV4dElzQWN0aXZlUmVxdWVzdCIsbmV4dElzQWN0aXZlUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRoaXMuc2xpZGVyLnNjcm9sbEhlaWdodCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibmV4dElzQWN0aXZlUmVxdWVzdCIsbmV4dElzQWN0aXZlUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRJc0FjdGl2ZVJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInRyeWluZyB0byB0cmFuc2l0aW9uIGZpeGVkIHRvIixoZWlnaHRXaGVuQWN0aXZlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImFuaW1hdGVBdXRvSGVpZ2h0IHRhcmdldDoiLHRhcmdldElzQWN0aXZlKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygibmV4dElzQWN0aXZlUmVxdWVzdCIsbmV4dElzQWN0aXZlUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>s/processAnimation/animateFixedHeight/g</text>
+        <text>s/Ac/Inac/g</text>
       </register>
     </registers>
     <search>
-      <last-search>processAnimation</last-search>
+      <last-search>Ac</last-search>
       <last-offset />
-      <last-pattern>processAnimation</last-pattern>
-      <last-replace>animateFixedHeight</last-replace>
-      <last-substitute>processAnimation</last-substitute>
+      <last-pattern>Ac</last-pattern>
+      <last-replace>Inac</last-replace>
+      <last-substitute>Ac</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Checkbox</entry>
-        <entry>TextArea</entry>
         <entry>Radio</entry>
         <entry>Number</entry>
         <entry>Select</entry>
@@ -3174,10 +3172,10 @@
         <entry>IconButton</entry>
         <entry>toggleSlide</entry>
         <entry>processAnimation</entry>
+        <entry>animateAutoHeight</entry>
+        <entry>Ac</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Weather/Todo/g</entry>
-        <entry>%s/Checkbox/General/g</entry>
         <entry>%s/TextArea/LinksOptions/g</entry>
         <entry>%s/Radio/TodoOptions/g</entry>
         <entry>%s/Number/WeatherOptions/g</entry>
@@ -3196,6 +3194,8 @@
         <entry>%s/toggleSlide/processAnimation/g</entry>
         <entry>s/processAnimation/animateAutoHeight/g</entry>
         <entry>s/processAnimation/animateFixedHeight/g</entry>
+        <entry>s/animateAutoHeight/animateSlideActive/g</entry>
+        <entry>s/Ac/Inac/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
