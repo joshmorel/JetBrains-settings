@@ -283,7 +283,6 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/auth.controller.js" timestamp="1507639545609" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherModal.js" timestamp="1506862052219">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="9" />
@@ -331,7 +330,6 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/routes/post.route.js" timestamp="1507631966775" />
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/InlineEventButton.js" timestamp="1505774391051">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="53" />
@@ -479,7 +477,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507631666693">
+      <file name="/Dummy.txt" timestamp="1507679041456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/Checkbox.js" timestamp="1507156996026">
@@ -542,7 +540,6 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/package.json" timestamp="1507635014683" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFieldset.js" timestamp="1506123464665">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="2" />
@@ -664,11 +661,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoSingle.json" timestamp="1507635588343">
-        <mark key="[" line="0" column="16077" />
-        <mark key="]" line="0" column="139" />
-        <mark key="." line="0" column="139" />
-        <mark key="^" line="0" column="139" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoSingle.json" timestamp="1507677499589">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/indexNew.js" timestamp="1507157840033">
         <mark key="[" line="3" column="26" />
@@ -693,6 +690,9 @@
         <mark key="]" line="2" column="20" />
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/sed-repos/sedaily-front-end/src/views/NewListView.vue" timestamp="1507679054232">
+        <mark key="'" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/Overlay.js" timestamp="1505427017157">
         <mark key="[" line="12" column="12" />
@@ -937,6 +937,7 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/post.controller.js" timestamp="1507678249231" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" timestamp="1506882025955">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -1187,7 +1188,6 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/index.js" timestamp="1507629388216" />
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/BaseComponentProps.js" timestamp="1506686311739">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="19" column="1" />
@@ -1223,11 +1223,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" timestamp="1507632900903">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="145726" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" timestamp="1507679706090">
+        <mark key="'" line="0" column="75820" />
+        <mark key="[" line="0" column="129325" />
+        <mark key="]" line="0" column="60314" />
+        <mark key="." line="0" column="60314" />
+        <mark key="^" line="0" column="60314" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/Radio.css" timestamp="1507071731429">
         <mark key="'" line="32" column="0" />
@@ -1279,6 +1280,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongInsert2.json" timestamp="1507680295747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/HoverArrow.css" timestamp="1506868640829">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="11" />
@@ -1318,8 +1325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="3" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
-      <jump line="13" column="44" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherWidget.js" />
       <jump line="4" column="5" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/NoteWidget/NoteIcon.js" />
       <jump line="4" column="0" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/styles/styles.css" />
       <jump line="5" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/WidgetBody.css" />
@@ -1418,6 +1423,8 @@
       <jump line="35" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="36" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="61" column="4" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="1" column="24" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/views/NewListView.vue" />
+      <jump line="0" column="75820" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3100,7 +3107,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text encoding="base64">XDxfaWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KiBCYWNrZ3JvdW5kOgogICogRmVhdHVyZTogRGlzcGxheXMgcmFuZG9tIGJhY2tncm91bmQgaW1hZ2UgZnJvbSBjb2xsZWN0aW9uLCByYW5kb20gY29sb3IsIG9yIHNwZWNpZmllZCBiYWNrZ3JvdW5kCiAgKiBTdGF0dXM6IFBhcnRpYWxseSBpbXBsZW1lbnRlZAogICogT3V0c3RhbmRpbmcgaXRlbXM6CiAgICAqIEdyYWNlZnVsIGVycm9yIGhhbmRsaW5nIGFuZCBzaG9ydGVyIHRpbWVvdXQgLSB1c2UgY29sb3IgaW5zdGVhZCBvciBzcGVjaWZpYyBwaWN0dXJlPwogICAgKiBSYW5kb20gY29sb3IgZnVuY3Rpb25hbGl0eQo=</text>
@@ -3137,9 +3144,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search encoding="base64">XDxfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern encoding="base64">XDxfaWRcPg==</last-pattern>
       <last-replace>Inac</last-replace>
       <last-substitute>Ac</last-substitute>
       <last-dir>1</last-dir>
@@ -3147,10 +3154,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Number</entry>
-        <entry>Select</entry>
-        <entry>Text</entry>
-        <entry>General</entry>
         <entry>Background</entry>
         <entry>this\.</entry>
         <entry>onContentChange</entry>
@@ -3167,6 +3170,10 @@
         <entry>animateAutoHeight</entry>
         <entry>Ac</entry>
         <entry>user</entry>
+        <entry>relative</entry>
+        <entry>date</entry>
+        <entry>_id</entry>
+        <entry encoding="base64">XDxfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TextArea/LinksOptions/g</entry>
