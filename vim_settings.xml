@@ -289,6 +289,9 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/sedaily-front-end/src/store/index.js" timestamp="1507809125349">
+        <mark key="'" line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/MyUser.js" timestamp="1506285532896">
         <mark key="[" line="31" column="1" />
         <mark key="]" line="32" column="0" />
@@ -515,11 +518,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" timestamp="1507635937183">
-        <mark key="'" line="61" column="4" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" timestamp="1507810794043">
+        <mark key="'" line="106" column="14" />
+        <mark key="[" line="92" column="36" />
+        <mark key="]" line="92" column="36" />
+        <mark key="." line="92" column="36" />
+        <mark key="^" line="112" column="21" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505677054367">
         <mark key="[" line="21" column="0" />
@@ -943,6 +947,12 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/post.controller.js" timestamp="1507810543053">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="41" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="52" column="32" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" timestamp="1506882025955">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -1240,12 +1250,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" timestamp="1507679706090">
-        <mark key="'" line="0" column="75820" />
-        <mark key="[" line="0" column="129325" />
-        <mark key="]" line="0" column="60314" />
-        <mark key="." line="0" column="60314" />
-        <mark key="^" line="0" column="60314" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" timestamp="1507809997533">
+        <mark key="'" line="0" column="145885" />
+        <mark key="[" line="0" column="129514" />
+        <mark key="]" line="0" column="129514" />
+        <mark key="." line="0" column="129514" />
+        <mark key="^" line="0" column="129514" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Inputs/Radio.css" timestamp="1507071731429">
         <mark key="'" line="32" column="0" />
@@ -1348,15 +1358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="18" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Routing/About.test.js" />
-      <jump line="9" column="27" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
-      <jump line="78" column="49" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
-      <jump line="5" column="27" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
-      <jump line="10" column="29" filename="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/package.json" />
-      <jump line="2" column="42" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/App.js" />
-      <jump line="17" column="17" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/App.js" />
-      <jump line="10" column="23" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
-      <jump line="14" column="9" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
       <jump line="17" column="17" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
       <jump line="18" column="9" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
       <jump line="130" column="10" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
@@ -1429,9 +1430,7 @@
       <jump line="36" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="61" column="4" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
       <jump line="1" column="24" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/views/NewListView.vue" />
-      <jump line="0" column="75820" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" />
       <jump line="0" column="68" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoSingle.json" />
-      <jump line="31" column="17" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/store/index.js" />
       <jump line="107" column="4" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/views/TopListView.vue" />
       <jump line="104" column="33" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/views/TopListView.vue" />
       <jump line="100" column="13" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/views/TopListView.vue" />
@@ -1448,13 +1447,24 @@
       <jump line="33" column="10" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/views/NewListView.vue" />
       <jump line="48" column="36" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" />
       <jump line="53" column="18" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" />
+      <jump line="31" column="33" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/store/index.js" />
+      <jump line="27" column="32" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/store/index.js" />
+      <jump line="64" column="28" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="108" column="13" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="59" column="21" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="63" column="6" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="88" column="27" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="98" column="46" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="102" column="14" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" />
+      <jump line="0" column="145885" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoInsert.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>n</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3130,57 +3140,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>VueApl</text>
+        <text>ISO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiBCYWNrZ3JvdW5kOgogICogRmVhdHVyZTogRGlzcGxheXMgcmFuZG9tIGJhY2tncm91bmQgaW1hZ2UgZnJvbSBjb2xsZWN0aW9uLCByYW5kb20gY29sb3IsIG9yIHNwZWNpZmllZCBiYWNrZ3JvdW5kCiAgKiBTdGF0dXM6IFBhcnRpYWxseSBpbXBsZW1lbnRlZAogICogT3V0c3RhbmRpbmcgaXRlbXM6CiAgICAqIEdyYWNlZnVsIGVycm9yIGhhbmRsaW5nIGFuZCBzaG9ydGVyIHRpbWVvdXQgLSB1c2UgY29sb3IgaW5zdGVhZCBvciBzcGVjaWZpYyBwaWN0dXJlPwogICAgKiBSYW5kb20gY29sb3IgZnVuY3Rpb25hbGl0eQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsaW1pdCBjb250cm9sbGVyJywgbGltaXRPcHRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGltaXQgPSBudWxsLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgVnVlQXBsYXllciBmcm9tICd2dWUtYXBsYXllcicgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzLWxpc3QK</text>
+        <text encoding="base64">Ly9pbXBvcnQgVnVlQXBsYXllciBmcm9tICd2dWUtYXBsYXllcicgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyYW5zaXRpb24tZ3JvdXAK</text>
+        <text encoding="base64">ICAgICAgICBuZXdzLWxpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlbGxvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRyYW5zaXRpb24tZ3JvdXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYgY2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlbGxvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L2hvbWUvbW9yZWwvYmluCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYgY2xhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmluZEJ5SWQnLCB1c2VyKTsK</text>
+        <text encoding="base64">L2hvbWUvbW9yZWwvYmluCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmluZEJ5SWQnLCB1c2VyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>VueApl</last-search>
+      <last-search>ISO</last-search>
       <last-offset />
-      <last-pattern>VueApl</last-pattern>
+      <last-pattern>ISO</last-pattern>
       <last-replace>Inac</last-replace>
       <last-substitute>Ac</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>goptions</entry>
-        <entry>OptionsInputChange</entry>
-        <entry>con</entry>
-        <entry>affect</entry>
         <entry>IconButton</entry>
         <entry>toggleSlide</entry>
         <entry>processAnimation</entry>
@@ -3188,8 +3194,6 @@
         <entry>Ac</entry>
         <entry>user</entry>
         <entry>relative</entry>
-        <entry>_id</entry>
-        <entry encoding="base64">XDxfaWRcPg==</entry>
         <entry>date</entry>
         <entry>modif</entry>
         <entry>TopL</entry>
@@ -3197,6 +3201,12 @@
         <entry>ul</entry>
         <entry>transition-group</entry>
         <entry>VueApl</entry>
+        <entry>limit</entry>
+        <entry>Object</entry>
+        <entry encoding="base64">XDxfaWRcPg==</entry>
+        <entry>_id</entry>
+        <entry>,</entry>
+        <entry>ISO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Radio/TodoOptions/g</entry>
