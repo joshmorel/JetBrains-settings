@@ -1343,11 +1343,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" timestamp="1507808427165">
-        <mark key="'" line="52" column="18" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" timestamp="1507891710253">
+        <mark key="'" line="53" column="18" />
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="36" />
+        <mark key="." line="48" column="36" />
+        <mark key="^" line="48" column="36" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/BackgroundOptions.js" timestamp="1507200038199">
         <mark key="'" line="3" column="20" />
@@ -1461,10 +1462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
