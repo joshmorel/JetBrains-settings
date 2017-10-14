@@ -518,12 +518,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" timestamp="1507811712930">
-        <mark key="'" line="102" column="14" />
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="16" />
-        <mark key="^" line="63" column="16" />
-        <mark key="." line="63" column="16" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" timestamp="1507984310286">
+        <mark key="'" line="103" column="14" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="41" column="12" />
+        <mark key="^" line="41" column="12" />
+        <mark key="." line="41" column="12" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505677054367">
         <mark key="[" line="21" column="0" />
@@ -1149,7 +1149,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1507848472520" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1507984634061">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/MenuItemIcon.js" timestamp="1507067575924">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="25" />
@@ -1461,8 +1465,8 @@
       <jump line="70" column="10" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -3147,31 +3151,31 @@
         <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uaGF2ZS5sZW5ndGhPZigzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbGltaXQgY29udHJvbGxlcicsIGxpbWl0KTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdFNldCA9IHJlcy5ib2R5Owo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbGltaXQgY29udHJvbGxlcicsIGxpbWl0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgcG9zdCA9IG5ldyBQb3N0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gcG9zdHMuc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdFNldCA9IHJlcy5ib2R5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnRoZQo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgcG9zdCA9IG5ldyBQb3N0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QocmVzLmJvZHkpLnRvLm5vdC5lcWwoZmlyc3RTZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gcG9zdHMuc2F2ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvIGV4cGVjdChyZXMuYm9keSkudG8uYmUuYW4oJ2FycmF5Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gLnRoZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QocmVzLmJvZHkpLnRvLm5vdC5lcWwoZmlyc3RTZXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
