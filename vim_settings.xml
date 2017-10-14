@@ -1154,7 +1154,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1507990701639">
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1507991796930">
         <mark key="'" line="65" column="5" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="22" />
@@ -1220,6 +1220,7 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/index.js" timestamp="1507991385561" />
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/BaseComponentProps.js" timestamp="1506686311739">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="19" column="1" />
@@ -1472,11 +1473,11 @@
       <jump line="65" column="5" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZpcnN0U2V0ID0gW107Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdCBmb3IgZGVmYXVsdCB0aW1lIGFuZCA=</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3158,31 +3159,31 @@
         <text encoding="base64">ICAgIFBvc3QoKS5zYXZlKCkudGhlbihzYXZlZFBvc3QgPT4gY29uc29sZS5sb2coc2F2ZWRQb3N0KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZpcnN0U2V0ID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBmaXJzdFNldCA9IFtdOwo=</text>
+        <text encoding="base64">ICBhcHAubGlzdGVuKGNvbmZpZy5wb3J0LCAoKSA9PiB7CiAgICBjb25zb2xlLmluZm8oYHNlcnZlciBzdGFydGVkIG9uIHBvcnQgJHtjb25maWcucG9ydH0gKCR7Y29uZmlnLmVudn0pYCk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgbm8tY29uc29sZQogIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvc3RzQXJyYXlQcm9taXNlID0gc2F2ZU1vbmdvQXJyYXlQcm9taXNlKAogICAgICBQb3N0LAogICAgICBuZXcgQXJyYXkobGltaXROdW0pLmZpbGwoe30pLmNvbmNhdChuZXcgQXJyYXkobGltaXROdW0pLmZpbGwoeyBkYXRlOiBtb21lbnQoKS5zdWJ0cmFjdCgxLCAnbWludXRlcycpIH0pKQogICAgKTsK</text>
+        <text encoding="base64">aW1wb3J0IFBvc3QgZnJvbSAnLi9zZXJ2ZXIvbW9kZWxzL3Bvc3QubW9kZWwnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHdhbnQgdG8gdGVzdCBvZmZzZXQgZm9yIAo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGZpcnN0U2V0ID0gW107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRlc3QgZm9yIGRlZmF1bHQgdGltZSBhbmQgCg==</text>
+        <text encoding="base64">ICAgIGxldCBmaXJzdFNldCA9IFtdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBvc3RzQXJyYXlQcm9taXNlID0gc2F2ZU1vbmdvQXJyYXlQcm9taXNlKAogICAgICBQb3N0LAogICAgICBuZXcgQXJyYXkobGltaXROdW0pLmZpbGwoe30pLmNvbmNhdChuZXcgQXJyYXkobGltaXROdW0pLmZpbGwoeyBkYXRlOiBtb21lbnQoKS5zdWJ0cmFjdCgxLCAnbWludXRlcycpIH0pKQogICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdhbnQgdG8gdGVzdCBvZmZzZXQgZm9yIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIHRlc3QgZm9yIGRlZmF1bHQgdGltZSBhbmQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRlc3QgZm9yIGRlZmF1bHQgdGltZSBhbmQgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
