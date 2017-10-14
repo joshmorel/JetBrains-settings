@@ -518,9 +518,9 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" timestamp="1507984310286">
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" timestamp="1507986435408">
         <mark key="'" line="103" column="14" />
-        <mark key="[" line="19" column="4" />
+        <mark key="[" line="63" column="6" />
         <mark key="]" line="41" column="12" />
         <mark key="^" line="41" column="12" />
         <mark key="." line="41" column="12" />
@@ -544,6 +544,7 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/package.json" timestamp="1507985795599" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFieldset.js" timestamp="1506123464665">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="2" />
@@ -947,10 +948,11 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/post.controller.js" timestamp="1507815106202">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/post.controller.js" timestamp="1507986347776">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="44" column="1" />
+        <mark key="." line="44" column="1" />
+        <mark key="^" line="44" column="1" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Clock.js" timestamp="1506882025955">
         <mark key="[" line="54" column="0" />
@@ -1149,10 +1151,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1507984634061">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1507986294209">
+        <mark key="[" line="102" column="28" />
+        <mark key="]" line="102" column="28" />
+        <mark key="." line="102" column="28" />
+        <mark key="^" line="72" column="25" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/MenuItemIcon.js" timestamp="1507067575924">
         <mark key="[" line="2" column="22" />
@@ -1465,11 +1468,11 @@
       <jump line="70" column="10" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3148,34 +3151,34 @@
         <text>firstSet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uaGF2ZS5sZW5ndGhPZigzKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUG9zdCgpLnNhdmUoKSwKICAgICAgICBuZXcgUG9zdCgpLnNhdmUoKSwKICAgICAgICBuZXcgUG9zdCgpLnNhdmUoKSwKICAgICAgICBuZXcgUG9zdCgpLnNhdmUoKSwKICAgICAgICBuZXcgUG9zdCgpLnNhdmUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHBvc3RGb3VuZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbGltaXQgY29udHJvbGxlcicsIGxpbWl0KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocG9zdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdFNldCA9IHJlcy5ib2R5Owo=</text>
+        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgcG9zdCA9IG5ldyBQb3N0KCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbGltaXQgY29udHJvbGxlcicsIGxpbWl0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gcG9zdHMuc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnRoZQo=</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdFNldCA9IHJlcy5ib2R5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QocmVzLmJvZHkpLnRvLm5vdC5lcWwoZmlyc3RTZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgcG9zdCA9IG5ldyBQb3N0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
