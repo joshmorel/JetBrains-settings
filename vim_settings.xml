@@ -440,6 +440,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/auth.js" timestamp="1508085381443">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/General.js" timestamp="1507187038937">
         <mark key="'" line="138" column="25" />
         <mark key="[" line="129" column="19" />
@@ -697,11 +700,11 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/models/User.js" timestamp="1508084452166">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/models/User.js" timestamp="1508084988088">
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="73" column="20" />
+        <mark key="^" line="73" column="20" />
+        <mark key="." line="73" column="20" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/HOCs/store.js" timestamp="1506773857054">
         <mark key="[" line="23" column="0" />
@@ -1260,7 +1263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="13" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="151" column="73" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="6" column="28" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="224" column="10" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
@@ -1360,10 +1362,11 @@
       <jump line="65" column="5" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
       <jump line="5" column="7" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/src/tests/components/resourceList.test.js" />
       <jump line="11" column="14" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/auth.controller.js" />
+      <jump line="21" column="33" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -3042,46 +3045,46 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>register</text>
+        <text>route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVtYWlsOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiaW86IFN0cmluZywK</text>
+        <text encoding="base64">ICAgIGVtYWlsOiBTdHJpbmcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW86IFN0cmluZywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIG1vbmdvVVJJID0gYG1vbmdvZGI6Ly8ke21vbmdvVXNlcn06JHt9YAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBtb25nb1VSSSA9IGBtb25nb2RiOi8vJHttb25nb1VzZXJ9OiR7fWAK</text>
+        <text encoding="base64">dmFyIG1vbmdvVVJJID0gYG1vbmdvZGI6Ly8ke21vbmdvVXNlcn06JHt9YAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gc3RhdGUK</text>
+        <text encoding="base64">ICAgIHZhciBtb25nb1VSSSA9IGBtb25nb2RiOi8vJHttb25nb1VzZXJ9OiR7fWAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gc3RhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAic3RhbmRhcmQiOiB7CiAgICAiaWdub3JlIjogWwogICAgICAiL3NyYy90ZXN0cy8iLAogICAgICAicmVnaXN0ZXJTZXJ2aWNlV29ya2VyLmpzIiwKICAgICAgIi9idWlsZC8iCiAgICBdCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAic3RhbmRhcmQiOiB7CiAgICAiaWdub3JlIjogWwogICAgICAiL3NyYy90ZXN0cy8iLAogICAgICAicmVnaXN0ZXJTZXJ2aWNlV29ya2VyLmpzIiwKICAgICAgIi9idWlsZC8iCiAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Header/ResourceList/g</text>
       </register>
     </registers>
     <search>
-      <last-search>register</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern>register</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-replace>ResourceList</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -3089,7 +3092,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry>modif</entry>
         <entry>TopL</entry>
         <entry>list</entry>
@@ -3109,6 +3111,7 @@
         <entry>eslint</entry>
         <entry>Header</entry>
         <entry>register</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Select/ClockOptions/g</entry>
