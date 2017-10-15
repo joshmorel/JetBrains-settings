@@ -276,6 +276,9 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/auth.controller.js" timestamp="1508080667550">
+        <mark key="'" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherModal.js" timestamp="1506862052219">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="9" />
@@ -1245,7 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="27" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/reducers/index.js" />
       <jump line="271" column="13" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="151" column="73" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
       <jump line="6" column="28" filename="$USER_HOME$/git/fcc-repos/leoh-form-html/index.html" />
@@ -1345,6 +1347,7 @@
       <jump line="2632" column="13" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/package-lock.json" />
       <jump line="65" column="5" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
       <jump line="5" column="7" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/src/tests/components/resourceList.test.js" />
+      <jump line="11" column="14" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/controllers/auth.controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3027,7 +3030,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Header</text>
+        <text>register</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gbW9uZ29vc2UuY29ubmVjdChgbW9uZ29kYjovLyR7bW9uZ29Vc2VyfToke21vbmdvUGFzc31AZHMxMzEzNDAubWxhYi5jb206MzEzNDAvbGlicnVgKTsK</text>
@@ -3064,9 +3067,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Header</last-search>
+      <last-search>register</last-search>
       <last-offset />
-      <last-pattern>Header</last-pattern>
+      <last-pattern>register</last-pattern>
       <last-replace>ResourceList</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -3074,7 +3077,6 @@
     </search>
     <history>
       <history-search>
-        <entry>relative</entry>
         <entry>date</entry>
         <entry>modif</entry>
         <entry>TopL</entry>
@@ -3094,6 +3096,7 @@
         <entry>&quot;</entry>
         <entry>eslint</entry>
         <entry>Header</entry>
+        <entry>register</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Select/ClockOptions/g</entry>
