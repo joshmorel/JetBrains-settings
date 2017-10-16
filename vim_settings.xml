@@ -361,7 +361,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/package.json" timestamp="1508091047780">
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/package.json" timestamp="1508153231652">
         <mark key="'" line="6" column="14" />
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="20" />
@@ -453,8 +453,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/auth.js" timestamp="1508085381443">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/auth.js" timestamp="1508152964471">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/General.js" timestamp="1507187038937">
         <mark key="'" line="138" column="25" />
@@ -468,9 +471,6 @@
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508012204644">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/Checkbox.js" timestamp="1507156996026">
         <mark key="[" line="11" column="14" />
@@ -604,7 +604,12 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" timestamp="1508092600631" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" timestamp="1508154001409">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/BackgroundWidget/BackgroundWidget.css" timestamp="1507078330152">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="13" />
@@ -721,11 +726,10 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/models/User.js" timestamp="1508084988088">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="73" column="20" />
-        <mark key="^" line="73" column="20" />
-        <mark key="." line="73" column="20" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/models/User.js" timestamp="1508152801137">
+        <mark key="]" line="77" column="50" />
+        <mark key="^" line="77" column="50" />
+        <mark key="." line="77" column="50" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/HOCs/store.js" timestamp="1506773857054">
         <mark key="[" line="23" column="0" />
@@ -957,6 +961,13 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/profiles.js" timestamp="1508152925604">
+        <mark key="'" line="27" column="1" />
+        <mark key="[" line="27" column="60" />
+        <mark key="]" line="27" column="64" />
+        <mark key="^" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/components/NewsWidget.css" timestamp="1505624410980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="1" />
@@ -981,20 +992,29 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" timestamp="1508154062400">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AutoBinding.js" timestamp="1505773641197">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="20" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="/fragment.js" timestamp="1507634081659">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/BaseComponent.js" timestamp="1506686178492">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/index.js" timestamp="1508152614592">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+        <mark key="." line="3" column="46" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/EventPoolingGotcha.js" timestamp="1505775158118">
         <mark key="[" line="34" column="3" />
@@ -1145,7 +1165,6 @@
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/index.js" timestamp="1508091261937" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/common/Number.css" timestamp="1506684823660">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="16" />
@@ -1297,7 +1316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/TextArea.css" />
       <jump line="71" column="8" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/LinksFormExample.js" />
       <jump line="76" column="8" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/LinksFormExample.js" />
       <jump line="5" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsFormBody/index.js" />
@@ -1397,10 +1415,11 @@
       <jump line="6" column="14" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/package.json" />
       <jump line="3" column="26" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" />
       <jump line="63" column="17" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" />
+      <jump line="27" column="1" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/profiles.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9CiAgZ2V0QWxsUmVzb3VyY2VzKCkKICAgIC50aGVuKChyZXNwb25zZSwgZXJyb3IpID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmVzLmpzb24oZmFsc2UpOwogICAgICB9IGVsc2UgewogICAgICAgIHJlcy5qc29uKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -3079,46 +3098,46 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>resource</text>
+        <text>JS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICh0eXBlb2YgcmVxLmJvZHkudXNlci51c2VybmFtZSAhPT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgdXNlci51c2VybmFtZSA9IHJlcS5ib2R5LnVzZXIudXNlcm5hbWU7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9CiAgZ2V0QWxsUmVzb3VyY2VzKCkKICAgIC50aGVuKChyZXNwb25zZSwgZXJyb3IpID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmVzLmpzb24oZmFsc2UpOwogICAgICB9IGVsc2UgewogICAgICAgIHJlcy5qc29uKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXR1cm4gcmVzLmpzb24oeyBwcm9maWxlOiByZXEucHJvZmlsZS50b1Byb2ZpbGVKU09ORm9yKCkgfSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9CiAgZ2V0QWxsUmVzb3VyY2VzKCkKICAgIC50aGVuKChyZXNwb25zZSwgZXJyb3IpID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmVzLmpzb24oZmFsc2UpOwogICAgICB9IGVsc2UgewogICAgICAgIHJlcy5qc29uKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCiAgZ2V0SW5kaXZpZHVhbFJlc291cmNlKHJlcS5wYXJhbXMuaWQpCiAgICAudGhlbigocmVzcG9uc2UsIGVycm9yKSA9PiB7CiAgICAgIGlmIChlcnJvcikgewogICAgICAgIHJlcy5qc29uKGZhbHNlKTsKICAgICAgfSBlbHNlIHsKICAgICAgICByZXMuanNvbihyZXNwb25zZSk7CiAgICAgIH0KICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ZhcjInLCB2YXIyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ZhcjEnLCB2YXIxKTsK</text>
+        <text encoding="base64">ICAgICAgCiAgZ2V0SW5kaXZpZHVhbFJlc291cmNlKHJlcS5wYXJhbXMuaWQpCiAgICAudGhlbigocmVzcG9uc2UsIGVycm9yKSA9PiB7CiAgICAgIGlmIChlcnJvcikgewogICAgICAgIHJlcy5qc29uKGZhbHNlKTsKICAgICAgfSBlbHNlIHsKICAgICAgICByZXMuanNvbihyZXNwb25zZSk7CiAgICAgIH0KICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ZhcjInLCB2YXIyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKGRvYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ZhcjEnLCB2YXIxKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>resource</last-search>
+      <last-search>JS</last-search>
       <last-offset />
-      <last-pattern>resource</last-pattern>
+      <last-pattern>JS</last-pattern>
       <last-replace>password</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -3126,7 +3145,6 @@
     </search>
     <history>
       <history-search>
-        <entry>transition-group</entry>
         <entry>VueApl</entry>
         <entry>limit</entry>
         <entry>Object</entry>
@@ -3146,6 +3164,7 @@
         <entry>nodemon</entry>
         <entry>api</entry>
         <entry>resource</entry>
+        <entry>JS</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this\./this/g</entry>
