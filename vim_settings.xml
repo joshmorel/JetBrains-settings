@@ -453,6 +453,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/git/forked-repos/freeCodeCamp/.env" timestamp="1508195211735">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/auth.js" timestamp="1508152964471">
         <mark key="[" line="20" column="8" />
         <mark key="]" line="20" column="7" />
@@ -471,6 +476,9 @@
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508195617662">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/Checkbox.js" timestamp="1507156996026">
         <mark key="[" line="11" column="14" />
@@ -1140,7 +1148,6 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508157540527" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIcon.js" timestamp="1506861709503">
         <mark key="[" line="33" column="62" />
         <mark key="]" line="47" column="6" />
@@ -1407,10 +1414,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>7</text>
       </register>
       <register name="m" type="4">
         <keys>
