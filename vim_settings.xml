@@ -166,11 +166,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508238131447">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-        <mark key="^" line="29" column="20" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508239125526">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="43" column="2" />
+        <mark key="." line="43" column="2" />
+        <mark key="^" line="43" column="2" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/examples/redux-containers/src/reducers/attendanceRecords.js" timestamp="1505948272716">
         <mark key="[" line="5" column="42" />
@@ -476,7 +476,7 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508195617662">
+      <file name="/Dummy.txt" timestamp="1508238592245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/Checkbox.js" timestamp="1507156996026">
@@ -677,12 +677,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" timestamp="1508235422261">
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" timestamp="1508239197193">
         <mark key="'" line="100" column="17" />
-        <mark key="[" line="86" column="1" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="0" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/TextArea.js" timestamp="1507156759500">
         <mark key="[" line="8" column="17" />
@@ -1078,7 +1078,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1508237004845">
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1508238556953">
         <mark key="'" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/MenuItemIcon.js" timestamp="1507067575924">
@@ -1124,7 +1124,7 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508237728177">
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508239614837">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="55" />
         <mark key="^" line="12" column="55" />
@@ -1141,6 +1141,12 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/index.js" timestamp="1508238706743">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+        <mark key="." line="19" column="30" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/BaseComponentProps.js" timestamp="1506686311739">
         <mark key="[" line="0" column="34" />
@@ -1390,10 +1396,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>then</text>
+        <text>NO</text>
       </register>
       <register name="-" type="4">
-        <text>then</text>
+        <text>NO</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3072,34 +3078,34 @@
         <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWZ0ZXJFYWNoKCgpID0+IHsKICBjb25zb2xlLmxvZygnaGVsbG8nKTsKfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTk8gTk9ERV9FTlYnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJ0aGVuIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlR29lc09uU2FsZTogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VHb2VzT25TYWxlOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VHb2VzT25TYWxlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCgxKS50b0JlVHJ1dGh5KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VBZGRlZEJ5OiB1c2VySUQK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJ0aGVuIj48L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VHb2VzT25TYWxlOiBnb2VzT25TYWxlLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VDb3N0OiBkYXRhLnJlc291cmNlQ29zdCwK</text>
+        <text encoding="base64">ICAgIHJlc291cmNlR29lc09uU2FsZTogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VTdWJDYXRlZ29yeTogZGF0YS5yZXNvdXJjZVN1YkNhdGVnb3J5LAo=</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VHb2VzT25TYWxlOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/profiles/articles/g</text>
