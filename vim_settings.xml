@@ -509,6 +509,7 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" timestamp="1508282062675" />
       <file name="$USER_HOME$/git/edu-repos/sandbox/react-state-mgmt/src/index.js" timestamp="1505677054367">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1086,8 +1087,12 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1508238556953">
+      <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" timestamp="1508282304291">
         <mark key="'" line="5" column="7" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/MenuItemIcon.js" timestamp="1507067575924">
         <mark key="[" line="2" column="22" />
@@ -1168,11 +1173,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/tests/users.test.js" timestamp="1508281855087">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="25" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/tests/users.test.js" timestamp="1508282549599">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoMultiple.json" timestamp="1507759297288">
         <mark key="[" line="0" column="63" />
