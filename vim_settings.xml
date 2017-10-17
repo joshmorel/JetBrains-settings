@@ -423,11 +423,11 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508093756675">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508235283367">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="63" column="13" />
+        <mark key="." line="63" column="13" />
+        <mark key="^" line="63" column="13" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/.env" timestamp="1507812272573">
         <mark key="[" line="5" column="43" />
@@ -600,6 +600,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" timestamp="1508235381726" />
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/BackgroundWidget/BackgroundWidget.css" timestamp="1507078330152">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="13" />
@@ -670,12 +671,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" timestamp="1508234602282">
-        <mark key="'" line="83" column="17" />
-        <mark key="[" line="44" column="57" />
-        <mark key="]" line="44" column="57" />
-        <mark key="." line="44" column="57" />
-        <mark key="^" line="44" column="57" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" timestamp="1508235422261">
+        <mark key="'" line="100" column="17" />
+        <mark key="[" line="86" column="1" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/TextArea.js" timestamp="1507156759500">
         <mark key="[" line="8" column="17" />
@@ -967,7 +968,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" timestamp="1508196861879">
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" timestamp="1508235073541">
         <mark key="[" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AutoBinding.js" timestamp="1505773641197">
@@ -1119,11 +1120,11 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508234841470">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="53" />
-        <mark key="^" line="35" column="53" />
-        <mark key="." line="35" column="53" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508235564002">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIcon.js" timestamp="1506861709503">
         <mark key="[" line="33" column="62" />
@@ -1384,11 +1385,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkYXRlQWRkZWQ6IERhdGUsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3070,28 +3071,28 @@
         <text encoding="base64">cm91dGVyLnVzZSgnL3Byb2ZpbGVzJywgcmVxdWlyZSgnLi9wcm9maWxlcycpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRlQWRkZWQ6IERhdGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpOwo=</text>
+        <text encoding="base64">Ly8gZ2VuZXJpYyBlcnJvciBoYW5kbGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZ2VuZXJpYyBlcnJvciBoYW5kbGVyCi8vIG9ubHkgZG8gdGhpcyBpbiBkZXYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbihlcnIsIHJlcSwgcmVzLCBuZXh0KSB7CiAgY29uc29sZS5sb2coZXJyLnN0YWNrKTsKCiAgcmVzLnN0YXR1cyhlcnIuc3RhdHVzIHx8IDUwMCk7CgogIHJlcy5qc29uKHsKICAgIGVycm9yczogewogICAgICBtZXNzYWdlOiBlcnIubWVzc2FnZSwKICAgICAgZXJyb3I6IGVycgogICAgfQogIH0pOwp9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGVBZGRlZDogbmV3IERhdGUoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLmpzb24oeyBwcm9maWxlOiByZXEucHJvZmlsZS50b1Byb2ZpbGVKU09ORm9yKCkgfSk7Cg==</text>
+        <text encoding="base64">ICBkYXRlQWRkZWQ6IERhdGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9CiAgZ2V0QWxsUmVzb3VyY2VzKCkKICAgIC50aGVuKChyZXNwb25zZSwgZXJyb3IpID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmVzLmpzb24oZmFsc2UpOwogICAgICB9IGVsc2UgewogICAgICAgIHJlcy5qc29uKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
