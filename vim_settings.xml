@@ -605,11 +605,11 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" timestamp="1508280306684">
-        <mark key="[" line="91" column="17" />
-        <mark key="]" line="91" column="19" />
-        <mark key="." line="91" column="19" />
-        <mark key="^" line="91" column="19" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" timestamp="1508322310781">
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="65" column="41" />
+        <mark key="." line="65" column="41" />
+        <mark key="^" line="65" column="41" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/BackgroundWidget/BackgroundWidget.css" timestamp="1507078330152">
         <mark key="[" line="12" column="12" />
@@ -718,11 +718,11 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/models/User.js" timestamp="1508281781039">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="87" column="28" />
-        <mark key="^" line="87" column="28" />
-        <mark key="." line="87" column="28" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/models/User.js" timestamp="1508321660064">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="36" column="92" />
+        <mark key="^" line="36" column="92" />
+        <mark key="." line="36" column="92" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/Extending/HOCs/store.js" timestamp="1506773857054">
         <mark key="[" line="23" column="0" />
@@ -1173,11 +1173,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/tests/users.test.js" timestamp="1508282549599">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/tests/users.test.js" timestamp="1508322253547">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="27" column="15" />
+        <mark key="." line="26" column="19" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoMultiple.json" timestamp="1507759297288">
         <mark key="[" line="0" column="63" />
@@ -1266,8 +1266,11 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/server.js" timestamp="1508280254633">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/server.js" timestamp="1508322115469">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/HoverArrow.css" timestamp="1506868640829">
         <mark key="[" line="0" column="1" />
@@ -1417,11 +1420,11 @@
       <jump line="5" column="7" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmluYWxseSwgbGV0J3Mgc3RhcnQgb3VyIHNlcnZlci4uLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3103,31 +3106,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdVc2VyJywgVXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmb28pLnRvRXF1YWwoMSk7Cg==</text>
+        <text encoding="base64">ZmluYWxseSwgbGV0J3Mgc3RhcnQgb3VyIHNlcnZlci4uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly9yZXF1aXJlZCBmb3IgdGVzdGluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMZXRzIHNlZScpOwogICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">Ly8gZmluYWxseSwgbGV0J3Mgc3RhcnQgb3VyIHNlcnZlci4uLgpjb25zdCBzZXJ2ZXIgPSBhcHAubGlzdGVuKHByb2Nlc3MuZW52LlBPUlQgfHwgMzAwMCwgZnVuY3Rpb24oKSB7CiAgY29uc29sZS5sb2coJ0xpc3RlbmluZyBvbiBwb3J0ICcgKyBzZXJ2ZXIuYWRkcmVzcygpLnBvcnQpOwp9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JlZm9yZUFsbCAtIG5vdCB5ZXQgZG9uZScpOwo=</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gcmVxdWlyZSgnLi9hcHAnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgwKS50b0JlRmFsc3koKTsgCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1VzZXInLCBVc2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgwKS50b0JlRmFsc3koKTsKICAgIGRvbmUoKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FWYXInLCBhVmFyKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZmluYWxseSwgbGV0J3Mgc3RhcnQgb3VyIHNlcnZlci4uLgp2YXIgc2VydmVyID0gYXBwLmxpc3Rlbihwcm9jZXNzLmVudi5QT1JUIHx8IDMwMDAsIGZ1bmN0aW9uKCkgewogIGNvbnNvbGUubG9nKCdMaXN0ZW5pbmcgb24gcG9ydCAnICsgc2VydmVyLmFkZHJlc3MoKS5wb3J0KTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChmb28pLnRvRXF1YWwoMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/profiles/articles/g</text>
