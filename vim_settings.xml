@@ -185,6 +185,12 @@
         <mark key="." line="83" column="30" />
         <mark key="^" line="83" column="32" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/tests/profiles.test.js" timestamp="1508325297096">
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/ImperativeComponentContainer.js" timestamp="1506289663152">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="3" />
@@ -1173,11 +1179,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/tests/users.test.js" timestamp="1508322253547">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="19" />
-        <mark key="^" line="27" column="15" />
-        <mark key="." line="26" column="19" />
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/tests/users.test.js" timestamp="1508325107354">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/Scratch/mongoMultiple.json" timestamp="1507759297288">
         <mark key="[" line="0" column="63" />
@@ -1420,11 +1426,11 @@
       <jump line="5" column="7" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmluYWxseSwgbGV0J3Mgc3RhcnQgb3VyIHNlcnZlci4uLgo=</text>
+      <register name="&quot;" type="4">
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>O</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3106,31 +3112,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdVc2VyJywgVXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmluYWxseSwgbGV0J3Mgc3RhcnQgb3VyIHNlcnZlci4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9yZXF1aXJlZCBmb3IgdGVzdGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZTogJ2hlbGxvJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW86IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZmluYWxseSwgbGV0J3Mgc3RhcnQgb3VyIHNlcnZlci4uLgpjb25zdCBzZXJ2ZXIgPSBhcHAubGlzdGVuKHByb2Nlc3MuZW52LlBPUlQgfHwgMzAwMCwgZnVuY3Rpb24oKSB7CiAgY29uc29sZS5sb2coJ0xpc3RlbmluZyBvbiBwb3J0ICcgKyBzZXJ2ZXIuYWRkcmVzcygpLnBvcnQpOwp9KTsK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6ICdoZWxsbycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gcmVxdWlyZSgnLi9hcHAnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3BvbnNlJywgcmVzcG9uc2UuYm9keSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1VzZXInLCBVc2VyKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZnRlciBhbGwnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FWYXInLCBhVmFyKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdVc2VyJywgVXNlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1JlbW92ZWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmb28pLnRvRXF1YWwoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2F2ZWRVc2VyJywgc2F2ZWRVc2VyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/profiles/articles/g</text>
