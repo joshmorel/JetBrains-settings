@@ -96,11 +96,11 @@
         <mark key="^" line="47" column="27" />
         <mark key="." line="68" column="37" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/package.json" timestamp="1508092342622">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-        <mark key="^" line="41" column="27" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/package.json" timestamp="1508410448606">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/WidgetHeader.js" timestamp="1506878893542">
         <mark key="'" line="3" column="19" />
@@ -430,9 +430,9 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508237295370">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/.env" timestamp="1507812272573">
         <mark key="[" line="5" column="43" />
@@ -680,13 +680,6 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" timestamp="1508239197193">
-        <mark key="'" line="100" column="17" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/TextArea.js" timestamp="1507156759500">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="21" />
@@ -819,11 +812,6 @@
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/config.js" timestamp="1508014972717">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/Sections/Background.js" timestamp="1506882034899">
         <mark key="'" line="0" column="0" />
@@ -1129,12 +1117,6 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508239614837">
-        <mark key="[" line="12" column="55" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="55" />
-      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIcon.js" timestamp="1506861709503">
         <mark key="[" line="33" column="62" />
         <mark key="]" line="47" column="6" />
@@ -1412,8 +1394,8 @@
       <jump line="5" column="7" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAic3RhbmRhcmQiOiB7CiAgICAiaWdub3JlIjogWwogICAgICAiL3NyYy90ZXN0cy8iLAogICAgICAicmVnaXN0ZXJTZXJ2aWNlV29ya2VyLmpzIiwKICAgICAgIi9idWlsZC8iCiAgICBdCiAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -3092,46 +3074,46 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>toProf</text>
+        <text>coverage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdVc2VyJywgVXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDogZW1haWwsCg==</text>
+        <text encoding="base64">ICAic3RhbmRhcmQiOiB7CiAgICAiaWdub3JlIjogWwogICAgICAiL3NyYy90ZXN0cy8iLAogICAgICAicmVnaXN0ZXJTZXJ2aWNlV29ya2VyLmpzIiwKICAgICAgIi9idWlsZC8iCiAgICBdCiAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3Qub2JqZWN0Q29udGFpbmluZyhleHBlY3RlZFJlc0JvZHkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbDogZW1haWwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3Qub2JqZWN0Q29udGFpbmluZyhleHBlY3RlZFJlc0JvZHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZTogJ2hlbGxvJywK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW86IAo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZTogJ2hlbGxvJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6ICdoZWxsbycK</text>
+        <text encoding="base64">ICAgICAgICBiaW86IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3BvbnNlJywgcmVzcG9uc2UuYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6ICdoZWxsbycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZnRlciBhbGwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3BvbnNlJywgcmVzcG9uc2UuYm9keSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdVc2VyJywgVXNlcik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZnRlciBhbGwnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/profiles/articles/g</text>
       </register>
     </registers>
     <search>
-      <last-search>toProf</last-search>
+      <last-search>coverage</last-search>
       <last-offset />
-      <last-pattern>toProf</last-pattern>
+      <last-pattern>coverage</last-pattern>
       <last-replace>articles</last-replace>
       <last-substitute>profiles</last-substitute>
       <last-dir>1</last-dir>
@@ -3139,7 +3121,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>ISO</entry>
         <entry>firstSet</entry>
         <entry>moment</entry>
@@ -3159,6 +3140,7 @@
         <entry>app</entry>
         <entry>jest</entry>
         <entry>toProf</entry>
+        <entry>coverage</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this\.//g</entry>
