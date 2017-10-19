@@ -2856,7 +2856,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>docs</text>
+        <text>modult</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtb2R1bGUuZXhwb3J0cyA9IHsKICAgIG1vbmdvVVJJOiAnbW9uZ29kYjovL2FkbWluOnBhc3NAZHMxMzEzNDAubWxhYi5jb206MzEzNDAvbGlicnUnLAogICAgY2xpZW50SUQ6ICcxMTM0MDk4NzM3OTkuMjA0NzQ3NDIxMzc3JywKICAgIGNsaWVudFNlY3JldDogJ2U5MDljNTgyYWIxM2NkYmFhNjMzNmExYzcwYWY0Y2MxJywKICAgIHNlc3Npb25TZWNyZXQ6IHsgc2VjcmV0OiAnc2VjcmV0ISEhJyB9LAogIH07Cg==</text>
@@ -2893,9 +2893,9 @@
       </register>
     </registers>
     <search>
-      <last-search>docs</last-search>
+      <last-search>modult</last-search>
       <last-offset />
-      <last-pattern>docs</last-pattern>
+      <last-pattern>modult</last-pattern>
       <last-replace>articles</last-replace>
       <last-substitute>profiles</last-substitute>
       <last-dir>1</last-dir>
@@ -2903,7 +2903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>firstSet</entry>
         <entry>moment</entry>
         <entry>saved</entry>
         <entry>&quot;</entry>
@@ -2923,6 +2922,7 @@
         <entry>toProf</entry>
         <entry>coverage</entry>
         <entry>docs</entry>
+        <entry>modult</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this\.//g</entry>
