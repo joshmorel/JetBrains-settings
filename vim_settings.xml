@@ -920,6 +920,11 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/config/index.js" timestamp="1508414257517">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIcon.js" timestamp="1506861709503">
         <mark key="[" line="33" column="62" />
         <mark key="]" line="47" column="6" />
@@ -1162,11 +1167,11 @@
       <jump line="5" column="7" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/tests/post.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBgeWFybmAK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>e</text>
       </register>
       <register name="m" type="4">
         <keys>
