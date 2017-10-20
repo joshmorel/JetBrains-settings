@@ -1077,10 +1077,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="20" column="18" />
       </file>
+      <file name="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" timestamp="1508501265924">
+        <mark key="'" line="6" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="5" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/actions/actionTypes.js" />
       <jump line="128" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="180" column="11" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="103" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
@@ -1179,6 +1180,8 @@
       <jump line="153" column="153" filename="$USER_HOME$/git/forked-repos/jest/docs/CLI.md" />
       <jump line="161" column="71" filename="$USER_HOME$/git/forked-repos/jest/docs/CLI.md" />
       <jump line="165" column="128" filename="$USER_HOME$/git/forked-repos/jest/docs/CLI.md" />
+      <jump line="9" column="19" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" />
+      <jump line="6" column="18" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2861,7 +2864,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>you</text>
+        <text>mp3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtb2R1bGUuZXhwb3J0cyA9IHsKICAgIG1vbmdvVVJJOiAnbW9uZ29kYjovL2FkbWluOnBhc3NAZHMxMzEzNDAubWxhYi5jb206MzEzNDAvbGlicnUnLAogICAgY2xpZW50SUQ6ICcxMTM0MDk4NzM3OTkuMjA0NzQ3NDIxMzc3JywKICAgIGNsaWVudFNlY3JldDogJ2U5MDljNTgyYWIxM2NkYmFhNjMzNmExYzcwYWY0Y2MxJywKICAgIHNlc3Npb25TZWNyZXQ6IHsgc2VjcmV0OiAnc2VjcmV0ISEhJyB9LAogIH07Cg==</text>
@@ -2898,9 +2901,9 @@
       </register>
     </registers>
     <search>
-      <last-search>you</last-search>
+      <last-search>mp3</last-search>
       <last-offset />
-      <last-pattern>you</last-pattern>
+      <last-pattern>mp3</last-pattern>
       <last-replace>articles</last-replace>
       <last-substitute>profiles</last-substitute>
       <last-dir>1</last-dir>
@@ -2908,7 +2911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eslint</entry>
         <entry>Header</entry>
         <entry>register</entry>
         <entry>route</entry>
@@ -2928,6 +2930,7 @@
         <entry>without</entry>
         <entry>auth</entry>
         <entry>you</entry>
+        <entry>mp3</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this\.//g</entry>
