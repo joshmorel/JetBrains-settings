@@ -1077,8 +1077,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" timestamp="1508501265924">
-        <mark key="'" line="6" column="18" />
+      <file name="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" timestamp="1508502709491">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="4" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -1185,10 +1189,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>identified</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>identified</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <keys>
