@@ -165,9 +165,6 @@
       </file>
       <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/models/User.js" timestamp="1508321660064">
         <mark key="[" line="6" column="37" />
-        <mark key="]" line="36" column="92" />
-        <mark key="^" line="36" column="92" />
-        <mark key="." line="36" column="92" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/About.js" timestamp="1507192177067">
         <mark key="[" line="11" column="60" />
@@ -300,11 +297,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508413870491">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="56" />
-        <mark key="." line="37" column="56" />
-        <mark key="^" line="37" column="56" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508540140420">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/ClockWidget/ClockWidget.css" timestamp="1507068385835">
         <mark key="[" line="8" column="21" />
@@ -622,6 +619,10 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/all-resources.js" timestamp="1508539559905">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="45" column="1" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/Icon.js" timestamp="1507054181614">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="9" />
@@ -824,10 +825,11 @@
         <mark key="^" line="47" column="6" />
         <mark key="." line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508538834635">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508539722274">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/.env" timestamp="1507812272573">
         <mark key="[" line="5" column="43" />
@@ -1183,10 +1185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin:pass@ds131340.mlab.com:31340</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>admin:pass@ds131340.mlab.com:31340</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2865,34 +2867,34 @@
         <text>mp3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vbmdvVVJJOiAnbW9uZ29kYjovL2FkbWluOnBhc3NAZHMxMzEzNDAubWxhYi5jb206MzEzNDAvbGlicnUnLAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2VJbWFnZVVSTCkudG9FcXVhbChyZXNvdXJjZURhdGEucmVzb3VyY2VJbWFnZVVSTCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBnZXRJbmRpdmlkdWFsUmVzb3VyY2UocmVxLnBhcmFtcy5pZCkKICAgIC50aGVuKChyZXNwb25zZSwgZXJyb3IpID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmVzLmpzb24oZmFsc2UpOwogICAgICB9IGVsc2UgewogICAgICAgIHJlcy5qc29uKHJlc3BvbnNlKTsKICAgICAgfQogICAgfSkKICAgIC5jYXRjaChuZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIHRvIHJ1biBvbmx5IHNlcnZlciB0ZXN0cyBydW4gYHlhcm4gcnVuIHRlc3Q6c2VydmVyYAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2VHb2VzT25TYWxlKS50b0VxdWFsKGZhbHNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlID0gbmV3IFJlc291cmNlKHJlc291cmNlRGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBgeWFybmAK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGNvbnNpZGVyIGlmIHdlIHdhbnQgdG8gcG9zdCB0aGUgcmVzb3VyY2UgaW4gYmVmb3JlQWxsLCBvciBzYXZlIHZpYSBtb25nb29zZSBmb3IgdGVzdGluZwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogIl4yMS4yLjEiLAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGNvbnNpZGVyIGlmIHdlIHdhbnQgdG8gcG9zdCB0aGUgcmVzb3VyY2UgaW4gYmVmb3JlQWxsLCBvciBzYXZlIHZpYSBtb25nb29zZSBmb3IgdGVzdGluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJodHRwLXN0YXR1cyI6ICJeMS4wLjEiLAo=</text>
+        <text encoding="base64">ICBhcHAuc2VydmVyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcG9ydCA9IHByb2Nlc3MuZW52LlBPUlQgfHwgMzAwMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi9jb25maWcuanMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/profiles/articles/g</text>
