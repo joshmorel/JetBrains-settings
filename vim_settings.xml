@@ -297,11 +297,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508540140420">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508542170301">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/ClockWidget/ClockWidget.css" timestamp="1507068385835">
         <mark key="[" line="8" column="21" />
@@ -813,11 +813,11 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508538337264">
-        <mark key="[" line="66" column="2" />
-        <mark key="]" line="61" column="4" />
-        <mark key="^" line="61" column="4" />
-        <mark key="." line="61" column="4" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/models/resourceModel.js" timestamp="1508540838432">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="63" />
+        <mark key="^" line="4" column="63" />
+        <mark key="." line="4" column="63" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/WeatherWidget/WeatherIcon.js" timestamp="1506861709503">
         <mark key="[" line="33" column="62" />
@@ -825,11 +825,11 @@
         <mark key="^" line="47" column="6" />
         <mark key="." line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508539722274">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-        <mark key="^" line="2" column="4" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508542266418">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/.env" timestamp="1507812272573">
         <mark key="[" line="5" column="43" />
@@ -1082,8 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
-      <jump line="180" column="11" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="103" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="117" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
       <jump line="65" column="46" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
@@ -1182,13 +1180,15 @@
       <jump line="165" column="128" filename="$USER_HOME$/git/forked-repos/jest/docs/CLI.md" />
       <jump line="9" column="19" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" />
       <jump line="6" column="18" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" />
+      <jump line="67" column="0" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>?</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2864,54 +2864,53 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>mp3</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2VJbWFnZVVSTCkudG9FcXVhbChyZXNvdXJjZURhdGEucmVzb3VyY2VJbWFnZVVSTCk7Cg==</text>
+        <text encoding="base64">ICB0ZXN0KCcjIyAvYXBpL3Jlc291cmNlIEdFVCBieSBleGlzdGluZyBpZCcsIGRvbmUgPT4gewogICAgY29uc3QgcmVzb3VyY2VEYXRhID0gewogICAgICB0aXRsZTogJ1Rlc3QgUmVzb3VyY2UnLAogICAgICByZXNvdXJjZVVybDogJ2h0dHA6Ly9yZXNvdXJjZS5jb20nLAogICAgICByZXNvdXJjZUltYWdlVXJsOiAnaHR0cDovL3Jlc291cmNlLmNvbS9pbWFnZS5wbmcnLAogICAgICByZXNvdXJjZURlc2NyaXB0aW9uOiAnVGVzdCByZXNvdXJjZSBkZXNjcmlwdGlvbicKICAgIH07CiAgICBjb25zdCByZXNvdXJjZSA9IG5ldyBSZXNvdXJjZShyZXNvdXJjZURhdGEpOwogICAgLy8gVE9ETzogY29uc2lkZXIgaWYgd2Ugd2FudCB0byBwb3N0IHRoZSByZXNvdXJjZSBpbiBiZWZvcmVBbGwsIG9yIHNhdmUgdmlhIG1vbmdvb3NlIGZvciB0ZXN0aW5nCiAgICByZXNvdXJjZQogICAgICAuc2F2ZSgpCiAgICAgIC50aGVuKHNhdmVkUmVzb3VyY2UgPT4gewogICAgICAgIHJldHVybiByZXF1ZXN0KGFwcCkKICAgICAgICAgIC5nZXQoYC9hcGkvcmVzb3VyY2UvJHtzYXZlZFJlc291cmNlLl9pZH1gKQogICAgICAgICAgLmV4cGVjdCgyMDApOwogICAgICB9KQogICAgICAudGhlbihyZXMgPT4gewogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS50aXRsZSkudG9FcXVhbChyZXNvdXJjZURhdGEudGl0bGUpOwogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS5yZXNvdXJjZVVybCkudG9FcXVhbChyZXNvdXJjZURhdGEucmVzb3VyY2VVcmwpOwogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS5yZXNvdXJjZUltYWdlVXJsKS50b0VxdWFsKAogICAgICAgICAgcmVzb3VyY2VEYXRhLnJlc291cmNlSW1hZ2VVcmwKICAgICAgICApOwogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS5yZXNvdXJjZURlc2NyaXB0aW9uKS50b0VxdWFsKAogICAgICAgICAgcmVzb3VyY2VEYXRhLnJlc291cmNlRGVzY3JpcHRpb24KICAgICAgICApOwogICAgICAgIGRvbmUoKTsKICAgICAgfSkKICAgICAgLmNhdGNoKGRvbmUpOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2VHb2VzT25TYWxlKS50b0VxdWFsKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlID0gbmV3IFJlc291cmNlKHJlc291cmNlRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGNvbnNpZGVyIGlmIHdlIHdhbnQgdG8gcG9zdCB0aGUgcmVzb3VyY2UgaW4gYmVmb3JlQWxsLCBvciBzYXZlIHZpYSBtb25nb29zZSBmb3IgdGVzdGluZwo=</text>
+        <text encoding="base64">ICAgIC50aGVuKHJlcyA9PiB7CiAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS50aXRsZSkudG9FcXVhbChyZXNvdXJjZURhdGEudGl0bGUpOwogICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2UucmVzb3VyY2VVcmwpLnRvRXF1YWwocmVzb3VyY2VEYXRhLnJlc291cmNlVXJsKTsKICAgICAgZXhwZWN0KHJlcy5ib2R5LnJlc291cmNlLnJlc291cmNlSW1hZ2VVcmwpLnRvRXF1YWwoCiAgICAgICAgICByZXNvdXJjZURhdGEucmVzb3VyY2VJbWFnZVVybAogICAgICApOwogICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2UucmVzb3VyY2VEZXNjcmlwdGlvbikudG9FcXVhbCgKICAgICAgICAgIHJlc291cmNlRGF0YS5yZXNvdXJjZURlc2NyaXB0aW9uCiAgICAgICk7CiAgICAgIGRvbmUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlCiAgICAuc2F2ZSgpCiAgICAudGhlbihzYXZlZFJlc291cmNlID0+IHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE86IGNvbnNpZGVyIGlmIHdlIHdhbnQgdG8gcG9zdCB0aGUgcmVzb3VyY2UgaW4gYmVmb3JlQWxsLCBvciBzYXZlIHZpYSBtb25nb29zZSBmb3IgdGVzdGluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHAuc2VydmVyLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlID0gbmV3IFJlc291cmNlKHJlc291cmNlRGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlRGF0YSA9IHsKICAgICAgdGl0bGU6ICdUZXN0IFJlc291cmNlJywKICAgICAgcmVzb3VyY2VVcmw6ICdodHRwOi8vcmVzb3VyY2UuY29tJywKICAgICAgcmVzb3VyY2VJbWFnZVVybDogJ2h0dHA6Ly9yZXNvdXJjZS5jb20vaW1hZ2UucG5nJywKICAgICAgcmVzb3VyY2VEZXNjcmlwdGlvbjogJ1Rlc3QgcmVzb3VyY2UgZGVzY3JpcHRpb24nCiAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/profiles/articles/g</text>
+        <text>s/title/resourceDescription/g</text>
       </register>
     </registers>
     <search>
-      <last-search>mp3</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>mp3</last-pattern>
-      <last-replace>articles</last-replace>
-      <last-substitute>profiles</last-substitute>
+      <last-pattern>title</last-pattern>
+      <last-replace>resourceDescription</last-replace>
+      <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Header</entry>
         <entry>register</entry>
         <entry>route</entry>
         <entry>username</entry>
@@ -2931,10 +2930,9 @@
         <entry>auth</entry>
         <entry>you</entry>
         <entry>mp3</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/this\.//g</entry>
-        <entry>%s/onContentChange/updateNote/g</entry>
         <entry>s/REHYDRATE/SAVE/g</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLnN0YXRlLlwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLnN0YXRlXC4vZw==</entry>
@@ -2953,6 +2951,8 @@
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2ltYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
         <entry>s/profiles/articles/g</entry>
+        <entry>s/title/resourceImageUrl/g</entry>
+        <entry>s/title/resourceDescription/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
