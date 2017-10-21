@@ -52,6 +52,9 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" timestamp="1508544688341">
+        <mark key="'" line="35" column="1" />
+      </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/BackgroundWidget/BackgroundWidget.css" timestamp="1507078330152">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="13" />
@@ -114,6 +117,12 @@
         <mark key="]" line="9" column="15" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/server.js" timestamp="1508544790352">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="74" column="23" />
+        <mark key="^" line="74" column="23" />
+        <mark key="." line="74" column="23" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/InputsNoRedux/TextArea.js" timestamp="1507156759500">
         <mark key="[" line="8" column="17" />
@@ -214,6 +223,12 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/package.json" timestamp="1508545106828">
+        <mark key="[" line="43" column="3" />
+        <mark key="]" line="44" column="8" />
+        <mark key="^" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/UserListContainer.js" timestamp="1506290334345">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="2" column="34" />
@@ -297,11 +312,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508542170301">
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="55" column="11" />
-        <mark key="^" line="55" column="11" />
-        <mark key="." line="55" column="11" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" timestamp="1508544229991">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="73" column="11" />
       </file>
       <file name="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/ClockWidget/ClockWidget.css" timestamp="1507068385835">
         <mark key="[" line="8" column="21" />
@@ -530,6 +545,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" timestamp="1508542655806">
+        <mark key="'" line="141" column="30" />
+      </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/EventHandling/AutoBinding.js" timestamp="1505773641197">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="20" />
@@ -628,12 +646,6 @@
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/src/redux/actions/actions.js" timestamp="1508411345749">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/git/edu-repos/coursework/react-rrn-boduch/src/examples/ComponentLifecycle/MyUser.js" timestamp="1506285532896">
         <mark key="[" line="31" column="1" />
@@ -825,11 +837,11 @@
         <mark key="^" line="47" column="6" />
         <mark key="." line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508542266418">
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
+      <file name="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/api/resource.js" timestamp="1508544609267">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/git/sed-repos/software-engineering-daily-api/.env" timestamp="1507812272573">
         <mark key="[" line="5" column="43" />
@@ -1082,26 +1094,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
-      <jump line="117" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/OptionsWidget.js" />
-      <jump line="65" column="46" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="46" column="37" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="45" column="32" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="44" column="29" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="32" column="37" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="31" column="27" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="30" column="24" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="12" column="19" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="10" column="14" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/OptionsWidget/sections/LinksOptions.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
-      <jump line="85" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
-      <jump line="10" column="34" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/LinksWidget/LinksWidget.js" />
-      <jump line="33" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
-      <jump line="31" column="6" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="35" column="4" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="36" column="21" filename="$USER_HOME$/git/fcc-repos/voyage1-turtles-team-38/src/components/common/SlidingWidget.js" />
       <jump line="61" column="4" filename="$USER_HOME$/git/sed-repos/software-engineering-daily-api/server/models/post.model.js" />
@@ -1182,13 +1174,33 @@
       <jump line="6" column="18" filename="$USER_HOME$/git/sed-repos/sedaily-front-end/src/components/Item.vue" />
       <jump line="67" column="0" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" />
       <jump line="68" column="10" filename="$USER_HOME$/git/fcc-repos/Voyage2-Bears-04/server/tests/resource.test.js" />
+      <jump line="148" column="74" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="153" column="17" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="166" column="56" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="167" column="21" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="175" column="14" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="177" column="19" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="178" column="11" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="182" column="20" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="189" column="35" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="194" column="10" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="195" column="36" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="199" column="32" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="126" column="23" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="133" column="41" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="134" column="6" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="135" column="6" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="137" column="13" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="138" column="34" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="141" column="30" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/routes/api/articles.js" />
+      <jump line="35" column="1" filename="$USER_HOME$/git/realworld-repos/node-express-realworld-example-app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzdGFydCI6ICJjb25jdXJyZW50bHkgXCJ5YXJuIHJ1biBzdGFydDpjbGllbnRcIiBcInlhcm4gcnVuIHN0YXJ0OnNlcnZlclwiIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2864,46 +2876,46 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0KCcjIyAvYXBpL3Jlc291cmNlIEdFVCBieSBleGlzdGluZyBpZCcsIGRvbmUgPT4gewogICAgY29uc3QgcmVzb3VyY2VEYXRhID0gewogICAgICB0aXRsZTogJ1Rlc3QgUmVzb3VyY2UnLAogICAgICByZXNvdXJjZVVybDogJ2h0dHA6Ly9yZXNvdXJjZS5jb20nLAogICAgICByZXNvdXJjZUltYWdlVXJsOiAnaHR0cDovL3Jlc291cmNlLmNvbS9pbWFnZS5wbmcnLAogICAgICByZXNvdXJjZURlc2NyaXB0aW9uOiAnVGVzdCByZXNvdXJjZSBkZXNjcmlwdGlvbicKICAgIH07CiAgICBjb25zdCByZXNvdXJjZSA9IG5ldyBSZXNvdXJjZShyZXNvdXJjZURhdGEpOwogICAgLy8gVE9ETzogY29uc2lkZXIgaWYgd2Ugd2FudCB0byBwb3N0IHRoZSByZXNvdXJjZSBpbiBiZWZvcmVBbGwsIG9yIHNhdmUgdmlhIG1vbmdvb3NlIGZvciB0ZXN0aW5nCiAgICByZXNvdXJjZQogICAgICAuc2F2ZSgpCiAgICAgIC50aGVuKHNhdmVkUmVzb3VyY2UgPT4gewogICAgICAgIHJldHVybiByZXF1ZXN0KGFwcCkKICAgICAgICAgIC5nZXQoYC9hcGkvcmVzb3VyY2UvJHtzYXZlZFJlc291cmNlLl9pZH1gKQogICAgICAgICAgLmV4cGVjdCgyMDApOwogICAgICB9KQogICAgICAudGhlbihyZXMgPT4gewogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS50aXRsZSkudG9FcXVhbChyZXNvdXJjZURhdGEudGl0bGUpOwogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS5yZXNvdXJjZVVybCkudG9FcXVhbChyZXNvdXJjZURhdGEucmVzb3VyY2VVcmwpOwogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS5yZXNvdXJjZUltYWdlVXJsKS50b0VxdWFsKAogICAgICAgICAgcmVzb3VyY2VEYXRhLnJlc291cmNlSW1hZ2VVcmwKICAgICAgICApOwogICAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS5yZXNvdXJjZURlc2NyaXB0aW9uKS50b0VxdWFsKAogICAgICAgICAgcmVzb3VyY2VEYXRhLnJlc291cmNlRGVzY3JpcHRpb24KICAgICAgICApOwogICAgICAgIGRvbmUoKTsKICAgICAgfSkKICAgICAgLmNhdGNoKGRvbmUpOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJjb25jdXJyZW50bHkgXCJ5YXJuIHJ1biBzdGFydDpjbGllbnRcIiBcInlhcm4gcnVuIHN0YXJ0OnNlcnZlclwiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVxJywgcmVxLmJvZHkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVxJywgcmVxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlcyA9PiB7CiAgICAgIGV4cGVjdChyZXMuYm9keS5yZXNvdXJjZS50aXRsZSkudG9FcXVhbChyZXNvdXJjZURhdGEudGl0bGUpOwogICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2UucmVzb3VyY2VVcmwpLnRvRXF1YWwocmVzb3VyY2VEYXRhLnJlc291cmNlVXJsKTsKICAgICAgZXhwZWN0KHJlcy5ib2R5LnJlc291cmNlLnJlc291cmNlSW1hZ2VVcmwpLnRvRXF1YWwoCiAgICAgICAgICByZXNvdXJjZURhdGEucmVzb3VyY2VJbWFnZVVybAogICAgICApOwogICAgICBleHBlY3QocmVzLmJvZHkucmVzb3VyY2UucmVzb3VyY2VEZXNjcmlwdGlvbikudG9FcXVhbCgKICAgICAgICAgIHJlc291cmNlRGF0YS5yZXNvdXJjZURlc2NyaXB0aW9uCiAgICAgICk7CiAgICAgIGRvbmUoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlCiAgICAuc2F2ZSgpCiAgICAudGhlbihzYXZlZFJlc291cmNlID0+IHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE86IGNvbnNpZGVyIGlmIHdlIHdhbnQgdG8gcG9zdCB0aGUgcmVzb3VyY2UgaW4gYmVmb3JlQWxsLCBvciBzYXZlIHZpYSBtb25nb29zZSBmb3IgdGVzdGluZwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzJywgcmVzKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlID0gbmV3IFJlc291cmNlKHJlc291cmNlRGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlRGF0YSA9IHsKICAgICAgdGl0bGU6ICdUZXN0IFJlc291cmNlJywKICAgICAgcmVzb3VyY2VVcmw6ICdodHRwOi8vcmVzb3VyY2UuY29tJywKICAgICAgcmVzb3VyY2VJbWFnZVVybDogJ2h0dHA6Ly9yZXNvdXJjZS5jb20vaW1hZ2UucG5nJywKICAgICAgcmVzb3VyY2VEZXNjcmlwdGlvbjogJ1Rlc3QgcmVzb3VyY2UgZGVzY3JpcHRpb24nCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzLmJvZHlbMF0pLnRvRXF1YWwoW10pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/title/resourceDescription/g</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>resourceDescription</last-replace>
       <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
@@ -2911,8 +2923,6 @@
     </search>
     <history>
       <history-search>
-        <entry>register</entry>
-        <entry>route</entry>
         <entry>username</entry>
         <entry>nodemon</entry>
         <entry>api</entry>
@@ -2931,6 +2941,8 @@
         <entry>you</entry>
         <entry>mp3</entry>
         <entry>title</entry>
+        <entry>comment</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>s/REHYDRATE/SAVE/g</entry>
