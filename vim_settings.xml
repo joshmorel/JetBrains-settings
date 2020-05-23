@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="5" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/fcc-repos/leoh-form-html/app.js" timestamp="1506277291548">
